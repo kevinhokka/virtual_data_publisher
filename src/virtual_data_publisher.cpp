@@ -7,10 +7,10 @@
 #include <fstream>
 #include <string>
 
-class VirtualDataPublisher : public rclcpp::Node {
+class VirtualOdometryPublisher : public rclcpp::Node {
 public:
-    VirtualDataPublisher()
-    : Node("virtual_data_publisher"),
+    VirtualOdometryPublisher()
+    : Node("virtual_odometry_publisher"),
       odom_publisher_(this->create_publisher<nav_msgs::msg::Odometry>("/Odometry", 10)),
       current_x_(0.0), current_y_(0.0), current_yaw_(0.0),
       current_linear_velocity_(0.0), current_angular_velocity_(0.0)
@@ -18,12 +18,12 @@ public:
         // 设置10Hz发布速率
         timer_ = this->create_wall_timer(
             std::chrono::milliseconds(100),  // 10Hz发布频率
-            std::bind(&VirtualDataPublisher::publish_virtual_data, this)
+            std::bind(&VirtualOdometryPublisher::publish_virtual_odometry, this)
         );
 
         // 订阅 /cmd_vel 来获取目标的速度命令
         cmd_vel_subscription_ = this->create_subscription<geometry_msgs::msg::Twist>(
-            "/traj", 10, std::bind(&VirtualDataPublisher::cmd_vel_callback, this, std::placeholders::_1));
+            "/cmd_vel", 10, std::bind(&VirtualOdometryPublisher::cmd_vel_callback, this, std::placeholders::_1));
 
         // 创建日志文件
         std::string log_dir = "/home/jetson/ros2_ws/src/virtual_data_publisher/logs";
@@ -36,7 +36,7 @@ public:
         }
     }
 
-    ~VirtualDataPublisher() {
+    ~VirtualOdometryPublisher() {
         if (log_file_.is_open()) {
             log_file_.close();  // 确保文件在节点退出时被关闭
         }
@@ -68,45 +68,50 @@ private:
         return dist(generator_);
     }
 
-    void publish_virtual_data() {
+    void publish_virtual_odometry() {
+        // 使用 target_linear_velocity_ 和 target_angular_velocity_ 来更新位置和朝向
+        current_linear_velocity_ = target_linear_velocity_;  // 更新当前线速度
+        current_angular_velocity_ = target_angular_velocity_;  // 更新当前角速度
+    
         // 计算当前的位置和朝向，并加噪声
-        double delta_x = (current_linear_velocity_ + generate_noise(0.00)) * std::cos(current_yaw_) * 0.1;  // 0.1秒的位移，加噪声
-        double delta_y = (current_linear_velocity_ + generate_noise(0.00)) * std::sin(current_yaw_) * 0.1;  // 0.1秒的位移，加噪声
-        double delta_yaw = (current_angular_velocity_ + generate_noise(0.00)) * 0.1;  // 0.1秒的角度变化，加噪声
-
+        double delta_x = current_linear_velocity_ * std::cos(current_yaw_) * 0.1;  // 0.1秒的位移
+        double delta_y = current_linear_velocity_ * std::sin(current_yaw_) * 0.1;  // 0.1秒的位移
+        double delta_yaw = current_angular_velocity_ * 0.1;  // 0.1秒的角度变化
+    
         // 更新当前位置和朝向
         current_x_ += delta_x;
         current_y_ += delta_y;
         current_yaw_ += delta_yaw;
-
+    
         // 确保yaw在 -π 到 π 之间
         if (current_yaw_ > M_PI) {
             current_yaw_ -= 2 * M_PI;
         } else if (current_yaw_ < -M_PI) {
             current_yaw_ += 2 * M_PI;
         }
-
+    
         // 创建Odometry消息
         nav_msgs::msg::Odometry odom_msg;
         odom_msg.header.stamp = this->now();
         odom_msg.header.frame_id = "odom";
-
+    
         // 设置位置和朝向
         odom_msg.pose.pose.position.x = current_x_;
         odom_msg.pose.pose.position.y = current_y_;
         odom_msg.pose.pose.orientation.z = std::sin(current_yaw_ / 2.0);
         odom_msg.pose.pose.orientation.w = std::cos(current_yaw_ / 2.0);
-
+    
         // 设置线速度和角速度
-        odom_msg.twist.twist.linear.x = target_linear_velocity_;
-        odom_msg.twist.twist.angular.z = target_angular_velocity_;
-
+        odom_msg.twist.twist.linear.x = current_linear_velocity_;
+        odom_msg.twist.twist.angular.z = current_angular_velocity_;
+    
         // 发布Odometry话题
         odom_publisher_->publish(odom_msg);
-
+    
         // 记录日志
         log_file_ << "Published Odometry - x: " << odom_msg.pose.pose.position.x
                   << ", y: " << odom_msg.pose.pose.position.y
+                  << ", yaw: " << current_yaw_  // 添加朝向
                   << ", Linear Velocity: " << odom_msg.twist.twist.linear.x
                   << ", Angular Velocity: " << odom_msg.twist.twist.angular.z << std::endl;
     }
@@ -128,7 +133,7 @@ private:
 
 int main(int argc, char * argv[]) {
     rclcpp::init(argc, argv);
-    rclcpp::spin(std::make_shared<VirtualDataPublisher>());
+    rclcpp::spin(std::make_shared<VirtualOdometryPublisher>());
     rclcpp::shutdown();
     return 0;
 }

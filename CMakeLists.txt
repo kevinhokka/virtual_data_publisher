@@ -13,10 +13,10 @@ find_package(geometry_msgs REQUIRED)
 find_package(nav_msgs REQUIRED)
 
 # 添加源代码目录
-add_executable(virtual_data_publisher_node src/virtual_data_publisher.cpp)
+add_executable(virtual_data_publisher src/virtual_data_publisher.cpp)
 
 # 链接依赖库
-ament_target_dependencies(virtual_data_publisher_node
+ament_target_dependencies(virtual_data_publisher
   rclcpp
   geometry_msgs
   nav_msgs
@@ -24,7 +24,7 @@ ament_target_dependencies(virtual_data_publisher_node
 
 # 安装可执行文件
 install(TARGETS
-  virtual_data_publisher_node
+  virtual_data_publisher
   DESTINATION lib/${PROJECT_NAME}
 )
 
