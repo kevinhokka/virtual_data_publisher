@@ -1,6 +1,7 @@
 #include "rclcpp/rclcpp.hpp"
 #include "geometry_msgs/msg/twist.hpp"
 #include "nav_msgs/msg/odometry.hpp"
+#include "sensor_msgs/msg/imu.hpp"
 #include <random>
 #include <cmath>
 #include <chrono>
@@ -12,6 +13,7 @@ public:
     VirtualOdometryPublisher()
     : Node("virtual_odometry_publisher"),
       odom_publisher_(this->create_publisher<nav_msgs::msg::Odometry>("/fastlio2/lio_odom", 10)),
+      imu_publisher_(this->create_publisher<sensor_msgs::msg::Imu>("/livox/imu", 10)),
       current_x_(0.0), current_y_(0.0), current_yaw_(0.0),
       current_linear_velocity_(0.0), current_angular_velocity_(0.0)
     {

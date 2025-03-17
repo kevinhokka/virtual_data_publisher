@@ -11,6 +11,7 @@ find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(geometry_msgs REQUIRED)
 find_package(nav_msgs REQUIRED)
+find_package(sensor_msgs REQUIRED)
 
 # 添加源代码目录
 add_executable(virtual_data_publisher src/virtual_data_publisher.cpp)
@@ -20,6 +21,7 @@ ament_target_dependencies(virtual_data_publisher
   rclcpp
   geometry_msgs
   nav_msgs
+  sensor_msgs
 )
 
 # 安装可执行文件
