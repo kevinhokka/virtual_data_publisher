@@ -11,7 +11,7 @@ class VirtualOdometryPublisher : public rclcpp::Node {
 public:
     VirtualOdometryPublisher()
     : Node("virtual_odometry_publisher"),
-      odom_publisher_(this->create_publisher<nav_msgs::msg::Odometry>("/Odometry", 10)),
+      odom_publisher_(this->create_publisher<nav_msgs::msg::Odometry>("/fastlio2/lio_odom", 10)),
       current_x_(0.0), current_y_(0.0), current_yaw_(0.0),
       current_linear_velocity_(0.0), current_angular_velocity_(0.0)
     {
@@ -72,11 +72,11 @@ private:
         // 使用 target_linear_velocity_ 和 target_angular_velocity_ 来更新位置和朝向
         current_linear_velocity_ = target_linear_velocity_;  // 更新当前线速度
         current_angular_velocity_ = target_angular_velocity_;  // 更新当前角速度
-    
-        // 计算当前的位置和朝向，并加噪声
-        double delta_x = current_linear_velocity_ * std::cos(current_yaw_) * 0.1;  // 0.1秒的位移
-        double delta_y = current_linear_velocity_ * std::sin(current_yaw_) * 0.1;  // 0.1秒的位移
-        double delta_yaw = current_angular_velocity_ * 0.1;  // 0.1秒的角度变化
+
+        // 计算当前的位置和朝向（这里假设0.1秒内的运动）
+        double delta_x = current_linear_velocity_ * std::cos(current_yaw_) * 0.1;
+        double delta_y = current_linear_velocity_ * std::sin(current_yaw_) * 0.1;
+        double delta_yaw = current_angular_velocity_ * 0.1;
     
         // 更新当前位置和朝向
         current_x_ += delta_x;
@@ -90,7 +90,7 @@ private:
             current_yaw_ += 2 * M_PI;
         }
     
-        // 创建Odometry消息
+        // 创建并发布Odometry消息
         nav_msgs::msg::Odometry odom_msg;
         odom_msg.header.stamp = this->now();
         odom_msg.header.frame_id = "odom";
@@ -103,20 +103,37 @@ private:
     
         // 设置线速度和角速度
         odom_msg.twist.twist.linear.x = current_linear_velocity_;
-        odom_msg.twist.twist.angular.z = current_angular_velocity_;
+        // odom_msg.twist.twist.angular.z = current_angular_velocity_;
+        odom_msg.twist.twist.angular.z = 0;
     
-        // 发布Odometry话题
         odom_publisher_->publish(odom_msg);
+    
+        // 创建并发布IMU消息，用于模拟发布角速度
+        sensor_msgs::msg::Imu imu_msg;
+        imu_msg.header.stamp = this->now();
+        imu_msg.header.frame_id = "imu_link";
+        // 这里我们只设置角速度，x和y可以设置为0，z为当前角速度
+        imu_msg.angular_velocity.x = 0.0;
+        imu_msg.angular_velocity.y = 0.0;
+        imu_msg.angular_velocity.z = current_angular_velocity_;
+        // 其他字段（如线加速度和姿态）可以根据需要进行设置
+        imu_publisher_->publish(imu_msg);
     
         // 记录日志
         log_file_ << "Published Odometry - x: " << odom_msg.pose.pose.position.x
                   << ", y: " << odom_msg.pose.pose.position.y
-                  << ", yaw: " << current_yaw_  // 添加朝向
+                  << ", yaw: " << current_yaw_
                   << ", Linear Velocity: " << odom_msg.twist.twist.linear.x
                   << ", Angular Velocity: " << odom_msg.twist.twist.angular.z << std::endl;
+    
+        log_file_ << "Published IMU - Angular Velocity: ["
+                  << imu_msg.angular_velocity.x << ", "
+                  << imu_msg.angular_velocity.y << ", "
+                  << imu_msg.angular_velocity.z << "]" << std::endl;
     }
 
     rclcpp::Publisher<nav_msgs::msg::Odometry>::SharedPtr odom_publisher_;
+    rclcpp::Publisher<sensor_msgs::msg::Imu>::SharedPtr imu_publisher_;
     rclcpp::Subscription<geometry_msgs::msg::Twist>::SharedPtr cmd_vel_subscription_;
     rclcpp::TimerBase::SharedPtr timer_;
 
