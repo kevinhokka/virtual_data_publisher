@@ -1,0 +1,909 @@
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00147385, y: 0, yaw: -0.000165399, Actual Linear Velocity: -0.0147385, Actual Angular Velocity: -0.00165399
+Published IMU - Angular Velocity: [0, 0, -0.00165399]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00259801, y: 1.85936e-07, yaw: 0.000550059, Actual Linear Velocity: -0.0112416, Actual Angular Velocity: 0.00715459
+Published IMU - Angular Velocity: [0, 0, 0.00715459]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.000859241, y: 1.14236e-06, yaw: 0.000627725, Actual Linear Velocity: 0.0173877, Actual Angular Velocity: 0.000776655
+Published IMU - Angular Velocity: [0, 0, 0.000776655]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00272095, y: -2.6279e-08, yaw: 0.000746526, Actual Linear Velocity: -0.0186171, Actual Angular Velocity: 0.00118801
+Published IMU - Angular Velocity: [0, 0, 0.00118801]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00469016, y: -1.49634e-06, yaw: -0.000986105, Actual Linear Velocity: -0.0196921, Actual Angular Velocity: -0.0173263
+Published IMU - Angular Velocity: [0, 0, -0.0173263]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00394307, y: -2.23305e-06, yaw: 0.000735641, Actual Linear Velocity: 0.00747091, Actual Angular Velocity: 0.0172175
+Published IMU - Angular Velocity: [0, 0, 0.0172175]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00383535, y: -2.15381e-06, yaw: 0.00135132, Actual Linear Velocity: 0.00107715, Actual Angular Velocity: 0.00615676
+Published IMU - Angular Velocity: [0, 0, 0.00615676]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00303059, y: -1.06632e-06, yaw: 0.00240011, Actual Linear Velocity: 0.00804762, Actual Angular Velocity: 0.0104879
+Published IMU - Angular Velocity: [0, 0, 0.0104879]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00484073, y: -5.41086e-06, yaw: 0.00171305, Actual Linear Velocity: -0.0181014, Actual Angular Velocity: -0.00687063
+Published IMU - Angular Velocity: [0, 0, -0.00687063]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00381509, y: -3.65389e-06, yaw: 0.0011744, Actual Linear Velocity: 0.0102564, Actual Angular Velocity: -0.00538645
+Published IMU - Angular Velocity: [0, 0, -0.00538645]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00188489, y: -1.38706e-06, yaw: 0.00218782, Actual Linear Velocity: 0.019302, Actual Angular Velocity: 0.0101342
+Published IMU - Angular Velocity: [0, 0, 0.0101342]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00359414, y: -5.12661e-06, yaw: 0.00372665, Actual Linear Velocity: -0.0170926, Actual Angular Velocity: 0.0153883
+Published IMU - Angular Velocity: [0, 0, 0.0153883]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00384849, y: -6.0745e-06, yaw: 0.00363758, Actual Linear Velocity: -0.00254354, Actual Angular Velocity: -0.000890729
+Published IMU - Angular Velocity: [0, 0, -0.000890729]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00474886, y: -9.34967e-06, yaw: 0.00230361, Actual Linear Velocity: -0.00900373, Actual Angular Velocity: -0.0133397
+Published IMU - Angular Velocity: [0, 0, -0.0133397]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00315824, y: -5.68549e-06, yaw: 0.000545865, Actual Linear Velocity: 0.0159063, Actual Angular Velocity: -0.0175774
+Published IMU - Angular Velocity: [0, 0, -0.0175774]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00314015, y: -5.67562e-06, yaw: -0.000178003, Actual Linear Velocity: 0.000180916, Actual Angular Velocity: -0.00723868
+Published IMU - Angular Velocity: [0, 0, -0.00723868]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00316424, y: -5.67133e-06, yaw: -0.00181507, Actual Linear Velocity: -0.000240933, Actual Angular Velocity: -0.0163707
+Published IMU - Angular Velocity: [0, 0, -0.0163707]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00486924, y: -2.57663e-06, yaw: -0.0022785, Actual Linear Velocity: -0.01705, Actual Angular Velocity: -0.00463431
+Published IMU - Angular Velocity: [0, 0, -0.00463431]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00321398, y: -6.34816e-06, yaw: -0.00242072, Actual Linear Velocity: 0.0165527, Actual Angular Velocity: -0.00142217
+Published IMU - Angular Velocity: [0, 0, -0.00142217]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00501363, y: -1.99168e-06, yaw: -0.0013399, Actual Linear Velocity: -0.0179966, Actual Angular Velocity: 0.0108082
+Published IMU - Angular Velocity: [0, 0, 0.0108082]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00651217, y: 1.62113e-08, yaw: -0.00058608, Actual Linear Velocity: -0.0149854, Actual Angular Velocity: 0.00753821
+Published IMU - Angular Velocity: [0, 0, 0.00753821]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.005994, y: -2.8748e-07, yaw: 0.000315568, Actual Linear Velocity: 0.00518174, Actual Angular Velocity: 0.00901648
+Published IMU - Angular Velocity: [0, 0, 0.00901648]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00443971, y: 2.03004e-07, yaw: -0.000459145, Actual Linear Velocity: 0.0155429, Actual Angular Velocity: -0.00774713
+Published IMU - Angular Velocity: [0, 0, -0.00774713]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00438661, y: 1.78625e-07, yaw: 0.000924781, Actual Linear Velocity: 0.000530948, Actual Angular Velocity: 0.0138393
+Published IMU - Angular Velocity: [0, 0, 0.0138393]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00302057, y: 1.44192e-06, yaw: 0.00058636, Actual Linear Velocity: 0.0136604, Actual Angular Velocity: -0.00338422
+Published IMU - Angular Velocity: [0, 0, -0.00338422]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.0031489, y: 1.36667e-06, yaw: -0.000700329, Actual Linear Velocity: -0.00128331, Actual Angular Velocity: -0.0128669
+Published IMU - Angular Velocity: [0, 0, -0.0128669]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00286228, y: 1.16594e-06, yaw: -0.00256811, Actual Linear Velocity: 0.00286619, Actual Angular Velocity: -0.0186778
+Published IMU - Angular Velocity: [0, 0, -0.0186778]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00286836, y: 1.18155e-06, yaw: -0.00157494, Actual Linear Velocity: -6.07952e-05, Actual Angular Velocity: 0.00993171
+Published IMU - Angular Velocity: [0, 0, 0.00993171]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00130542, y: -1.28e-06, yaw: -0.000206785, Actual Linear Velocity: 0.0156295, Actual Angular Velocity: 0.0136816
+Published IMU - Angular Velocity: [0, 0, 0.0136816]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00245441, y: -1.04241e-06, yaw: -0.00168508, Actual Linear Velocity: -0.0114899, Actual Angular Velocity: -0.0147829
+Published IMU - Angular Velocity: [0, 0, -0.0147829]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00335606, y: 4.76935e-07, yaw: -0.0020279, Actual Linear Velocity: -0.00901647, Actual Angular Velocity: -0.00342827
+Published IMU - Angular Velocity: [0, 0, -0.00342827]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00251678, y: -1.22504e-06, yaw: -0.00306826, Actual Linear Velocity: 0.00839278, Actual Angular Velocity: -0.0104036
+Published IMU - Angular Velocity: [0, 0, -0.0104036]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00324662, y: 1.0143e-06, yaw: -0.00246003, Actual Linear Velocity: -0.00729842, Actual Angular Velocity: 0.00608235
+Published IMU - Angular Velocity: [0, 0, 0.00608235]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00252123, y: -7.70161e-07, yaw: -0.00290912, Actual Linear Velocity: 0.00725385, Actual Angular Velocity: -0.00449099
+Published IMU - Angular Velocity: [0, 0, -0.00449099]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.0039311, y: 3.33131e-06, yaw: -0.00152682, Actual Linear Velocity: -0.0140987, Actual Angular Velocity: 0.013823
+Published IMU - Angular Velocity: [0, 0, 0.013823]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00210946, y: 5.50003e-07, yaw: -0.00293421, Actual Linear Velocity: 0.0182164, Actual Angular Velocity: -0.0140739
+Published IMU - Angular Velocity: [0, 0, -0.0140739]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.0024744, y: 1.62079e-06, yaw: -0.00267462, Actual Linear Velocity: -0.00364933, Actual Angular Velocity: 0.00259595
+Published IMU - Angular Velocity: [0, 0, 0.00259595]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00252034, y: 1.74367e-06, yaw: -0.00083024, Actual Linear Velocity: -0.000459418, Actual Angular Velocity: 0.0184438
+Published IMU - Angular Velocity: [0, 0, 0.0184438]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00372131, y: 2.74076e-06, yaw: -0.000313163, Actual Linear Velocity: -0.0120097, Actual Angular Velocity: 0.00517077
+Published IMU - Angular Velocity: [0, 0, 0.00517077]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00311629, y: 2.5513e-06, yaw: 0.000899129, Actual Linear Velocity: 0.00605015, Actual Angular Velocity: 0.0121229
+Published IMU - Angular Velocity: [0, 0, 0.0121229]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00321057, y: 2.46653e-06, yaw: -0.00028787, Actual Linear Velocity: -0.000942728, Actual Angular Velocity: -0.01187
+Published IMU - Angular Velocity: [0, 0, -0.01187]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00160387, y: 2.00401e-06, yaw: -0.00171979, Actual Linear Velocity: 0.0160669, Actual Angular Velocity: -0.0143192
+Published IMU - Angular Velocity: [0, 0, -0.0143192]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00196262, y: 2.62098e-06, yaw: -0.000177192, Actual Linear Velocity: -0.00358748, Actual Angular Velocity: 0.0154259
+Published IMU - Angular Velocity: [0, 0, 0.0154259]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00331382, y: 2.86041e-06, yaw: -0.000715836, Actual Linear Velocity: -0.0135121, Actual Angular Velocity: -0.00538644
+Published IMU - Angular Velocity: [0, 0, -0.00538644]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00477339, y: 3.90521e-06, yaw: -0.000894607, Actual Linear Velocity: -0.0145956, Actual Angular Velocity: -0.00178771
+Published IMU - Angular Velocity: [0, 0, -0.00178771]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00496419, y: 4.0759e-06, yaw: 0.000832091, Actual Linear Velocity: -0.00190799, Actual Angular Velocity: 0.017267
+Published IMU - Angular Velocity: [0, 0, 0.017267]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00610319, y: 3.12815e-06, yaw: 0.00246778, Actual Linear Velocity: -0.0113901, Actual Angular Velocity: 0.0163569
+Published IMU - Angular Velocity: [0, 0, 0.0163569]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00465976, y: 6.69023e-06, yaw: 0.0024916, Actual Linear Velocity: 0.0144344, Actual Angular Velocity: 0.000238235
+Published IMU - Angular Velocity: [0, 0, 0.000238235]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00338952, y: 9.85518e-06, yaw: 0.00234058, Actual Linear Velocity: 0.0127025, Actual Angular Velocity: -0.0015102
+Published IMU - Angular Velocity: [0, 0, -0.0015102]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00285856, y: 1.10979e-05, yaw: 0.00363937, Actual Linear Velocity: 0.00530955, Actual Angular Velocity: 0.0129879
+Published IMU - Angular Velocity: [0, 0, 0.0129879]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00204974, y: 1.40415e-05, yaw: 0.00545703, Actual Linear Velocity: 0.00808827, Actual Angular Velocity: 0.0181766
+Published IMU - Angular Velocity: [0, 0, 0.0181766]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00289246, y: 9.44272e-06, yaw: 0.00551477, Actual Linear Velocity: -0.00842735, Actual Angular Velocity: 0.000577387
+Published IMU - Angular Velocity: [0, 0, 0.000577387]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00323634, y: 7.54628e-06, yaw: 0.00702103, Actual Linear Velocity: -0.00343886, Actual Angular Velocity: 0.0150626
+Published IMU - Angular Velocity: [0, 0, 0.0150626]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00231738, y: 1.39985e-05, yaw: 0.0078836, Actual Linear Velocity: 0.00918991, Actual Angular Velocity: 0.00862569
+Published IMU - Angular Velocity: [0, 0, 0.00862569]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: -0.00149126, y: 2.05114e-05, yaw: 0.00595997, Actual Linear Velocity: 0.00826142, Actual Angular Velocity: -0.0192363
+Published IMU - Angular Velocity: [0, 0, -0.0192363]
+Cmd Velocities - Linear: 1.09618, Angular: -1
+Published Odometry - x: 0.108081, y: 0.000673566, yaw: -0.0933118, Actual Linear Velocity: 1.09574, Actual Angular Velocity: -0.992718
+Published IMU - Angular Velocity: [0, 0, -0.992718]
+Cmd Velocities - Linear: 0.330946, Angular: -1
+Published Odometry - x: 0.139595, y: -0.0022756, yaw: -0.191354, Actual Linear Velocity: 0.316514, Actual Angular Velocity: -0.980426
+Published IMU - Angular Velocity: [0, 0, -0.980426]
+Cmd Velocities - Linear: 0.35862, Angular: -1
+Published Odometry - x: 0.174565, y: -0.00905029, yaw: -0.290128, Actual Linear Velocity: 0.356209, Actual Angular Velocity: -0.987734
+Published IMU - Angular Velocity: [0, 0, -0.987734]
+Cmd Velocities - Linear: 0.372262, Angular: -0.747446
+Published Odometry - x: 0.210682, y: -0.0198329, yaw: -0.366869, Actual Linear Velocity: 0.376916, Actual Angular Velocity: -0.767411
+Published IMU - Angular Velocity: [0, 0, -0.767411]
+Cmd Velocities - Linear: 0.375924, Angular: -0.176337
+Published Odometry - x: 0.246447, y: -0.0335762, yaw: -0.383157, Actual Linear Velocity: 0.383146, Actual Angular Velocity: -0.16288
+Published IMU - Angular Velocity: [0, 0, -0.16288]
+Cmd Velocities - Linear: 0.381584, Angular: 0.299907
+Published Odometry - x: 0.282319, y: -0.0480354, yaw: -0.354312, Actual Linear Velocity: 0.386767, Actual Angular Velocity: 0.288449
+Published IMU - Angular Velocity: [0, 0, 0.288449]
+Cmd Velocities - Linear: 0.389047, Angular: 0.461956
+Published Odometry - x: 0.317941, y: -0.061213, yaw: -0.30898, Actual Linear Velocity: 0.379816, Actual Angular Velocity: 0.453317
+Published IMU - Angular Velocity: [0, 0, 0.453317]
+Cmd Velocities - Linear: 0.3966, Angular: 0.382353
+Published Odometry - x: 0.353861, y: -0.0726787, yaw: -0.268812, Actual Linear Velocity: 0.377053, Actual Angular Velocity: 0.401683
+Published IMU - Angular Velocity: [0, 0, 0.401683]
+Cmd Velocities - Linear: 0.404923, Angular: 0.207528
+Published Odometry - x: 0.391653, y: -0.0830896, yaw: -0.249428, Actual Linear Velocity: 0.391998, Actual Angular Velocity: 0.193837
+Published IMU - Angular Velocity: [0, 0, 0.193837]
+Cmd Velocities - Linear: 0.412537, Angular: 0.0527076
+Published Odometry - x: 0.432152, y: -0.0934061, yaw: -0.242978, Actual Linear Velocity: 0.417926, Actual Angular Velocity: 0.0644984
+Published IMU - Angular Velocity: [0, 0, 0.0644984]
+Cmd Velocities - Linear: 0.418236, Angular: 0.00625553
+Published Odometry - x: 0.473129, y: -0.103563, yaw: -0.243078, Actual Linear Velocity: 0.422165, Actual Angular Velocity: -0.000993359
+Published IMU - Angular Velocity: [0, 0, -0.000993359]
+Cmd Velocities - Linear: 0.422561, Angular: 0.0281081
+Published Odometry - x: 0.514484, y: -0.113819, yaw: -0.239455, Actual Linear Velocity: 0.426081, Actual Angular Velocity: 0.0362277
+Published IMU - Angular Velocity: [0, 0, 0.0362277]
+Cmd Velocities - Linear: 0.428931, Angular: 0.0864111
+Published Odometry - x: 0.556374, y: -0.124046, yaw: -0.23155, Actual Linear Velocity: 0.431204, Actual Angular Velocity: 0.0790514
+Published IMU - Angular Velocity: [0, 0, 0.0790514]
+Cmd Velocities - Linear: 0.435137, Angular: 0.125577
+Published Odometry - x: 0.598457, y: -0.133968, yaw: -0.219511, Actual Linear Velocity: 0.432371, Actual Angular Velocity: 0.120386
+Published IMU - Angular Velocity: [0, 0, 0.120386]
+Cmd Velocities - Linear: 0.441029, Angular: 0.142059
+Published Odometry - x: 0.639856, y: -0.143204, yaw: -0.20629, Actual Linear Velocity: 0.42416, Actual Angular Velocity: 0.132216
+Published IMU - Angular Velocity: [0, 0, 0.132216]
+Cmd Velocities - Linear: 0.447106, Angular: 0.135022
+Published Odometry - x: 0.685359, y: -0.152727, yaw: -0.191027, Actual Linear Velocity: 0.464896, Actual Angular Velocity: 0.152628
+Published IMU - Angular Velocity: [0, 0, 0.152628]
+Cmd Velocities - Linear: 0.453919, Angular: 0.119238
+Published Odometry - x: 0.730341, y: -0.161425, yaw: -0.180501, Actual Linear Velocity: 0.458144, Actual Angular Velocity: 0.105254
+Published IMU - Angular Velocity: [0, 0, 0.105254]
+Cmd Velocities - Linear: 0.455371, Angular: 0.090256
+Published Odometry - x: 0.773229, y: -0.169252, yaw: -0.170904, Actual Linear Velocity: 0.435969, Actual Angular Velocity: 0.0959751
+Published IMU - Angular Velocity: [0, 0, 0.0959751]
+Cmd Velocities - Linear: 0.461671, Angular: 0.0845646
+Published Odometry - x: 0.82008, y: -0.177338, yaw: -0.162624, Actual Linear Velocity: 0.47543, Actual Angular Velocity: 0.0827946
+Published IMU - Angular Velocity: [0, 0, 0.0827946]
+Cmd Velocities - Linear: 0.103942, Angular: 1
+Published Odometry - x: 0.830086, y: -0.178979, yaw: -0.0616176, Actual Linear Velocity: 0.101408, Actual Angular Velocity: 1.01007
+Published IMU - Angular Velocity: [0, 0, 1.01007]
+Cmd Velocities - Linear: 0.110594, Angular: 1
+Published Odometry - x: 0.842735, y: -0.17976, yaw: 0.0393691, Actual Linear Velocity: 0.126727, Actual Angular Velocity: 1.00987
+Published IMU - Angular Velocity: [0, 0, 1.00987]
+Cmd Velocities - Linear: 0.120722, Angular: 1
+Published Odometry - x: 0.854974, y: -0.179278, yaw: 0.138232, Actual Linear Velocity: 0.122483, Actual Angular Velocity: 0.988633
+Published IMU - Angular Velocity: [0, 0, 0.988633]
+Cmd Velocities - Linear: 0.12788, Angular: 1
+Published Odometry - x: 0.866769, y: -0.177637, yaw: 0.23772, Actual Linear Velocity: 0.119091, Actual Angular Velocity: 0.994876
+Published IMU - Angular Velocity: [0, 0, 0.994876]
+Cmd Velocities - Linear: 0.135156, Angular: 1
+Published Odometry - x: 0.880977, y: -0.174194, yaw: 0.335941, Actual Linear Velocity: 0.146191, Actual Angular Velocity: 0.982211
+Published IMU - Angular Velocity: [0, 0, 0.982211]
+Cmd Velocities - Linear: 0.145399, Angular: 1
+Published Odometry - x: 0.894621, y: -0.16943, yaw: 0.436021, Actual Linear Velocity: 0.144511, Actual Angular Velocity: 1.0008
+Published IMU - Angular Velocity: [0, 0, 1.0008]
+Cmd Velocities - Linear: 0.145399, Angular: 1
+Published Odometry - x: 0.906532, y: -0.16388, yaw: 0.537356, Actual Linear Velocity: 0.131411, Actual Angular Velocity: 1.01335
+Published IMU - Angular Velocity: [0, 0, 1.01335]
+Cmd Velocities - Linear: 0.152797, Angular: 1
+Published Odometry - x: 0.921332, y: -0.155062, yaw: 0.635363, Actual Linear Velocity: 0.172272, Actual Angular Velocity: 0.980066
+Published IMU - Angular Velocity: [0, 0, 0.980066]
+Cmd Velocities - Linear: 0.159183, Angular: 1
+Published Odometry - x: 0.934913, y: -0.145048, yaw: 0.735508, Actual Linear Velocity: 0.168741, Actual Angular Velocity: 1.00145
+Published IMU - Angular Velocity: [0, 0, 1.00145]
+Cmd Velocities - Linear: 0.170255, Angular: 1
+Published Odometry - x: 0.947876, y: -0.133318, yaw: 0.834011, Actual Linear Velocity: 0.17482, Actual Angular Velocity: 0.985037
+Published IMU - Angular Velocity: [0, 0, 0.985037]
+Cmd Velocities - Linear: 0.177444, Angular: 1
+Published Odometry - x: 0.959151, y: -0.12089, yaw: 0.933709, Actual Linear Velocity: 0.167805, Actual Angular Velocity: 0.996973
+Published IMU - Angular Velocity: [0, 0, 0.996973]
+Cmd Velocities - Linear: 0.192521, Angular: 1
+Published Odometry - x: 0.969912, y: -0.106348, yaw: 1.0339, Actual Linear Velocity: 0.180903, Actual Angular Velocity: 1.00188
+Published IMU - Angular Velocity: [0, 0, 1.00188]
+Cmd Velocities - Linear: 0.192521, Angular: 1
+Published Odometry - x: 0.979096, y: -0.0909189, yaw: 1.13362, Actual Linear Velocity: 0.17956, Actual Angular Velocity: 0.997276
+Published IMU - Angular Velocity: [0, 0, 0.997276]
+Cmd Velocities - Linear: 0.208342, Angular: 1
+Published Odometry - x: 0.988373, y: -0.0710677, yaw: 1.23262, Actual Linear Velocity: 0.21912, Actual Angular Velocity: 0.990006
+Published IMU - Angular Velocity: [0, 0, 0.990006]
+Cmd Velocities - Linear: 0.217791, Angular: 1
+Published Odometry - x: 0.995839, y: -0.0498365, yaw: 1.33077, Actual Linear Velocity: 0.225058, Actual Angular Velocity: 0.981455
+Published IMU - Angular Velocity: [0, 0, 0.981455]
+Cmd Velocities - Linear: 0.225572, Angular: 1
+Published Odometry - x: 1.00108, y: -0.0284254, yaw: 1.42971, Actual Linear Velocity: 0.22043, Actual Angular Velocity: 0.989348
+Published IMU - Angular Velocity: [0, 0, 0.989348]
+Cmd Velocities - Linear: 0.232914, Angular: 1
+Published Odometry - x: 1.00445, y: -0.00472398, yaw: 1.5315, Actual Linear Velocity: 0.239393, Actual Angular Velocity: 1.01797
+Published IMU - Angular Velocity: [0, 0, 1.01797]
+Cmd Velocities - Linear: 0.232914, Angular: 1
+Published Odometry - x: 1.00538, y: 0.0190332, yaw: 1.62957, Actual Linear Velocity: 0.237756, Actual Angular Velocity: 0.980718
+Published IMU - Angular Velocity: [0, 0, 0.980718]
+Cmd Velocities - Linear: 0.517807, Angular: -1
+Published Odometry - x: 1.00233, y: 0.0708011, yaw: 1.52783, Actual Linear Velocity: 0.518574, Actual Angular Velocity: -1.01739
+Published IMU - Angular Velocity: [0, 0, -1.01739]
+Cmd Velocities - Linear: 0.505834, Angular: -1
+Published Odometry - x: 1.00455, y: 0.12231, yaw: 1.42652, Actual Linear Velocity: 0.515565, Actual Angular Velocity: -1.01314
+Published IMU - Angular Velocity: [0, 0, -1.01314]
+Cmd Velocities - Linear: 0.477521, Angular: -1
+Published Odometry - x: 1.0112, y: 0.168077, yaw: 1.32516, Actual Linear Velocity: 0.462475, Actual Angular Velocity: -1.0136
+Published IMU - Angular Velocity: [0, 0, -1.0136]
+Cmd Velocities - Linear: 0.476566, Angular: -1
+Published Odometry - x: 1.02262, y: 0.213633, yaw: 1.22547, Actual Linear Velocity: 0.469656, Actual Angular Velocity: -0.996929
+Published IMU - Angular Velocity: [0, 0, -0.996929]
+Cmd Velocities - Linear: 0.515081, Angular: -1
+Published Odometry - x: 1.04064, y: 0.263738, yaw: 1.12492, Actual Linear Velocity: 0.532491, Actual Angular Velocity: -1.00552
+Published IMU - Angular Velocity: [0, 0, -1.00552]
+Cmd Velocities - Linear: 0.474357, Angular: -1
+Published Odometry - x: 1.06096, y: 0.306253, yaw: 1.02408, Actual Linear Velocity: 0.47122, Actual Angular Velocity: -1.00841
+Published IMU - Angular Velocity: [0, 0, -1.00841]
+Cmd Velocities - Linear: 0.346194, Angular: 1
+Published Odometry - x: 1.07872, y: 0.335426, yaw: 1.12391, Actual Linear Velocity: 0.341507, Actual Angular Velocity: 0.998391
+Published IMU - Angular Velocity: [0, 0, 0.998391]
+Cmd Velocities - Linear: 0.345495, Angular: 1
+Published Odometry - x: 1.09393, y: 0.367177, yaw: 1.22266, Actual Linear Velocity: 0.352082, Actual Angular Velocity: 0.987473
+Published IMU - Angular Velocity: [0, 0, 0.987473]
+Cmd Velocities - Linear: 0.345495, Angular: 1
+Published Odometry - x: 1.10522, y: 0.398277, yaw: 1.32445, Actual Linear Velocity: 0.330856, Actual Angular Velocity: 1.01784
+Published IMU - Angular Velocity: [0, 0, 1.01784]
+Cmd Velocities - Linear: 0.355374, Angular: 1
+Published Odometry - x: 1.1139, y: 0.432779, yaw: 1.42578, Actual Linear Velocity: 0.355761, Actual Angular Velocity: 1.01337
+Published IMU - Angular Velocity: [0, 0, 1.01337]
+Cmd Velocities - Linear: 0.362244, Angular: 1
+Published Odometry - x: 1.11887, y: 0.466809, yaw: 1.52685, Actual Linear Velocity: 0.343901, Actual Angular Velocity: 1.01068
+Published IMU - Angular Velocity: [0, 0, 1.01068]
+Cmd Velocities - Linear: 0.381295, Angular: 1
+Published Odometry - x: 1.1205, y: 0.503949, yaw: 1.62636, Actual Linear Velocity: 0.371766, Actual Angular Velocity: 0.995135
+Published IMU - Angular Velocity: [0, 0, 0.995135]
+Cmd Velocities - Linear: 0.381295, Angular: 1
+Published Odometry - x: 1.11844, y: 0.540952, yaw: 1.72624, Actual Linear Velocity: 0.3706, Actual Angular Velocity: 0.99878
+Published IMU - Angular Velocity: [0, 0, 0.99878]
+Cmd Velocities - Linear: 0.392796, Angular: 1
+Published Odometry - x: 1.11265, y: 0.577907, yaw: 1.82661, Actual Linear Velocity: 0.374062, Actual Angular Velocity: 1.00366
+Published IMU - Angular Velocity: [0, 0, 1.00366]
+Cmd Velocities - Linear: 0.401742, Angular: 1
+Published Odometry - x: 1.10258, y: 0.616401, yaw: 1.92848, Actual Linear Velocity: 0.397885, Actual Angular Velocity: 1.01868
+Published IMU - Angular Velocity: [0, 0, 1.01868]
+Cmd Velocities - Linear: 0.41114, Angular: 1
+Published Odometry - x: 1.08799, y: 0.655436, yaw: 2.0302, Actual Linear Velocity: 0.416721, Actual Angular Velocity: 1.01728
+Published IMU - Angular Velocity: [0, 0, 1.01728]
+Cmd Velocities - Linear: 0.432983, Angular: 1
+Published Odometry - x: 1.06907, y: 0.693684, yaw: 2.12859, Actual Linear Velocity: 0.426727, Actual Angular Velocity: 0.983862
+Published IMU - Angular Velocity: [0, 0, 0.983862]
+Cmd Velocities - Linear: 0.432983, Angular: 1
+Published Odometry - x: 1.04716, y: 0.728798, yaw: 2.23002, Actual Linear Velocity: 0.413879, Actual Angular Velocity: 1.01428
+Published IMU - Angular Velocity: [0, 0, 1.01428]
+Cmd Velocities - Linear: 0.451117, Angular: 1
+Published Odometry - x: 1.02041, y: 0.763322, yaw: 2.3289, Actual Linear Velocity: 0.436745, Actual Angular Velocity: 0.988866
+Published IMU - Angular Velocity: [0, 0, 0.988866]
+Cmd Velocities - Linear: 0.461878, Angular: 1
+Published Odometry - x: 0.987936, y: 0.797622, yaw: 2.42721, Actual Linear Velocity: 0.472372, Actual Angular Velocity: 0.983093
+Published IMU - Angular Velocity: [0, 0, 0.983093]
+Cmd Velocities - Linear: 0.461878, Angular: 1
+Published Odometry - x: 0.951755, y: 0.828997, yaw: 2.52694, Actual Linear Velocity: 0.478898, Actual Angular Velocity: 0.997218
+Published IMU - Angular Velocity: [0, 0, 0.997218]
+Cmd Velocities - Linear: 0.483029, Angular: 1
+Published Odometry - x: 0.91205, y: 0.857024, yaw: 2.62706, Actual Linear Velocity: 0.486003, Actual Angular Velocity: 1.00126
+Published IMU - Angular Velocity: [0, 0, 1.00126]
+Cmd Velocities - Linear: 0.483029, Angular: 1
+Published Odometry - x: 0.869419, y: 0.881124, yaw: 2.72726, Actual Linear Velocity: 0.489711, Actual Angular Velocity: 1.00195
+Published IMU - Angular Velocity: [0, 0, 1.00195]
+Cmd Velocities - Linear: 0.501047, Angular: 1
+Published Odometry - x: 0.825269, y: 0.900541, yaw: 2.82734, Actual Linear Velocity: 0.482313, Actual Angular Velocity: 1.00088
+Published IMU - Angular Velocity: [0, 0, 1.00088]
+Cmd Velocities - Linear: 0.501047, Angular: 1
+Published Odometry - x: 0.779387, y: 0.915454, yaw: 2.92577, Actual Linear Velocity: 0.482449, Actual Angular Velocity: 0.984287
+Published IMU - Angular Velocity: [0, 0, 0.984287]
+Cmd Velocities - Linear: 0.516794, Angular: 1
+Published Odometry - x: 0.728137, y: 0.926689, yaw: 3.02572, Actual Linear Velocity: 0.524673, Actual Angular Velocity: 0.999474
+Published IMU - Angular Velocity: [0, 0, 0.999474]
+Cmd Velocities - Linear: 0.516794, Angular: 1
+Published Odometry - x: 0.675968, y: 0.932762, yaw: 3.12483, Actual Linear Velocity: 0.525212, Actual Angular Velocity: 0.991066
+Published IMU - Angular Velocity: [0, 0, 0.991066]
+Cmd Velocities - Linear: 0.534459, Angular: 1
+Published Odometry - x: 0.620849, y: 0.933686, yaw: -3.05707, Actual Linear Velocity: 0.551269, Actual Angular Velocity: 1.01285
+Published IMU - Angular Velocity: [0, 0, 1.01285]
+Cmd Velocities - Linear: 0.542943, Angular: 1
+Published Odometry - x: 0.566144, y: 0.929051, yaw: -2.95533, Actual Linear Velocity: 0.549004, Actual Angular Velocity: 1.01744
+Published IMU - Angular Velocity: [0, 0, 1.01744]
+Cmd Velocities - Linear: 0.54946, Angular: 1
+Published Odometry - x: 0.513631, y: 0.919155, yaw: -2.85452, Actual Linear Velocity: 0.534378, Actual Angular Velocity: 1.0081
+Published IMU - Angular Velocity: [0, 0, 1.0081]
+Cmd Velocities - Linear: 0.54946, Angular: 1
+Published Odometry - x: 0.462438, y: 0.904042, yaw: -2.75612, Actual Linear Velocity: 0.53377, Actual Angular Velocity: 0.983995
+Published IMU - Angular Velocity: [0, 0, 0.983995]
+Cmd Velocities - Linear: 0.560736, Angular: 1
+Published Odometry - x: 0.411582, y: 0.883405, yaw: -2.65422, Actual Linear Velocity: 0.548836, Actual Angular Velocity: 1.01897
+Published IMU - Angular Velocity: [0, 0, 1.01897]
+Cmd Velocities - Linear: 0.566845, Angular: 1
+Published Odometry - x: 0.362701, y: 0.857498, yaw: -2.55563, Actual Linear Velocity: 0.553228, Actual Angular Velocity: 0.98597
+Published IMU - Angular Velocity: [0, 0, 0.98597]
+Cmd Velocities - Linear: 0.571886, Angular: 1
+Published Odometry - x: 0.314548, y: 0.825537, yaw: -2.45739, Actual Linear Velocity: 0.577938, Actual Angular Velocity: 0.982406
+Published IMU - Angular Velocity: [0, 0, 0.982406]
+Cmd Velocities - Linear: 0.571886, Angular: 1
+Published Odometry - x: 0.268999, y: 0.788385, yaw: -2.35578, Actual Linear Velocity: 0.587792, Actual Angular Velocity: 1.01605
+Published IMU - Angular Velocity: [0, 0, 1.01605]
+Cmd Velocities - Linear: 0.581815, Angular: 1
+Published Odometry - x: 0.22763, y: 0.746982, yaw: -2.25453, Actual Linear Velocity: 0.585289, Actual Angular Velocity: 1.01248
+Published IMU - Angular Velocity: [0, 0, 1.01248]
+Cmd Velocities - Linear: 0.581815, Angular: 1
+Published Odometry - x: 0.189765, y: 0.700515, yaw: -2.15421, Actual Linear Velocity: 0.59941, Actual Angular Velocity: 1.00319
+Published IMU - Angular Velocity: [0, 0, 1.00319]
+Cmd Velocities - Linear: 0.588725, Angular: 1
+Published Odometry - x: 0.156499, y: 0.650115, yaw: -2.05585, Actual Linear Velocity: 0.603887, Actual Angular Velocity: 0.983594
+Published IMU - Angular Velocity: [0, 0, 0.983594]
+Cmd Velocities - Linear: 0.588725, Angular: 1
+Published Odometry - x: 0.129204, y: 0.598328, yaw: -1.95515, Actual Linear Velocity: 0.585397, Actual Angular Velocity: 1.00699
+Published IMU - Angular Velocity: [0, 0, 1.00699]
+Cmd Velocities - Linear: 0.591639, Angular: 1
+Published Odometry - x: 0.106425, y: 0.542011, yaw: -1.85521, Actual Linear Velocity: 0.6075, Actual Angular Velocity: 0.999459
+Published IMU - Angular Velocity: [0, 0, 0.999459]
+Cmd Velocities - Linear: 0.594142, Angular: 1
+Published Odometry - x: 0.0902285, y: 0.486608, yaw: -1.7553, Actual Linear Velocity: 0.577215, Actual Angular Velocity: 0.999106
+Published IMU - Angular Velocity: [0, 0, 0.999106]
+Cmd Velocities - Linear: 0.596076, Angular: 1
+Published Odometry - x: 0.07916, y: 0.4273, yaw: -1.65585, Actual Linear Velocity: 0.603324, Actual Angular Velocity: 0.994496
+Published IMU - Angular Velocity: [0, 0, 0.994496]
+Cmd Velocities - Linear: 0.598069, Angular: 1
+Published Odometry - x: 0.0740849, y: 0.367773, yaw: -1.55585, Actual Linear Velocity: 0.597424, Actual Angular Velocity: 0.999986
+Published IMU - Angular Velocity: [0, 0, 0.999986]
+Cmd Velocities - Linear: 0.598971, Angular: 1
+Published Odometry - x: 0.074955, y: 0.309561, yaw: -1.45622, Actual Linear Velocity: 0.582184, Actual Angular Velocity: 0.996327
+Published IMU - Angular Velocity: [0, 0, 0.996327]
+Cmd Velocities - Linear: 0.601148, Angular: 1
+Published Odometry - x: 0.081867, y: 0.2495, yaw: -1.35674, Actual Linear Velocity: 0.604575, Actual Angular Velocity: 0.994728
+Published IMU - Angular Velocity: [0, 0, 0.994728]
+Cmd Velocities - Linear: 0.601148, Angular: 1
+Published Odometry - x: 0.0947217, y: 0.190366, yaw: -1.25815, Actual Linear Velocity: 0.605153, Actual Angular Velocity: 0.985951
+Published IMU - Angular Velocity: [0, 0, 0.985951]
+Cmd Velocities - Linear: 0.600518, Angular: 1
+Published Odometry - x: 0.113167, y: 0.133302, yaw: -1.15756, Actual Linear Velocity: 0.59971, Actual Angular Velocity: 1.00586
+Published IMU - Angular Velocity: [0, 0, 1.00586]
+Cmd Velocities - Linear: 0.600518, Angular: 1
+Published Odometry - x: 0.137763, y: 0.0772095, yaw: -1.05813, Actual Linear Velocity: 0.61248, Actual Angular Velocity: 0.994307
+Published IMU - Angular Velocity: [0, 0, 0.994307]
+Cmd Velocities - Linear: 0.600878, Angular: 1
+Published Odometry - x: 0.167563, y: 0.0242648, yaw: -0.958874, Actual Linear Velocity: 0.607552, Actual Angular Velocity: 0.992588
+Published IMU - Angular Velocity: [0, 0, 0.992588]
+Cmd Velocities - Linear: 0.599622, Angular: 1
+Published Odometry - x: 0.202046, y: -0.024871, yaw: -0.859818, Actual Linear Velocity: 0.600283, Actual Angular Velocity: 0.990565
+Published IMU - Angular Velocity: [0, 0, 0.990565]
+Cmd Velocities - Linear: 0.599188, Angular: 1
+Published Odometry - x: 0.241581, y: -0.070776, yaw: -0.758638, Actual Linear Velocity: 0.605827, Actual Angular Velocity: 1.0118
+Published IMU - Angular Velocity: [0, 0, 1.0118]
+Cmd Velocities - Linear: 0.599188, Angular: 1
+Published Odometry - x: 0.284455, y: -0.111415, yaw: -0.659356, Actual Linear Velocity: 0.590734, Actual Angular Velocity: 0.992824
+Published IMU - Angular Velocity: [0, 0, 0.992824]
+Cmd Velocities - Linear: 0.598118, Angular: 1
+Published Odometry - x: 0.331329, y: -0.147745, yaw: -0.56106, Actual Linear Velocity: 0.593052, Actual Angular Velocity: 0.982954
+Published IMU - Angular Velocity: [0, 0, 0.982954]
+Cmd Velocities - Linear: 0.598501, Angular: 1
+Published Odometry - x: 0.381303, y: -0.17915, yaw: -0.46163, Actual Linear Velocity: 0.590222, Actual Angular Velocity: 0.994301
+Published IMU - Angular Velocity: [0, 0, 0.994301]
+Cmd Velocities - Linear: 0.597398, Angular: 1
+Published Odometry - x: 0.435133, y: -0.20593, yaw: -0.360173, Actual Linear Velocity: 0.601235, Actual Angular Velocity: 1.01457
+Published IMU - Angular Velocity: [0, 0, 1.01457]
+Cmd Velocities - Linear: 0.597398, Angular: 1
+Published Odometry - x: 0.489559, y: -0.226427, yaw: -0.25884, Actual Linear Velocity: 0.581581, Actual Angular Velocity: 1.01334
+Published IMU - Angular Velocity: [0, 0, 1.01334]
+Cmd Velocities - Linear: 0.595996, Angular: 1
+Published Odometry - x: 0.545993, y: -0.241369, yaw: -0.158748, Actual Linear Velocity: 0.583783, Actual Angular Velocity: 1.00092
+Published IMU - Angular Velocity: [0, 0, 1.00092]
+Cmd Velocities - Linear: 0.597973, Angular: 0.625522
+Published Odometry - x: 0.605176, y: -0.250844, yaw: -0.0969018, Actual Linear Velocity: 0.599368, Actual Angular Velocity: 0.618459
+Published IMU - Angular Velocity: [0, 0, 0.618459]
+Cmd Velocities - Linear: 0.597203, Angular: 0.263434
+Published Odometry - x: 0.663092, y: -0.256474, yaw: -0.0692128, Actual Linear Velocity: 0.581893, Actual Angular Velocity: 0.276889
+Published IMU - Angular Velocity: [0, 0, 0.276889]
+Cmd Velocities - Linear: 0.600377, Angular: 0.078754
+Published Odometry - x: 0.724702, y: -0.260745, yaw: -0.0623645, Actual Linear Velocity: 0.617572, Actual Angular Velocity: 0.0684832
+Published IMU - Angular Velocity: [0, 0, 0.0684832]
+Cmd Velocities - Linear: 0.598074, Angular: 0.00192598
+Published Odometry - x: 0.78318, y: -0.264397, yaw: -0.0608279, Actual Linear Velocity: 0.585921, Actual Angular Velocity: 0.0153659
+Published IMU - Angular Velocity: [0, 0, 0.0153659]
+Cmd Velocities - Linear: 0.598074, Angular: 0.00192598
+Published Odometry - x: 0.843369, y: -0.268062, yaw: -0.0599488, Actual Linear Velocity: 0.603004, Actual Angular Velocity: 0.00879191
+Published IMU - Angular Velocity: [0, 0, 0.00879191]
+Cmd Velocities - Linear: 0.60285, Angular: -0.0503697
+Published Odometry - x: 0.904248, y: -0.271716, yaw: -0.0651675, Actual Linear Velocity: 0.609893, Actual Angular Velocity: -0.0521878
+Published IMU - Angular Velocity: [0, 0, -0.0521878]
+Cmd Velocities - Linear: 0.602249, Angular: -0.102213
+Published Odometry - x: 0.96499, y: -0.27568, yaw: -0.077149, Actual Linear Velocity: 0.608706, Actual Angular Velocity: -0.119815
+Published IMU - Angular Velocity: [0, 0, -0.119815]
+Cmd Velocities - Linear: 0.602869, Angular: -0.121332
+Published Odometry - x: 1.02668, y: -0.280449, yaw: -0.0889055, Actual Linear Velocity: 0.618759, Actual Angular Velocity: -0.117565
+Published IMU - Angular Velocity: [0, 0, -0.117565]
+Cmd Velocities - Linear: 0.604299, Angular: -0.0847006
+Published Odometry - x: 1.08597, y: -0.285734, yaw: -0.0983984, Actual Linear Velocity: 0.595197, Actual Angular Velocity: -0.0949286
+Published IMU - Angular Velocity: [0, 0, -0.0949286]
+Cmd Velocities - Linear: 0.607982, Angular: -0.0774658
+Published Odometry - x: 1.14535, y: -0.291596, yaw: -0.105015, Actual Linear Velocity: 0.596678, Actual Angular Velocity: -0.0661668
+Published IMU - Angular Velocity: [0, 0, -0.0661668]
+Cmd Velocities - Linear: 0.607982, Angular: -0.0774658
+Published Odometry - x: 1.20764, y: -0.298162, yaw: -0.112468, Actual Linear Velocity: 0.626384, Actual Angular Velocity: -0.0745298
+Published IMU - Angular Velocity: [0, 0, -0.0745298]
+Cmd Velocities - Linear: 0.608963, Angular: -0.0844987
+Published Odometry - x: 1.26817, y: -0.304998, yaw: -0.122444, Actual Linear Velocity: 0.609165, Actual Angular Velocity: -0.0997629
+Published IMU - Angular Velocity: [0, 0, -0.0997629]
+Cmd Velocities - Linear: 0.606979, Angular: -0.0851362
+Published Odometry - x: 1.32973, y: -0.312574, yaw: -0.132464, Actual Linear Velocity: 0.620223, Actual Angular Velocity: -0.100198
+Published IMU - Angular Velocity: [0, 0, -0.100198]
+Cmd Velocities - Linear: 0.609703, Angular: -0.0502612
+Published Odometry - x: 1.39103, y: -0.320742, yaw: -0.137166, Actual Linear Velocity: 0.618471, Actual Angular Velocity: -0.0470224
+Published IMU - Angular Velocity: [0, 0, -0.0470224]
+Cmd Velocities - Linear: 0.609703, Angular: -0.0502612
+Published Odometry - x: 1.45007, y: -0.328892, yaw: -0.143516, Actual Linear Velocity: 0.595989, Actual Angular Velocity: -0.0634968
+Published IMU - Angular Velocity: [0, 0, -0.0634968]
+Cmd Velocities - Linear: 0.611044, Angular: -0.0574845
+Published Odometry - x: 1.50992, y: -0.33754, yaw: -0.148466, Actual Linear Velocity: 0.604717, Actual Angular Velocity: -0.0494989
+Published IMU - Angular Velocity: [0, 0, -0.0494989]
+Cmd Velocities - Linear: 0.614472, Angular: -0.0510831
+Published Odometry - x: 1.56939, y: -0.346435, yaw: -0.155282, Actual Linear Velocity: 0.601271, Actual Angular Velocity: -0.0681557
+Published IMU - Angular Velocity: [0, 0, -0.0681557]
+Cmd Velocities - Linear: 0.616164, Angular: -0.0303237
+Published Odometry - x: 1.63196, y: -0.35623, yaw: -0.159249, Actual Linear Velocity: 0.633337, Actual Angular Velocity: -0.0396722
+Published IMU - Angular Velocity: [0, 0, -0.0396722]
+Cmd Velocities - Linear: 0.613954, Angular: -0.0232347
+Published Odometry - x: 1.69211, y: -0.36589, yaw: -0.159858, Actual Linear Velocity: 0.609179, Actual Angular Velocity: -0.00609361
+Published IMU - Angular Velocity: [0, 0, -0.00609361]
+Cmd Velocities - Linear: 0.617658, Angular: -0.0290328
+Published Odometry - x: 1.75189, y: -0.375529, yaw: -0.161597, Actual Linear Velocity: 0.605574, Actual Angular Velocity: -0.0173872
+Published IMU - Angular Velocity: [0, 0, -0.0173872]
+Cmd Velocities - Linear: 0.617658, Angular: -0.0290328
+Published Odometry - x: 1.81095, y: -0.385157, yaw: -0.166042, Actual Linear Velocity: 0.598388, Actual Angular Velocity: -0.0444516
+Published IMU - Angular Velocity: [0, 0, -0.0444516]
+Cmd Velocities - Linear: 0.619158, Angular: -0.0224458
+Published Odometry - x: 1.87135, y: -0.395279, yaw: -0.166629, Actual Linear Velocity: 0.612409, Actual Angular Velocity: -0.00587104
+Published IMU - Angular Velocity: [0, 0, -0.00587104]
+Cmd Velocities - Linear: 0.621119, Angular: 0.00524194
+Published Odometry - x: 1.93114, y: -0.405335, yaw: -0.164337, Actual Linear Velocity: 0.606303, Actual Angular Velocity: 0.0229247
+Published IMU - Angular Velocity: [0, 0, 0.0229247]
+Cmd Velocities - Linear: 0.622738, Angular: 0.0183218
+Published Odometry - x: 1.99232, y: -0.415481, yaw: -0.163108, Actual Linear Velocity: 0.620153, Actual Angular Velocity: 0.0122881
+Published IMU - Angular Velocity: [0, 0, 0.0122881]
+Cmd Velocities - Linear: 0.62264, Angular: 0.0315415
+Published Odometry - x: 2.05485, y: -0.425771, yaw: -0.159505, Actual Linear Velocity: 0.633697, Actual Angular Velocity: 0.0360238
+Published IMU - Angular Velocity: [0, 0, 0.0360238]
+Cmd Velocities - Linear: 0.62264, Angular: 0.0315415
+Published Odometry - x: 2.11559, y: -0.435542, yaw: -0.157848, Actual Linear Velocity: 0.615224, Actual Angular Velocity: 0.0165784
+Published IMU - Angular Velocity: [0, 0, 0.0165784]
+Cmd Velocities - Linear: 0.625986, Angular: 0.0603648
+Published Odometry - x: 2.17636, y: -0.445216, yaw: -0.151075, Actual Linear Velocity: 0.615373, Actual Angular Velocity: 0.0677227
+Published IMU - Angular Velocity: [0, 0, 0.0677227]
+Cmd Velocities - Linear: 0.625986, Angular: 0.0603648
+Published Odometry - x: 2.23965, y: -0.45485, yaw: -0.146558, Actual Linear Velocity: 0.640155, Actual Angular Velocity: 0.0451719
+Published IMU - Angular Velocity: [0, 0, 0.0451719]
+Cmd Velocities - Linear: 0.626456, Angular: 0.0808783
+Published Odometry - x: 2.30202, y: -0.464056, yaw: -0.140255, Actual Linear Velocity: 0.630424, Actual Angular Velocity: 0.0630273
+Published IMU - Angular Velocity: [0, 0, 0.0630273]
+Cmd Velocities - Linear: 0.626456, Angular: 0.0808783
+Published Odometry - x: 2.36528, y: -0.472989, yaw: -0.13404, Actual Linear Velocity: 0.638948, Actual Angular Velocity: 0.0621518
+Published IMU - Angular Velocity: [0, 0, 0.0621518]
+Cmd Velocities - Linear: 0.629972, Angular: 0.115487
+Published Odometry - x: 2.42664, y: -0.481262, yaw: -0.1227, Actual Linear Velocity: 0.619083, Actual Angular Velocity: 0.113399
+Published IMU - Angular Velocity: [0, 0, 0.113399]
+Cmd Velocities - Linear: 0.63381, Angular: 0.110692
+Published Odometry - x: 2.49097, y: -0.489195, yaw: -0.111193, Actual Linear Velocity: 0.64819, Actual Angular Velocity: 0.115071
+Published IMU - Angular Velocity: [0, 0, 0.115071]
+Cmd Velocities - Linear: 0.63381, Angular: 0.110692
+Published Odometry - x: 2.55445, y: -0.496284, yaw: -0.0995465, Actual Linear Velocity: 0.63877, Actual Angular Velocity: 0.116468
+Published IMU - Angular Velocity: [0, 0, 0.116468]
+Cmd Velocities - Linear: 0.635642, Angular: 0.107592
+Published Odometry - x: 2.61626, y: -0.502457, yaw: -0.0886169, Actual Linear Velocity: 0.621151, Actual Angular Velocity: 0.109296
+Published IMU - Angular Velocity: [0, 0, 0.109296]
+Cmd Velocities - Linear: 0.639615, Angular: 0.113981
+Published Odometry - x: 2.67917, y: -0.508046, yaw: -0.0755668, Actual Linear Velocity: 0.631583, Actual Angular Velocity: 0.130501
+Published IMU - Angular Velocity: [0, 0, 0.130501]
+Cmd Velocities - Linear: 0.639615, Angular: 0.113981
+Published Odometry - x: 2.74482, y: -0.513017, yaw: -0.0629772, Actual Linear Velocity: 0.658427, Actual Angular Velocity: 0.125896
+Published IMU - Angular Velocity: [0, 0, 0.125896]
+Cmd Velocities - Linear: 0.640654, Angular: 0.11044
+Published Odometry - x: 2.80864, y: -0.517041, yaw: -0.052327, Actual Linear Velocity: 0.639383, Actual Angular Velocity: 0.106502
+Published IMU - Angular Velocity: [0, 0, 0.106502]
+Cmd Velocities - Linear: 0.640203, Angular: 0.110946
+Published Odometry - x: 2.87416, y: -0.520473, yaw: -0.0426845, Actual Linear Velocity: 0.656174, Actual Angular Velocity: 0.0964254
+Published IMU - Angular Velocity: [0, 0, 0.0964254]
+Cmd Velocities - Linear: 0.644407, Angular: 0.123257
+Published Odometry - x: 2.93667, y: -0.523143, yaw: -0.0315882, Actual Linear Velocity: 0.625657, Actual Angular Velocity: 0.110963
+Published IMU - Angular Velocity: [0, 0, 0.110963]
+Cmd Velocities - Linear: 0.650564, Angular: 0.151615
+Published Odometry - x: 2.9997, y: -0.525134, yaw: -0.017041, Actual Linear Velocity: 0.630575, Actual Angular Velocity: 0.145472
+Published IMU - Angular Velocity: [0, 0, 0.145472]
+Cmd Velocities - Linear: 0.650564, Angular: 0.151615
+Published Odometry - x: 3.06471, y: -0.526242, yaw: -0.00260531, Actual Linear Velocity: 0.650253, Actual Angular Velocity: 0.144357
+Published IMU - Angular Velocity: [0, 0, 0.144357]
+Cmd Velocities - Linear: 0.652468, Angular: 0.141597
+Published Odometry - x: 3.12818, y: -0.526408, yaw: 0.0126165, Actual Linear Velocity: 0.634714, Actual Angular Velocity: 0.152218
+Published IMU - Angular Velocity: [0, 0, 0.152218]
+Cmd Velocities - Linear: 0.653078, Angular: 0.130251
+Published Odometry - x: 3.19289, y: -0.525591, yaw: 0.0244376, Actual Linear Velocity: 0.64707, Actual Angular Velocity: 0.118211
+Published IMU - Angular Velocity: [0, 0, 0.118211]
+Cmd Velocities - Linear: 0.656899, Angular: 0.111376
+Published Odometry - x: 3.25861, y: -0.523985, yaw: 0.0360073, Actual Linear Velocity: 0.657449, Actual Angular Velocity: 0.115697
+Published IMU - Angular Velocity: [0, 0, 0.115697]
+Cmd Velocities - Linear: 0.658139, Angular: 0.1078
+Published Odometry - x: 3.32448, y: -0.521612, yaw: 0.0470738, Actual Linear Velocity: 0.659091, Actual Angular Velocity: 0.110665
+Published IMU - Angular Velocity: [0, 0, 0.110665]
+Cmd Velocities - Linear: 0.659572, Angular: 0.101904
+Published Odometry - x: 3.38969, y: -0.51854, yaw: 0.0582405, Actual Linear Velocity: 0.652855, Actual Angular Velocity: 0.111667
+Published IMU - Angular Velocity: [0, 0, 0.111667]
+Cmd Velocities - Linear: 0.661776, Angular: 0.0953979
+Published Odometry - x: 3.45621, y: -0.514661, yaw: 0.068236, Actual Linear Velocity: 0.666356, Actual Angular Velocity: 0.0999549
+Published IMU - Angular Velocity: [0, 0, 0.0999549]
+Cmd Velocities - Linear: 0.665782, Angular: 0.076261
+Published Odometry - x: 3.52356, y: -0.510059, yaw: 0.0753247, Actual Linear Velocity: 0.674997, Actual Angular Velocity: 0.0708867
+Published IMU - Angular Velocity: [0, 0, 0.0708867]
+Cmd Velocities - Linear: 0.665782, Angular: 0.076261
+Published Odometry - x: 3.5883, y: -0.505173, yaw: 0.0826235, Actual Linear Velocity: 0.649246, Actual Angular Velocity: 0.0729876
+Published IMU - Angular Velocity: [0, 0, 0.0729876]
+Cmd Velocities - Linear: 0.672102, Angular: 0.0774112
+Published Odometry - x: 3.65372, y: -0.499755, yaw: 0.0905626, Actual Linear Velocity: 0.656507, Actual Angular Velocity: 0.0793918
+Published IMU - Angular Velocity: [0, 0, 0.0793918]
+Cmd Velocities - Linear: 0.672102, Angular: 0.0774112
+Published Odometry - x: 3.71917, y: -0.493812, yaw: 0.0965412, Actual Linear Velocity: 0.657191, Actual Angular Velocity: 0.0597851
+Published IMU - Angular Velocity: [0, 0, 0.0597851]
+Cmd Velocities - Linear: 0.673585, Angular: 0.0667409
+Published Odometry - x: 3.78641, y: -0.4873, yaw: 0.104601, Actual Linear Velocity: 0.675558, Actual Angular Velocity: 0.0805939
+Published IMU - Angular Velocity: [0, 0, 0.0805939]
+Cmd Velocities - Linear: 0.675881, Angular: 0.0399785
+Published Odometry - x: 3.85402, y: -0.480202, yaw: 0.10685, Actual Linear Velocity: 0.679799, Actual Angular Velocity: 0.0224939
+Published IMU - Angular Velocity: [0, 0, 0.0224939]
+Cmd Velocities - Linear: 0.675881, Angular: 0.0399785
+Published Odometry - x: 3.92301, y: -0.472802, yaw: 0.109977, Actual Linear Velocity: 0.693857, Actual Angular Velocity: 0.0312677
+Published IMU - Angular Velocity: [0, 0, 0.0312677]
+Cmd Velocities - Linear: 0.67807, Angular: 0.0441714
+Published Odometry - x: 3.99114, y: -0.46528, yaw: 0.113068, Actual Linear Velocity: 0.685404, Actual Angular Velocity: 0.0309107
+Published IMU - Angular Velocity: [0, 0, 0.0309107]
+Cmd Velocities - Linear: 0.680922, Angular: 0.0390067
+Published Odometry - x: 4.05752, y: -0.457742, yaw: 0.117642, Actual Linear Velocity: 0.668048, Actual Angular Velocity: 0.0457376
+Published IMU - Angular Velocity: [0, 0, 0.0457376]
+Cmd Velocities - Linear: 0.684636, Angular: 0.022575
+Published Odometry - x: 4.12389, y: -0.449897, yaw: 0.11968, Actual Linear Velocity: 0.668382, Actual Angular Velocity: 0.0203799
+Published IMU - Angular Velocity: [0, 0, 0.0203799]
+Cmd Velocities - Linear: 0.684636, Angular: 0.022575
+Published Odometry - x: 4.19247, y: -0.441651, yaw: 0.123466, Actual Linear Velocity: 0.690718, Actual Angular Velocity: 0.037869
+Published IMU - Angular Velocity: [0, 0, 0.037869]
+Cmd Velocities - Linear: 0.686019, Angular: -0.00259517
+Published Odometry - x: 4.25954, y: -0.433327, yaw: 0.121327, Actual Linear Velocity: 0.675839, Actual Angular Velocity: -0.0213936
+Published IMU - Angular Velocity: [0, 0, -0.0213936]
+Cmd Velocities - Linear: 0.689502, Angular: 0.00866869
+Published Odometry - x: 4.32793, y: -0.424989, yaw: 0.12394, Actual Linear Velocity: 0.688983, Actual Angular Velocity: 0.026133
+Published IMU - Angular Velocity: [0, 0, 0.026133]
+Cmd Velocities - Linear: 0.689828, Angular: -0.00910031
+Published Odometry - x: 4.39509, y: -0.416623, yaw: 0.122552, Actual Linear Velocity: 0.676726, Actual Angular Velocity: -0.0138833
+Published IMU - Angular Velocity: [0, 0, -0.0138833]
+Cmd Velocities - Linear: 0.69285, Angular: -0.0057323
+Published Odometry - x: 4.4654, y: -0.407962, yaw: 0.12098, Actual Linear Velocity: 0.708468, Actual Angular Velocity: -0.0157181
+Published IMU - Angular Velocity: [0, 0, -0.0157181]
+Cmd Velocities - Linear: 0.69285, Angular: -0.0057323
+Published Odometry - x: 4.53553, y: -0.399436, yaw: 0.121241, Actual Linear Velocity: 0.706432, Actual Angular Velocity: 0.00260686
+Published IMU - Angular Velocity: [0, 0, 0.00260686]
+Cmd Velocities - Linear: 0.691289, Angular: -0.00349182
+Published Odometry - x: 4.60527, y: -0.390939, yaw: 0.120123, Actual Linear Velocity: 0.702574, Actual Angular Velocity: -0.0111775
+Published IMU - Angular Velocity: [0, 0, -0.0111775]
+Cmd Velocities - Linear: 0.695133, Angular: -0.0133367
+Published Odometry - x: 4.67294, y: -0.382771, yaw: 0.118426, Actual Linear Velocity: 0.68163, Actual Angular Velocity: -0.0169744
+Published IMU - Angular Velocity: [0, 0, -0.0169744]
+Cmd Velocities - Linear: 0.698745, Angular: -0.010798
+Published Odometry - x: 4.74167, y: -0.374594, yaw: 0.116763, Actual Linear Velocity: 0.692088, Actual Angular Velocity: -0.0166249
+Published IMU - Angular Velocity: [0, 0, -0.0166249]
+Cmd Velocities - Linear: 0.699195, Angular: -0.00826089
+Published Odometry - x: 4.80927, y: -0.366664, yaw: 0.11425, Actual Linear Velocity: 0.680703, Actual Angular Velocity: -0.0251323
+Published IMU - Angular Velocity: [0, 0, -0.0251323]
+Cmd Velocities - Linear: 0.699195, Angular: -0.00826089
+Published Odometry - x: 4.8787, y: -0.358697, yaw: 0.112435, Actual Linear Velocity: 0.69884, Actual Angular Velocity: -0.0181522
+Published IMU - Angular Velocity: [0, 0, -0.0181522]
+Cmd Velocities - Linear: 0.701885, Angular: 0.000181802
+Published Odometry - x: 4.94686, y: -0.351001, yaw: 0.114275, Actual Linear Velocity: 0.685919, Actual Angular Velocity: 0.0184024
+Published IMU - Angular Velocity: [0, 0, 0.0184024]
+Cmd Velocities - Linear: 0.703956, Angular: -0.00936128
+Published Odometry - x: 5.01582, y: -0.343086, yaw: 0.112311, Actual Linear Velocity: 0.694138, Actual Angular Velocity: -0.0196408
+Published IMU - Angular Velocity: [0, 0, -0.0196408]
+Cmd Velocities - Linear: 0.704447, Angular: -0.00223005
+Published Odometry - x: 5.08605, y: -0.335165, yaw: 0.113696, Actual Linear Velocity: 0.706751, Actual Angular Velocity: 0.0138498
+Published IMU - Angular Velocity: [0, 0, 0.0138498]
+Cmd Velocities - Linear: 0.704314, Angular: -0.0133447
+Published Odometry - x: 5.15553, y: -0.327231, yaw: 0.113344, Actual Linear Velocity: 0.699315, Actual Angular Velocity: -0.00352379
+Published IMU - Angular Velocity: [0, 0, -0.00352379]
+Cmd Velocities - Linear: 0.704314, Angular: -0.0133447
+Published Odometry - x: 5.22657, y: -0.319145, yaw: 0.112576, Actual Linear Velocity: 0.714966, Actual Angular Velocity: -0.00767808
+Published IMU - Angular Velocity: [0, 0, -0.00767808]
+Cmd Velocities - Linear: 0.705711, Angular: -0.0107815
+Published Odometry - x: 5.29858, y: -0.311004, yaw: 0.11282, Actual Linear Velocity: 0.724727, Actual Angular Velocity: 0.00244523
+Published IMU - Angular Velocity: [0, 0, 0.00244523]
+Cmd Velocities - Linear: 0.705689, Angular: -0.012372
+Published Odometry - x: 5.36684, y: -0.303269, yaw: 0.111085, Actual Linear Velocity: 0.686983, Actual Angular Velocity: -0.0173546
+Published IMU - Angular Velocity: [0, 0, -0.0173546]
+Cmd Velocities - Linear: 0.705689, Angular: -0.012372
+Published Odometry - x: 5.43576, y: -0.295583, yaw: 0.110235, Actual Linear Velocity: 0.693415, Actual Angular Velocity: -0.00849413
+Published IMU - Angular Velocity: [0, 0, -0.00849413]
+Cmd Velocities - Linear: 0.710644, Angular: 0.00860492
+Published Odometry - x: 5.50836, y: -0.287547, yaw: 0.111095, Actual Linear Velocity: 0.73043, Actual Angular Velocity: 0.00859584
+Published IMU - Angular Velocity: [0, 0, 0.00859584]
+Cmd Velocities - Linear: 0.707739, Angular: 0.00780393
+Published Odometry - x: 5.57739, y: -0.279846, yaw: 0.111007, Actual Linear Velocity: 0.694588, Actual Angular Velocity: -0.000882973
+Published IMU - Angular Velocity: [0, 0, -0.000882973]
+Cmd Velocities - Linear: 0.707739, Angular: 0.00780393
+Published Odometry - x: 5.64936, y: -0.271824, yaw: 0.111384, Actual Linear Velocity: 0.724173, Actual Angular Velocity: 0.00377624
+Published IMU - Angular Velocity: [0, 0, 0.00377624]
+Cmd Velocities - Linear: 0.709723, Angular: 0.0187099
+Published Odometry - x: 5.71924, y: -0.264008, yaw: 0.113067, Actual Linear Velocity: 0.703147, Actual Angular Velocity: 0.0168252
+Published IMU - Angular Velocity: [0, 0, 0.0168252]
+Cmd Velocities - Linear: 0.712478, Angular: 0.0171782
+Published Odometry - x: 5.7902, y: -0.255951, yaw: 0.11577, Actual Linear Velocity: 0.71415, Actual Angular Velocity: 0.0270295
+Published IMU - Angular Velocity: [0, 0, 0.0270295]
+Cmd Velocities - Linear: 0.71184, Angular: 0.00977069
+Published Odometry - x: 5.86171, y: -0.247635, yaw: 0.117392, Actual Linear Velocity: 0.719932, Actual Angular Velocity: 0.0162178
+Published IMU - Angular Velocity: [0, 0, 0.0162178]
+Cmd Velocities - Linear: 0.711672, Angular: 0.0079324
+Published Odometry - x: 5.93419, y: -0.239087, yaw: 0.119794, Actual Linear Velocity: 0.729843, Actual Angular Velocity: 0.0240246
+Published IMU - Angular Velocity: [0, 0, 0.0240246]
+Cmd Velocities - Linear: 0.711672, Angular: 0.0079324
+Published Odometry - x: 6.00673, y: -0.230355, yaw: 0.120227, Actual Linear Velocity: 0.730641, Actual Angular Velocity: 0.00433072
+Published IMU - Angular Velocity: [0, 0, 0.00433072]
+Cmd Velocities - Linear: 0.711088, Angular: 0.00102776
+Published Odometry - x: 6.07578, y: -0.222013, yaw: 0.118622, Actual Linear Velocity: 0.695485, Actual Angular Velocity: -0.0160507
+Published IMU - Angular Velocity: [0, 0, -0.0160507]
+Cmd Velocities - Linear: 0.715463, Angular: 0.0211625
+Published Odometry - x: 6.14488, y: -0.213778, yaw: 0.120288, Actual Linear Velocity: 0.695909, Actual Angular Velocity: 0.0166578
+Published IMU - Angular Velocity: [0, 0, 0.0166578]
+Cmd Velocities - Linear: 0.715815, Angular: 0.0200371
+Published Odometry - x: 6.2146, y: -0.20535, yaw: 0.123525, Actual Linear Velocity: 0.702279, Actual Angular Velocity: 0.0323695
+Published IMU - Angular Velocity: [0, 0, 0.0323695]
+Cmd Velocities - Linear: 0.71558, Angular: 0.00909479
+Published Odometry - x: 6.28392, y: -0.196744, yaw: 0.12395, Actual Linear Velocity: 0.698494, Actual Angular Velocity: 0.004253
+Published IMU - Angular Velocity: [0, 0, 0.004253]
+Cmd Velocities - Linear: 0.71558, Angular: 0.00909479
+Published Odometry - x: 6.3549, y: -0.187901, yaw: 0.123725, Actual Linear Velocity: 0.71531, Actual Angular Velocity: -0.00225539
+Published IMU - Angular Velocity: [0, 0, -0.00225539]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.3552, y: -0.187863, yaw: 0.122298, Actual Linear Velocity: 0.00306551, Actual Angular Velocity: -0.0142702
+Published IMU - Angular Velocity: [0, 0, -0.0142702]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35391, y: -0.188022, yaw: 0.121796, Actual Linear Velocity: -0.0130829, Actual Angular Velocity: -0.00501514
+Published IMU - Angular Velocity: [0, 0, -0.00501514]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35506, y: -0.187881, yaw: 0.120799, Actual Linear Velocity: 0.0116463, Actual Angular Velocity: -0.00997017
+Published IMU - Angular Velocity: [0, 0, -0.00997017]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35447, y: -0.187952, yaw: 0.120448, Actual Linear Velocity: -0.00592525, Actual Angular Velocity: -0.00351158
+Published IMU - Angular Velocity: [0, 0, -0.00351158]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35408, y: -0.188, yaw: 0.121673, Actual Linear Velocity: -0.00397909, Actual Angular Velocity: 0.0122542
+Published IMU - Angular Velocity: [0, 0, 0.0122542]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35594, y: -0.187772, yaw: 0.120502, Actual Linear Velocity: 0.0187688, Actual Angular Velocity: -0.0117116
+Published IMU - Angular Velocity: [0, 0, -0.0117116]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35787, y: -0.187539, yaw: 0.119834, Actual Linear Velocity: 0.0193969, Actual Angular Velocity: -0.00668526
+Published IMU - Angular Velocity: [0, 0, -0.00668526]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35669, y: -0.187681, yaw: 0.118489, Actual Linear Velocity: -0.0118339, Actual Angular Velocity: -0.0134425
+Published IMU - Angular Velocity: [0, 0, -0.0134425]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35507, y: -0.187874, yaw: 0.117477, Actual Linear Velocity: -0.0163702, Actual Angular Velocity: -0.010119
+Published IMU - Angular Velocity: [0, 0, -0.010119]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35545, y: -0.187829, yaw: 0.119424, Actual Linear Velocity: 0.0038681, Actual Angular Velocity: 0.0194692
+Published IMU - Angular Velocity: [0, 0, 0.0194692]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35596, y: -0.187768, yaw: 0.119011, Actual Linear Velocity: 0.00511993, Actual Angular Velocity: -0.00413379
+Published IMU - Angular Velocity: [0, 0, -0.00413379]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35564, y: -0.187806, yaw: 0.118922, Actual Linear Velocity: -0.00319795, Actual Angular Velocity: -0.000889651
+Published IMU - Angular Velocity: [0, 0, -0.000889651]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35554, y: -0.187818, yaw: 0.118639, Actual Linear Velocity: -0.00102719, Actual Angular Velocity: -0.00283034
+Published IMU - Angular Velocity: [0, 0, -0.00283034]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35615, y: -0.187746, yaw: 0.117758, Actual Linear Velocity: 0.00609861, Actual Angular Velocity: -0.00881232
+Published IMU - Angular Velocity: [0, 0, -0.00881232]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35501, y: -0.18788, yaw: 0.116772, Actual Linear Velocity: -0.0114136, Actual Angular Velocity: -0.00985355
+Published IMU - Angular Velocity: [0, 0, -0.00985355]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35669, y: -0.187683, yaw: 0.115775, Actual Linear Velocity: 0.0169225, Actual Angular Velocity: -0.00997381
+Published IMU - Angular Velocity: [0, 0, -0.00997381]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35672, y: -0.18768, yaw: 0.117115, Actual Linear Velocity: 0.000255602, Actual Angular Velocity: 0.0134027
+Published IMU - Angular Velocity: [0, 0, 0.0134027]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35631, y: -0.187728, yaw: 0.118198, Actual Linear Velocity: -0.00414049, Actual Angular Velocity: 0.0108247
+Published IMU - Angular Velocity: [0, 0, 0.0108247]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35727, y: -0.187614, yaw: 0.117286, Actual Linear Velocity: 0.00968008, Actual Angular Velocity: -0.00911458
+Published IMU - Angular Velocity: [0, 0, -0.00911458]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35559, y: -0.187812, yaw: 0.118651, Actual Linear Velocity: -0.0169098, Actual Angular Velocity: 0.0136446
+Published IMU - Angular Velocity: [0, 0, 0.0136446]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35736, y: -0.187601, yaw: 0.120435, Actual Linear Velocity: 0.0177924, Actual Angular Velocity: 0.0178385
+Published IMU - Angular Velocity: [0, 0, 0.0178385]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35628, y: -0.187732, yaw: 0.12188, Actual Linear Velocity: -0.010856, Actual Angular Velocity: 0.0144572
+Published IMU - Angular Velocity: [0, 0, 0.0144572]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35727, y: -0.18761, yaw: 0.12155, Actual Linear Velocity: 0.0100042, Actual Angular Velocity: -0.00330169
+Published IMU - Angular Velocity: [0, 0, -0.00330169]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35912, y: -0.187384, yaw: 0.121217, Actual Linear Velocity: 0.0186335, Actual Angular Velocity: -0.00332643
+Published IMU - Angular Velocity: [0, 0, -0.00332643]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35953, y: -0.187334, yaw: 0.123167, Actual Linear Velocity: 0.00413439, Actual Angular Velocity: 0.0194972
+Published IMU - Angular Velocity: [0, 0, 0.0194972]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.36024, y: -0.187247, yaw: 0.122115, Actual Linear Velocity: 0.00711329, Actual Angular Velocity: -0.0105267
+Published IMU - Angular Velocity: [0, 0, -0.0105267]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.36063, y: -0.187199, yaw: 0.120409, Actual Linear Velocity: 0.00395119, Actual Angular Velocity: -0.0170515
+Published IMU - Angular Velocity: [0, 0, -0.0170515]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35945, y: -0.187341, yaw: 0.12134, Actual Linear Velocity: -0.0118814, Actual Angular Velocity: 0.00930395
+Published IMU - Angular Velocity: [0, 0, 0.00930395]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35833, y: -0.187478, yaw: 0.120423, Actual Linear Velocity: -0.011255, Actual Angular Velocity: -0.00917195
+Published IMU - Angular Velocity: [0, 0, -0.00917195]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35816, y: -0.187498, yaw: 0.121324, Actual Linear Velocity: -0.0016907, Actual Angular Velocity: 0.00900938
+Published IMU - Angular Velocity: [0, 0, 0.00900938]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35791, y: -0.187529, yaw: 0.120293, Actual Linear Velocity: -0.0025691, Actual Angular Velocity: -0.0103009
+Published IMU - Angular Velocity: [0, 0, -0.0103009]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35624, y: -0.187731, yaw: 0.118486, Actual Linear Velocity: -0.0168424, Actual Angular Velocity: -0.0180694
+Published IMU - Angular Velocity: [0, 0, -0.0180694]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35764, y: -0.187564, yaw: 0.117601, Actual Linear Velocity: 0.0141519, Actual Angular Velocity: -0.00885746
+Published IMU - Angular Velocity: [0, 0, -0.00885746]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35638, y: -0.187713, yaw: 0.117724, Actual Linear Velocity: -0.0127208, Actual Angular Velocity: 0.00123722
+Published IMU - Angular Velocity: [0, 0, 0.00123722]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35534, y: -0.187836, yaw: 0.119014, Actual Linear Velocity: -0.0104901, Actual Angular Velocity: 0.012892
+Published IMU - Angular Velocity: [0, 0, 0.012892]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35529, y: -0.187842, yaw: 0.118435, Actual Linear Velocity: -0.000491513, Actual Angular Velocity: -0.0057899
+Published IMU - Angular Velocity: [0, 0, -0.0057899]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.3539, y: -0.188007, yaw: 0.120062, Actual Linear Velocity: -0.0139852, Actual Angular Velocity: 0.0162683
+Published IMU - Angular Velocity: [0, 0, 0.0162683]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35275, y: -0.188146, yaw: 0.12039, Actual Linear Velocity: -0.0115463, Actual Angular Velocity: 0.00328468
+Published IMU - Angular Velocity: [0, 0, 0.00328468]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35223, y: -0.188209, yaw: 0.11853, Actual Linear Velocity: -0.00525564, Actual Angular Velocity: -0.0186012
+Published IMU - Angular Velocity: [0, 0, -0.0186012]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35145, y: -0.188302, yaw: 0.120399, Actual Linear Velocity: -0.00788516, Actual Angular Velocity: 0.0186901
+Published IMU - Angular Velocity: [0, 0, 0.0186901]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35171, y: -0.188271, yaw: 0.121155, Actual Linear Velocity: 0.00261842, Actual Angular Velocity: 0.00755949
+Published IMU - Angular Velocity: [0, 0, 0.00755949]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34977, y: -0.188506, yaw: 0.122377, Actual Linear Velocity: -0.0195015, Actual Angular Velocity: 0.0122197
+Published IMU - Angular Velocity: [0, 0, 0.0122197]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35068, y: -0.188395, yaw: 0.12242, Actual Linear Velocity: 0.00913812, Actual Angular Velocity: 0.000433021
+Published IMU - Angular Velocity: [0, 0, 0.000433021]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35158, y: -0.188284, yaw: 0.121801, Actual Linear Velocity: 0.00902487, Actual Angular Velocity: -0.00619245
+Published IMU - Angular Velocity: [0, 0, -0.00619245]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35122, y: -0.188329, yaw: 0.120451, Actual Linear Velocity: -0.00363429, Actual Angular Velocity: -0.0134987
+Published IMU - Angular Velocity: [0, 0, -0.0134987]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34937, y: -0.188552, yaw: 0.119138, Actual Linear Velocity: -0.0186132, Actual Angular Velocity: -0.0131308
+Published IMU - Angular Velocity: [0, 0, -0.0131308]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34913, y: -0.18858, yaw: 0.117374, Actual Linear Velocity: -0.00234442, Actual Angular Velocity: -0.0176382
+Published IMU - Angular Velocity: [0, 0, -0.0176382]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34971, y: -0.188513, yaw: 0.11621, Actual Linear Velocity: 0.00577145, Actual Angular Velocity: -0.0116446
+Published IMU - Angular Velocity: [0, 0, -0.0116446]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34987, y: -0.188494, yaw: 0.117141, Actual Linear Velocity: 0.00162222, Actual Angular Velocity: 0.00931548
+Published IMU - Angular Velocity: [0, 0, 0.00931548]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35075, y: -0.18839, yaw: 0.117962, Actual Linear Velocity: 0.00883793, Actual Angular Velocity: 0.00821193
+Published IMU - Angular Velocity: [0, 0, 0.00821193]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34997, y: -0.188483, yaw: 0.118763, Actual Linear Velocity: -0.00783439, Actual Angular Velocity: 0.0080094
+Published IMU - Angular Velocity: [0, 0, 0.0080094]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34891, y: -0.188609, yaw: 0.118874, Actual Linear Velocity: -0.0106396, Actual Angular Velocity: 0.00110757
+Published IMU - Angular Velocity: [0, 0, 0.00110757]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.3493, y: -0.188563, yaw: 0.120158, Actual Linear Velocity: 0.00386948, Actual Angular Velocity: 0.0128373
+Published IMU - Angular Velocity: [0, 0, 0.0128373]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35071, y: -0.188392, yaw: 0.118247, Actual Linear Velocity: 0.0142424, Actual Angular Velocity: -0.01911
+Published IMU - Angular Velocity: [0, 0, -0.01911]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35183, y: -0.188259, yaw: 0.119436, Actual Linear Velocity: 0.011287, Actual Angular Velocity: 0.0118953
+Published IMU - Angular Velocity: [0, 0, 0.0118953]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35108, y: -0.188349, yaw: 0.118719, Actual Linear Velocity: -0.00752049, Actual Angular Velocity: -0.00717522
+Published IMU - Angular Velocity: [0, 0, -0.00717522]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34961, y: -0.188524, yaw: 0.117984, Actual Linear Velocity: -0.0148099, Actual Angular Velocity: -0.00735288
+Published IMU - Angular Velocity: [0, 0, -0.00735288]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35008, y: -0.188469, yaw: 0.119496, Actual Linear Velocity: 0.00464507, Actual Angular Velocity: 0.0151284
+Published IMU - Angular Velocity: [0, 0, 0.0151284]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34959, y: -0.188528, yaw: 0.120712, Actual Linear Velocity: -0.00492154, Actual Angular Velocity: 0.0121518
+Published IMU - Angular Velocity: [0, 0, 0.0121518]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34995, y: -0.188484, yaw: 0.120037, Actual Linear Velocity: 0.00367576, Actual Angular Velocity: -0.0067487
+Published IMU - Angular Velocity: [0, 0, -0.0067487]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.3508, y: -0.188381, yaw: 0.118325, Actual Linear Velocity: 0.00859056, Actual Angular Velocity: -0.0171207
+Published IMU - Angular Velocity: [0, 0, -0.0171207]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35008, y: -0.188467, yaw: 0.120245, Actual Linear Velocity: -0.00731952, Actual Angular Velocity: 0.0192056
+Published IMU - Angular Velocity: [0, 0, 0.0192056]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35121, y: -0.18833, yaw: 0.12085, Actual Linear Velocity: 0.0114495, Actual Angular Velocity: 0.00604959
+Published IMU - Angular Velocity: [0, 0, 0.00604959]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.34933, y: -0.188559, yaw: 0.120785, Actual Linear Velocity: -0.0190283, Actual Angular Velocity: -0.000651074
+Published IMU - Angular Velocity: [0, 0, -0.000651074]
+Cmd Velocities - Linear: 0, Angular: 0
+Published Odometry - x: 6.35118, y: -0.188334, yaw: 0.122327, Actual Linear Velocity: 0.0187067, Actual Angular Velocity: 0.0154194
+Published IMU - Angular Velocity: [0, 0, 0.0154194]

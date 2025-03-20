@@ -1,0 +1,1355 @@
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00147385, y: 0, Yaw: -0.00248099
+Published Sensor Position (with offset) - x: -0.121647, y: -0.0697021
+Published Sensor Linear Velocity: -0.0164752, Angular Velocity: -0.0248099
+Published IMU - Angular Velocity: [0, 0, -0.0248099]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00259801, y: 2.78904e-06, Yaw: 0.00612433
+Published Sensor Position (with offset) - x: -0.122167, y: -0.0707308
+Published Sensor Linear Velocity: -0.00521791, Angular Velocity: 0.0860532
+Published IMU - Angular Velocity: [0, 0, 0.0860532]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00085927, y: 1.34378e-05, Yaw: 0.0146653
+Published Sensor Position (with offset) - x: -0.11982, y: -0.0717388
+Published Sensor Linear Velocity: 0.0233664, Angular Velocity: 0.0854097
+Published IMU - Angular Velocity: [0, 0, 0.0854097]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00272078, y: -1.38638e-05, Yaw: 0.0237681
+Published Sensor Position (with offset) - x: -0.121023, y: -0.072846
+Published Sensor Linear Velocity: -0.0122451, Angular Velocity: 0.0910284
+Published IMU - Angular Velocity: [0, 0, 0.0910284]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00468943, y: -6.06638e-05, Yaw: 0.00558111
+Published Sensor Position (with offset) - x: -0.124297, y: -0.0707293
+Published Sensor Linear Velocity: -0.032423, Angular Velocity: -0.18187
+Published IMU - Angular Velocity: [0, 0, -0.18187]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00394235, y: -5.64942e-05, Yaw: 0.0158184
+Published Sensor Position (with offset) - x: -0.12282, y: -0.0719459
+Published Sensor Linear Velocity: 0.014637, Angular Velocity: 0.102373
+Published IMU - Angular Velocity: [0, 0, 0.102373]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00383465, y: -5.47904e-05, Yaw: 0.0338284
+Published Sensor Position (with offset) - x: -0.121398, y: -0.0740734
+Published Sensor Linear Velocity: 0.0136841, Angular Velocity: 0.1801
+Published IMU - Angular Velocity: [0, 0, 0.1801]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00303035, y: -2.75718e-05, Yaw: 0.0649974
+Published Sensor Position (with offset) - x: -0.11823, y: -0.077674
+Published Sensor Linear Velocity: 0.0298659, Angular Velocity: 0.31169
+Published IMU - Angular Velocity: [0, 0, 0.31169]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00483667, y: -0.000145143, Yaw: 0.0814077
+Published Sensor Position (with offset) - x: -0.118747, y: -0.0796715
+Published Sensor Linear Velocity: -0.00661418, Angular Velocity: 0.164103
+Published IMU - Angular Velocity: [0, 0, 0.164103]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00381442, y: -6.17405e-05, Yaw: 0.0873941
+Published Sensor Position (with offset) - x: -0.117247, y: -0.0802685
+Published Sensor Linear Velocity: 0.0144468, Angular Velocity: 0.0598633
+Published IMU - Angular Velocity: [0, 0, 0.0598633]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00189159, y: 0.000106733, Yaw: 0.107727
+Published Sensor Position (with offset) - x: -0.11367, y: -0.0823897
+Published Sensor Linear Velocity: 0.0335348, Angular Velocity: 0.203325
+Published IMU - Angular Velocity: [0, 0, 0.203325]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00359094, y: -7.70434e-05, Yaw: 0.148237
+Published Sensor Position (with offset) - x: -0.111936, y: -0.0870327
+Published Sensor Linear Velocity: 0.0112646, Angular Velocity: 0.405103
+Published IMU - Angular Velocity: [0, 0, 0.405103]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.0038425, y: -0.00011461, Yaw: 0.181624
+Published Sensor Position (with offset) - x: -0.109225, y: -0.0906385
+Published Sensor Linear Velocity: 0.0208274, Angular Velocity: 0.33387
+Published IMU - Angular Velocity: [0, 0, 0.33387]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00472807, y: -0.000277242, Yaw: 0.190232
+Published Sensor Position (with offset) - x: -0.109327, y: -0.0917048
+Published Sensor Linear Velocity: -0.00297823, Angular Velocity: 0.0860786
+Published IMU - Angular Velocity: [0, 0, 0.0860786]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00316613, y: 2.35239e-05, Yaw: 0.171244
+Published Sensor Position (with offset) - x: -0.109482, y: -0.0894016
+Published Sensor Linear Velocity: 0.00261467, Angular Velocity: -0.18988
+Published IMU - Angular Velocity: [0, 0, -0.18988]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00314831, y: 2.66069e-05, Yaw: 0.14411
+Published Sensor Position (with offset) - x: -0.111852, y: -0.0864812
+Published Sensor Linear Velocity: -0.0188125, Angular Velocity: -0.271334
+Published IMU - Angular Velocity: [0, 0, -0.271334]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00317215, y: 2.31468e-05, Yaw: 0.096297
+Published Sensor Position (with offset) - x: -0.115886, y: -0.0811903
+Published Sensor Linear Velocity: -0.0337102, Angular Velocity: -0.478133
+Published IMU - Angular Velocity: [0, 0, -0.478133]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00486926, y: -0.000140786, Yaw: 0.0483628
+Published Sensor Position (with offset) - x: -0.121345, y: -0.0758602
+Published Sensor Linear Velocity: -0.050604, Angular Velocity: -0.479343
+Published IMU - Angular Velocity: [0, 0, -0.479343]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00321592, y: -6.07641e-05, Yaw: 0.005143
+Published Sensor Position (with offset) - x: -0.122854, y: -0.070677
+Published Sensor Linear Velocity: -0.0137011, Angular Velocity: -0.432198
+Published IMU - Angular Velocity: [0, 0, -0.432198]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00501556, y: -7.00197e-05, Yaw: -0.0156902
+Published Sensor Position (with offset) - x: -0.126099, y: -0.0681787
+Published Sensor Linear Velocity: -0.0325799, Angular Velocity: -0.208332
+Published IMU - Angular Velocity: [0, 0, -0.208332]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00651392, y: -4.65083e-05, Yaw: -0.02224
+Published Sensor Position (with offset) - x: -0.128041, y: -0.0673606
+Published Sensor Linear Velocity: -0.0195702, Angular Velocity: -0.0654974
+Published IMU - Angular Velocity: [0, 0, -0.0654974]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00599587, y: -5.80315e-05, Yaw: -0.0143293
+Published Sensor Position (with offset) - x: -0.126987, y: -0.0683314
+Published Sensor Linear Velocity: 0.0107192, Angular Velocity: 0.0791066
+Published IMU - Angular Velocity: [0, 0, 0.0791066]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00444174, y: -8.03027e-05, Yaw: -0.0191694
+Published Sensor Position (with offset) - x: -0.125761, y: -0.0677672
+Published Sensor Linear Velocity: 0.0121548, Angular Velocity: -0.0484013
+Published IMU - Angular Velocity: [0, 0, -0.0484013]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00438866, y: -8.13204e-05, Yaw: -0.00255923
+Published Sensor Position (with offset) - x: -0.124567, y: -0.069774
+Published Sensor Linear Velocity: 0.0121581, Angular Velocity: 0.166102
+Published IMU - Angular Velocity: [0, 0, 0.166102]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00302262, y: -8.48164e-05, Yaw: 0.00660177
+Published Sensor Position (with offset) - x: -0.122558, y: -0.0708755
+Published Sensor Linear Velocity: 0.0200731, Angular Velocity: 0.09161
+Published IMU - Angular Velocity: [0, 0, 0.09161]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00315094, y: -8.56636e-05, Yaw: -0.00484628
+Published Sensor Position (with offset) - x: -0.123489, y: -0.0695033
+Published Sensor Linear Velocity: -0.00929694, Angular Velocity: -0.11448
+Published IMU - Angular Velocity: [0, 0, -0.11448]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00286433, y: -8.70526e-05, Yaw: -0.0426757
+Published Sensor Position (with offset) - x: -0.125741, y: -0.0649038
+Published Sensor Linear Velocity: -0.0236144, Angular Velocity: -0.378294
+Published IMU - Angular Velocity: [0, 0, -0.378294]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.0028704, y: -8.67933e-05, Yaw: -0.0602033
+Published Sensor Position (with offset) - x: -0.126865, y: -0.0627399
+Published Sensor Linear Velocity: -0.0123301, Angular Velocity: -0.175276
+Published IMU - Angular Velocity: [0, 0, -0.175276]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00131028, y: -0.000180831, Yaw: -0.0547046
+Published Sensor Position (with offset) - x: -0.124958, y: -0.0635148
+Published Sensor Linear Velocity: 0.0194786, Angular Velocity: 0.0549869
+Published IMU - Angular Velocity: [0, 0, 0.0549869]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00245756, y: -0.000118007, Yaw: -0.0721658
+Published Sensor Position (with offset) - x: -0.127192, y: -0.0612834
+Published Sensor Linear Velocity: -0.0237128, Angular Velocity: -0.174612
+Published IMU - Angular Velocity: [0, 0, -0.174612]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00335686, y: -5.29956e-05, Yaw: -0.092275
+Published Sensor Position (with offset) - x: -0.129296, y: -0.0586979
+Published Sensor Linear Velocity: -0.0230929, Angular Velocity: -0.201091
+Published IMU - Angular Velocity: [0, 0, -0.201091]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00252115, y: -0.00013033, Yaw: -0.125117
+Published Sensor Position (with offset) - x: -0.130318, y: -0.0546083
+Published Sensor Linear Velocity: -0.0145965, Angular Velocity: -0.328418
+Published IMU - Angular Velocity: [0, 0, -0.328418]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00324529, y: -3.92528e-05, Yaw: -0.144143
+Published Sensor Position (with offset) - x: -0.132056, y: -0.0520759
+Published Sensor Linear Velocity: -0.020617, Angular Velocity: -0.190266
+Published IMU - Angular Velocity: [0, 0, -0.190266]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00252743, y: -0.00014345, Yaw: -0.167188
+Published Sensor Position (with offset) - x: -0.132503, y: -0.0491982
+Published Sensor Linear Velocity: -0.00887762, Angular Velocity: -0.23045
+Published IMU - Angular Velocity: [0, 0, -0.23045]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00391764, y: 9.11663e-05, Yaw: -0.166207
+Published Sensor Position (with offset) - x: -0.133845, y: -0.0490911
+Published Sensor Linear Velocity: -0.0134115, Angular Velocity: 0.00981716
+Published IMU - Angular Velocity: [0, 0, 0.00981716]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.0021211, y: -0.000210209, Yaw: -0.186476
+Published Sensor Position (with offset) - x: -0.133019, y: -0.046749
+Published Sensor Linear Velocity: 0.00402775, Angular Velocity: -0.202694
+Published IMU - Angular Velocity: [0, 0, -0.202694]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00247971, y: -0.000142552, Yaw: -0.199956
+Published Sensor Position (with offset) - x: -0.133993, y: -0.0449127
+Published Sensor Linear Velocity: -0.0130852, Angular Velocity: -0.134799
+Published IMU - Angular Velocity: [0, 0, -0.134799]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00252474, y: -0.000133426, Yaw: -0.183844
+Published Sensor Position (with offset) - x: -0.133299, y: -0.0470165
+Published Sensor Linear Velocity: 0.0108186, Angular Velocity: 0.161115
+Published IMU - Angular Velocity: [0, 0, 0.161115]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00370547, y: 8.61236e-05, Yaw: -0.162278
+Published Sensor Position (with offset) - x: -0.133439, y: -0.0496062
+Published Sensor Linear Velocity: 0.00308651, Angular Velocity: 0.21566
+Published IMU - Angular Velocity: [0, 0, 0.21566]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.0031084, y: -1.16268e-05, Yaw: -0.125609
+Published Sensor Position (with offset) - x: -0.130933, y: -0.0544267
+Published Sensor Linear Velocity: 0.0317188, Angular Velocity: 0.366695
+Published IMU - Angular Velocity: [0, 0, 0.366695]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00320193, y: 1.83542e-07, Yaw: -0.111983
+Published Sensor Position (with offset) - x: -0.130273, y: -0.0561515
+Published Sensor Linear Velocity: 0.00859551, Angular Velocity: 0.136261
+Published IMU - Angular Velocity: [0, 0, 0.136261]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.0016053, y: -0.000179363, Yaw: -0.121782
+Published Sensor Position (with offset) - x: -0.12922, y: -0.0550832
+Published Sensor Linear Velocity: 0.00920746, Angular Velocity: -0.0979926
+Published IMU - Angular Velocity: [0, 0, -0.0979926]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00196139, y: -0.000135781, Yaw: -0.107042
+Published Sensor Position (with offset) - x: -0.128753, y: -0.0569146
+Published Sensor Linear Velocity: 0.0067302, Angular Velocity: 0.147395
+Published IMU - Angular Velocity: [0, 0, 0.147395]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00330487, y: 8.57881e-06, Yaw: -0.102488
+Published Sensor Position (with offset) - x: -0.129837, y: -0.057347
+Published Sensor Linear Velocity: -0.0103241, Angular Velocity: 0.0455423
+Published IMU - Angular Velocity: [0, 0, 0.0455423]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00475677, y: 0.000157905, Yaw: -0.101266
+Published Sensor Position (with offset) - x: -0.131219, y: -0.0573523
+Published Sensor Linear Velocity: -0.0137402, Angular Velocity: 0.0122206
+Published IMU - Angular Velocity: [0, 0, 0.0122206]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00494659, y: 0.000177193, Yaw: -0.0743182
+Published Sensor Position (with offset) - x: -0.129813, y: -0.0607196
+Published Sensor Linear Velocity: 0.0169556, Angular Velocity: 0.269479
+Published IMU - Angular Velocity: [0, 0, 0.269479]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00608245, y: 0.000261764, Yaw: -0.0266846
+Published Sensor Position (with offset) - x: -0.127907, y: -0.0665115
+Published Sensor Linear Velocity: 0.0219534, Angular Velocity: 0.476336
+Published IMU - Angular Velocity: [0, 0, 0.476336]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00463953, y: 0.000223251, Yaw: 0.0145015
+Published Sensor Position (with offset) - x: -0.123612, y: -0.0715095
+Published Sensor Linear Velocity: 0.0432647, Angular Velocity: 0.411861
+Published IMU - Angular Velocity: [0, 0, 0.411861]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00336942, y: 0.000241671, Yaw: 0.0475386
+Published Sensor Position (with offset) - x: -0.119907, y: -0.0753817
+Published Sensor Linear Velocity: 0.0358284, Angular Velocity: 0.330371
+Published IMU - Angular Velocity: [0, 0, 0.330371]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00283906, y: 0.000266903, Yaw: 0.0953379
+Published Sensor Position (with offset) - x: -0.115631, y: -0.0808384
+Published Sensor Linear Velocity: 0.0387691, Angular Velocity: 0.477993
+Published IMU - Angular Velocity: [0, 0, 0.477993]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00203391, y: 0.000343898, Yaw: 0.163574
+Published Sensor Position (with offset) - x: -0.109033, y: -0.0882631
+Published Sensor Linear Velocity: 0.0558533, Angular Velocity: 0.682358
+Published IMU - Angular Velocity: [0, 0, 0.682358]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00286539, y: 0.000206662, Yaw: 0.222928
+Published Sensor Position (with offset) - x: -0.10442, y: -0.0945914
+Published Sensor Linear Velocity: 0.0331204, Angular Velocity: 0.593539
+Published IMU - Angular Velocity: [0, 0, 0.593539]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00320077, y: 0.000130634, Yaw: 0.296396
+Published Sensor Position (with offset) - x: -0.0975229, y: -0.101866
+Published Sensor Linear Velocity: 0.0479892, Angular Velocity: 0.734687
+Published IMU - Angular Velocity: [0, 0, 0.734687]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: -0.00232185, y: 0.000399049, Yaw: 0.372308
+Published Sensor Position (with offset) - x: -0.088637, y: -0.108457
+Published Sensor Linear Velocity: 0.0623281, Angular Velocity: 0.759117
+Published IMU - Angular Velocity: [0, 0, 0.759117]
+Cmd Velocities - Linear: 0.00386158, Angular: -1
+True Position - x: -0.00186905, y: 0.000575878, Yaw: 0.397001
+Published Sensor Position (with offset) - x: -0.0854702, y: -0.110378
+Published Sensor Linear Velocity: 0.0221462, Angular Velocity: 0.246931
+Published IMU - Angular Velocity: [0, 0, 0.246931]
+Cmd Velocities - Linear: 0.000812511, Angular: -1
+True Position - x: -0.000257196, y: 0.00125167, Yaw: 0.427282
+Published Sensor Position (with offset) - x: -0.0804607, y: -0.112183
+Published Sensor Linear Velocity: 0.0386745, Angular Velocity: 0.302809
+Published IMU - Angular Velocity: [0, 0, 0.302809]
+Cmd Velocities - Linear: 0.00138978, Angular: -1
+True Position - x: -0.000327208, y: 0.00121979, Yaw: 0.439831
+Published Sensor Position (with offset) - x: -0.079101, y: -0.113212
+Published Sensor Linear Velocity: 0.00801496, Angular Velocity: 0.125489
+Published IMU - Angular Velocity: [0, 0, 0.125489]
+Cmd Velocities - Linear: 0.00410622, Angular: -1
+True Position - x: -0.000999765, y: 0.000903301, Yaw: 0.415518
+Published Sensor Position (with offset) - x: -0.0825322, y: -0.11158
+Published Sensor Linear Velocity: -0.0244523, Angular Velocity: -0.243132
+Published IMU - Angular Velocity: [0, 0, -0.243132]
+Cmd Velocities - Linear: 0.00674288, Angular: -1
+True Position - x: 0.000449108, y: 0.00154255, Yaw: 0.375455
+Published Sensor Position (with offset) - x: -0.085523, y: -0.107585
+Published Sensor Linear Velocity: -0.0122073, Angular Velocity: -0.400622
+Published IMU - Angular Velocity: [0, 0, -0.400622]
+Cmd Velocities - Linear: 0.00831714, Angular: -1
+True Position - x: 0.00244613, y: 0.00232968, Yaw: 0.301735
+Published Sensor Position (with offset) - x: -0.0913301, y: -0.100169
+Published Sensor Linear Velocity: -0.0301389, Angular Velocity: -0.737205
+Published IMU - Angular Velocity: [0, 0, -0.737205]
+Cmd Velocities - Linear: 0.0114352, Angular: -1
+True Position - x: 0.00311337, y: 0.00253735, Yaw: 0.251113
+Published Sensor Position (with offset) - x: -0.0957293, y: -0.0950851
+Published Sensor Linear Velocity: -0.0284473, Angular Velocity: -0.50622
+Published IMU - Angular Velocity: [0, 0, -0.50622]
+Cmd Velocities - Linear: 0.015907, Angular: -1
+True Position - x: 0.00575402, y: 0.00321476, Yaw: 0.180366
+Published Sensor Position (with offset) - x: -0.099742, y: -0.0871765
+Published Sensor Linear Velocity: -0.0222611, Angular Velocity: -0.707466
+Published IMU - Angular Velocity: [0, 0, -0.707466]
+Cmd Velocities - Linear: 0.0191639, Angular: -1
+True Position - x: 0.00889748, y: 0.00378796, Yaw: 0.0993293
+Published Sensor Position (with offset) - x: -0.103569, y: -0.0777669
+Published Sensor Linear Velocity: -0.024773, Angular Velocity: -0.810371
+Published IMU - Angular Velocity: [0, 0, -0.810371]
+Cmd Velocities - Linear: 0.0235365, Angular: -1
+True Position - x: 0.010273, y: 0.00392504, Yaw: -0.00831856
+Published Sensor Position (with offset) - x: -0.110305, y: -0.0650743
+Published Sensor Linear Velocity: -0.0615302, Angular Velocity: -1.07648
+Published IMU - Angular Velocity: [0, 0, -1.07648]
+Cmd Velocities - Linear: 0.0294909, Angular: -1
+True Position - x: 0.0142337, y: 0.00389209, Yaw: -0.106868
+Published Sensor Position (with offset) - x: -0.112548, y: -0.0529088
+Published Sensor Linear Velocity: -0.0293761, Angular Velocity: -0.985495
+Published IMU - Angular Velocity: [0, 0, -0.985495]
+Cmd Velocities - Linear: 0.0330253, Angular: -1
+True Position - x: 0.0159959, y: 0.00370305, Yaw: -0.204057
+Published Sensor Position (with offset) - x: -0.1157, y: -0.0405273
+Published Sensor Linear Velocity: -0.0503097, Angular Velocity: -0.971893
+Published IMU - Angular Velocity: [0, 0, -0.971893]
+Cmd Velocities - Linear: 0.0401837, Angular: -1
+True Position - x: 0.0186057, y: 0.00316298, Yaw: -0.280035
+Published Sensor Position (with offset) - x: -0.116067, y: -0.0309436
+Published Sensor Linear Velocity: -0.0265329, Angular Velocity: -0.759773
+Published IMU - Angular Velocity: [0, 0, -0.759773]
+Cmd Velocities - Linear: 0.045486, Angular: -1
+True Position - x: 0.0230869, y: 0.00187424, Yaw: -0.354157
+Published Sensor Position (with offset) - x: -0.113742, y: -0.0221656
+Published Sensor Linear Velocity: -0.00525744, Angular Velocity: -0.74122
+Published IMU - Angular Velocity: [0, 0, -0.74122]
+Cmd Velocities - Linear: 0.0500355, Angular: -1
+True Position - x: 0.0275805, y: 0.000212717, Yaw: -0.438706
+Published Sensor Position (with offset) - x: -0.110789, y: -0.0121863
+Published Sensor Linear Velocity: -0.0112741, Angular Velocity: -0.845489
+Published IMU - Angular Velocity: [0, 0, -0.845489]
+Cmd Velocities - Linear: 0.0565567, Angular: -1
+True Position - x: 0.0333388, y: -0.00248907, Yaw: -0.511745
+Published Sensor Position (with offset) - x: -0.105567, y: -0.00475749
+Published Sensor Linear Velocity: 0.0124784, Angular Velocity: -0.730397
+Published IMU - Angular Velocity: [0, 0, -0.730397]
+Cmd Velocities - Linear: 0.0619927, Angular: -1
+True Position - x: 0.0386059, y: -0.00544735, Yaw: -0.578955
+Published Sensor Position (with offset) - x: -0.100139, y: 0.00161818
+Published Sensor Linear Velocity: 0.0133631, Angular Velocity: -0.672099
+Published IMU - Angular Velocity: [0, 0, -0.672099]
+Cmd Velocities - Linear: 0.0696141, Angular: -1
+True Position - x: 0.0439099, y: -0.00891446, Yaw: -0.649481
+Published Sensor Position (with offset) - x: -0.0939919, y: 0.00791045
+Published Sensor Linear Velocity: 0.0139988, Angular Velocity: -0.705257
+Published IMU - Angular Velocity: [0, 0, -0.705257]
+Cmd Velocities - Linear: 0.0769332, Angular: -0.128118
+True Position - x: 0.051368, y: -0.014578, Yaw: -0.683557
+Published Sensor Position (with offset) - x: -0.0858806, y: 0.00693535
+Published Sensor Linear Velocity: 0.0697942, Angular Velocity: -0.340757
+Published IMU - Angular Velocity: [0, 0, -0.340757]
+Cmd Velocities - Linear: 0.0817258, Angular: 1
+True Position - x: 0.0562223, y: -0.0185321, Yaw: -0.686062
+Published Sensor Position (with offset) - x: -0.080972, y: 0.00332498
+Published Sensor Linear Velocity: 0.0608556, Angular Velocity: -0.02505
+Published IMU - Angular Velocity: [0, 0, -0.02505]
+Cmd Velocities - Linear: 0.0932109, Angular: 1
+True Position - x: 0.0640401, y: -0.0249328, Yaw: -0.658691
+Published Sensor Position (with offset) - x: -0.073701, y: -0.0068385
+Published Sensor Linear Velocity: 0.120197, Angular Velocity: 0.273703
+Published IMU - Angular Velocity: [0, 0, 0.273703]
+Cmd Velocities - Linear: 0.0977264, Angular: 1
+True Position - x: 0.0730439, y: -0.0319019, Yaw: -0.606144
+Published Sensor Position (with offset) - x: -0.0654574, y: -0.0210671
+Published Sensor Linear Velocity: 0.150641, Angular Velocity: 0.525468
+Published IMU - Angular Velocity: [0, 0, 0.525468]
+Cmd Velocities - Linear: 0.105097, Angular: 1
+True Position - x: 0.081826, y: -0.0379896, Yaw: -0.563869
+Published Sensor Position (with offset) - x: -0.0570094, y: -0.0330179
+Published Sensor Linear Velocity: 0.13645, Angular Velocity: 0.422753
+Published IMU - Angular Velocity: [0, 0, 0.422753]
+Cmd Velocities - Linear: 0.114635, Angular: 1
+True Position - x: 0.0907721, y: -0.0436466, Yaw: -0.521033
+Published Sensor Position (with offset) - x: -0.0481489, y: -0.0446249
+Published Sensor Linear Velocity: 0.135832, Angular Velocity: 0.428363
+Published IMU - Angular Velocity: [0, 0, 0.428363]
+Cmd Velocities - Linear: 0.123707, Angular: 1
+True Position - x: 0.102458, y: -0.0503538, Yaw: -0.496714
+Published Sensor Position (with offset) - x: -0.0363978, y: -0.0547099
+Published Sensor Linear Velocity: 0.151766, Angular Velocity: 0.243193
+Published IMU - Angular Velocity: [0, 0, 0.243193]
+Cmd Velocities - Linear: 0.129769, Angular: 1
+True Position - x: 0.113789, y: -0.0564955, Yaw: -0.460383
+Published Sensor Position (with offset) - x: -0.0248173, y: -0.0658923
+Published Sensor Linear Velocity: 0.154313, Angular Velocity: 0.363301
+Published IMU - Angular Velocity: [0, 0, 0.363301]
+Cmd Velocities - Linear: 0.139533, Angular: 1
+True Position - x: 0.126568, y: -0.062833, Yaw: -0.425087
+Published Sensor Position (with offset) - x: -0.0116202, y: -0.0771152
+Published Sensor Linear Velocity: 0.167351, Angular Velocity: 0.352963
+Published IMU - Angular Velocity: [0, 0, 0.352963]
+Cmd Velocities - Linear: 0.147367, Angular: 1
+True Position - x: 0.138278, y: -0.0681341, Yaw: -0.381168
+Published Sensor Position (with offset) - x: 0.000850245, y: -0.0884696
+Published Sensor Linear Velocity: 0.159284, Angular Velocity: 0.439188
+Published IMU - Angular Velocity: [0, 0, 0.439188]
+Cmd Velocities - Linear: 0.158161, Angular: 1
+True Position - x: 0.151558, y: -0.073456, Yaw: -0.347941
+Published Sensor Position (with offset) - x: 0.014881, y: -0.0983458
+Published Sensor Linear Velocity: 0.16632, Angular Velocity: 0.332269
+Published IMU - Angular Velocity: [0, 0, 0.332269]
+Cmd Velocities - Linear: 0.166057, Angular: 0.764038
+True Position - x: 0.168876, y: -0.0797372, Yaw: -0.28826
+Published Sensor Position (with offset) - x: 0.0339268, y: -0.112735
+Published Sensor Linear Velocity: 0.225995, Angular Velocity: 0.596812
+Published IMU - Angular Velocity: [0, 0, 0.596812]
+Cmd Velocities - Linear: 0.171288, Angular: -0.304588
+True Position - x: 0.186824, y: -0.0850591, Yaw: -0.225819
+Published Sensor Position (with offset) - x: 0.0541969, y: -0.126413
+Published Sensor Linear Velocity: 0.230913, Angular Velocity: 0.624411
+Published IMU - Angular Velocity: [0, 0, 0.624411]
+Cmd Velocities - Linear: 0.180593, Angular: -1
+True Position - x: 0.203292, y: -0.0888425, Yaw: -0.183765
+Published Sensor Position (with offset) - x: 0.0725212, y: -0.135736
+Published Sensor Linear Velocity: 0.198413, Angular Velocity: 0.420537
+Published IMU - Angular Velocity: [0, 0, 0.420537]
+Cmd Velocities - Linear: 0.192227, Angular: -1
+True Position - x: 0.222928, y: -0.0924921, Yaw: -0.141833
+Published Sensor Position (with offset) - x: 0.094238, y: -0.144826
+Published Sensor Linear Velocity: 0.229076, Angular Velocity: 0.419327
+Published IMU - Angular Velocity: [0, 0, 0.419327]
+Cmd Velocities - Linear: 0.198773, Angular: -1
+True Position - x: 0.243673, y: -0.0954543, Yaw: -0.135167
+Published Sensor Position (with offset) - x: 0.115334, y: -0.148645
+Published Sensor Linear Velocity: 0.214217, Angular Velocity: 0.0666591
+Published IMU - Angular Velocity: [0, 0, 0.0666591]
+Cmd Velocities - Linear: 0.207619, Angular: -1
+True Position - x: 0.264965, y: -0.09835, Yaw: -0.171557
+Published Sensor Position (with offset) - x: 0.134777, y: -0.146836
+Published Sensor Linear Velocity: 0.189413, Angular Velocity: -0.3639
+Published IMU - Angular Velocity: [0, 0, -0.3639]
+Cmd Velocities - Linear: 0.216776, Angular: -1
+True Position - x: 0.285818, y: -0.101963, Yaw: -0.233013
+Published Sensor Position (with offset) - x: 0.152898, y: -0.142362
+Published Sensor Linear Velocity: 0.168616, Angular Velocity: -0.614557
+Published IMU - Angular Velocity: [0, 0, -0.614557]
+Cmd Velocities - Linear: 0.226621, Angular: -1
+True Position - x: 0.308498, y: -0.107345, Yaw: -0.273025
+Published Sensor Position (with offset) - x: 0.174068, y: -0.142395
+Published Sensor Linear Velocity: 0.205092, Angular Velocity: -0.400126
+Published IMU - Angular Velocity: [0, 0, -0.400126]
+Cmd Velocities - Linear: 0.233821, Angular: -1
+True Position - x: 0.331869, y: -0.11389, Yaw: -0.348386
+Published Sensor Position (with offset) - x: 0.195181, y: -0.138719
+Published Sensor Linear Velocity: 0.189943, Angular Velocity: -0.753605
+Published IMU - Angular Velocity: [0, 0, -0.753605]
+Cmd Velocities - Linear: 0.24236, Angular: -0.16721
+True Position - x: 0.356443, y: -0.122815, Yaw: -0.425626
+Published Sensor Position (with offset) - x: 0.218247, y: -0.137023
+Published Sensor Linear Velocity: 0.207379, Angular Velocity: -0.772401
+Published IMU - Angular Velocity: [0, 0, -0.772401]
+Cmd Velocities - Linear: 0.250001, Angular: 1
+True Position - x: 0.380815, y: -0.133863, Yaw: -0.492248
+Published Sensor Position (with offset) - x: 0.241979, y: -0.13884
+Published Sensor Linear Velocity: 0.220954, Angular Velocity: -0.666226
+Published IMU - Angular Velocity: [0, 0, -0.666226]
+Cmd Velocities - Linear: 0.259196, Angular: 1
+True Position - x: 0.402265, y: -0.145367, Yaw: -0.542954
+Published Sensor Position (with offset) - x: 0.263356, y: -0.1433
+Published Sensor Linear Velocity: 0.207909, Angular Velocity: -0.507057
+Published IMU - Angular Velocity: [0, 0, -0.507057]
+Cmd Velocities - Linear: 0.27169, Angular: 1
+True Position - x: 0.426411, y: -0.159938, Yaw: -0.560143
+Published Sensor Position (with offset) - x: 0.287558, y: -0.155484
+Published Sensor Linear Velocity: 0.269988, Angular Velocity: -0.171888
+Published IMU - Angular Velocity: [0, 0, -0.171888]
+Cmd Velocities - Linear: 0.278064, Angular: 1
+True Position - x: 0.449816, y: -0.174616, Yaw: -0.576164
+Published Sensor Position (with offset) - x: 0.311052, y: -0.167938
+Published Sensor Linear Velocity: 0.265052, Angular Velocity: -0.160211
+Published IMU - Angular Velocity: [0, 0, -0.160211]
+Cmd Velocities - Linear: 0.288764, Angular: 1
+True Position - x: 0.473079, y: -0.18973, Yaw: -0.573964
+Published Sensor Position (with offset) - x: 0.334301, y: -0.183357
+Published Sensor Linear Velocity: 0.278959, Angular Velocity: 0.0219965
+Published IMU - Angular Velocity: [0, 0, 0.0219965]
+Cmd Velocities - Linear: 0.298733, Angular: 1
+True Position - x: 0.497772, y: -0.205696, Yaw: -0.560207
+Published Sensor Position (with offset) - x: 0.358919, y: -0.201233
+Published Sensor Linear Velocity: 0.303676, Angular Velocity: 0.137569
+Published IMU - Angular Velocity: [0, 0, 0.137569]
+Cmd Velocities - Linear: 0.306953, Angular: 1
+True Position - x: 0.524333, y: -0.222356, Yaw: -0.552921
+Published Sensor Position (with offset) - x: 0.385452, y: -0.218905
+Published Sensor Linear Velocity: 0.318642, Angular Velocity: 0.0728683
+Published IMU - Angular Velocity: [0, 0, 0.0728683]
+Cmd Velocities - Linear: 0.314804, Angular: 1
+True Position - x: 0.551484, y: -0.239112, Yaw: -0.54154
+Published Sensor Position (with offset) - x: 0.412572, y: -0.237241
+Published Sensor Linear Velocity: 0.327011, Angular Velocity: 0.113811
+Published IMU - Angular Velocity: [0, 0, 0.113811]
+Cmd Velocities - Linear: 0.323847, Angular: 1
+True Position - x: 0.57865, y: -0.255453, Yaw: -0.509593
+Published Sensor Position (with offset) - x: 0.439749, y: -0.25802
+Published Sensor Linear Velocity: 0.339387, Angular Velocity: 0.319467
+Published IMU - Angular Velocity: [0, 0, 0.319467]
+Cmd Velocities - Linear: 0.333319, Angular: 1
+True Position - x: 0.607814, y: -0.271751, Yaw: -0.484693
+Published Sensor Position (with offset) - x: 0.46902, y: -0.277775
+Published Sensor Linear Velocity: 0.351521, Angular Velocity: 0.248995
+Published IMU - Angular Velocity: [0, 0, 0.248995]
+Cmd Velocities - Linear: 0.340558, Angular: 1
+True Position - x: 0.637104, y: -0.287175, Yaw: -0.456363
+Published Sensor Position (with offset) - x: 0.498537, y: -0.297128
+Published Sensor Linear Velocity: 0.35086, Angular Velocity: 0.283301
+Published IMU - Angular Velocity: [0, 0, 0.283301]
+Cmd Velocities - Linear: 0.349275, Angular: 1
+True Position - x: 0.670171, y: -0.303408, Yaw: -0.44574
+Published Sensor Position (with offset) - x: 0.531717, y: -0.314833
+Published Sensor Linear Velocity: 0.375801, Angular Velocity: 0.106233
+Published IMU - Angular Velocity: [0, 0, 0.106233]
+Cmd Velocities - Linear: 0.354512, Angular: 1
+True Position - x: 0.701543, y: -0.318398, Yaw: -0.420157
+Published Sensor Position (with offset) - x: 0.563427, y: -0.333361
+Published Sensor Linear Velocity: 0.365603, Angular Velocity: 0.255831
+Published IMU - Angular Velocity: [0, 0, 0.255831]
+Cmd Velocities - Linear: 0.364666, Angular: 1
+True Position - x: 0.73618, y: -0.333872, Yaw: -0.405039
+Published Sensor Position (with offset) - x: 0.598306, y: -0.350922
+Published Sensor Linear Velocity: 0.389949, Angular Velocity: 0.151175
+Published IMU - Angular Velocity: [0, 0, 0.151175]
+Cmd Velocities - Linear: 0.370154, Angular: 1
+True Position - x: 0.77136, y: -0.348956, Yaw: -0.373427
+Published Sensor Position (with offset) - x: 0.634094, y: -0.370354
+Published Sensor Linear Velocity: 0.404899, Angular Velocity: 0.31612
+Published IMU - Angular Velocity: [0, 0, 0.31612]
+Cmd Velocities - Linear: 0.377895, Angular: 1
+True Position - x: 0.805963, y: -0.362513, Yaw: -0.356253
+Published Sensor Position (with offset) - x: 0.669084, y: -0.386266
+Published Sensor Linear Velocity: 0.383662, Angular Velocity: 0.17174
+Published IMU - Angular Velocity: [0, 0, 0.17174]
+Cmd Velocities - Linear: 0.386056, Angular: 1
+True Position - x: 0.842799, y: -0.376221, Yaw: -0.315339
+Published Sensor Position (with offset) - x: 0.707006, y: -0.405553
+Published Sensor Linear Velocity: 0.421676, Angular Velocity: 0.409139
+Published IMU - Angular Velocity: [0, 0, 0.409139]
+Cmd Velocities - Linear: 0.39194, Angular: 1
+True Position - x: 0.878694, y: -0.387931, Yaw: -0.282685
+Published Sensor Position (with offset) - x: 0.743931, y: -0.42168
+Published Sensor Linear Velocity: 0.400426, Angular Velocity: 0.326541
+Published IMU - Angular Velocity: [0, 0, 0.326541]
+Cmd Velocities - Linear: 0.399643, Angular: 1
+True Position - x: 0.91808, y: -0.399371, Yaw: -0.265771
+Published Sensor Position (with offset) - x: 0.783907, y: -0.435395
+Published Sensor Linear Velocity: 0.421977, Angular Velocity: 0.169144
+Published IMU - Angular Velocity: [0, 0, 0.169144]
+Cmd Velocities - Linear: 0.403739, Angular: 1
+True Position - x: 0.958315, y: -0.410324, Yaw: -0.230889
+Published Sensor Position (with offset) - x: 0.82548, y: -0.451005
+Published Sensor Linear Velocity: 0.441407, Angular Velocity: 0.348821
+Published IMU - Angular Velocity: [0, 0, 0.348821]
+Cmd Velocities - Linear: 0.410017, Angular: 1
+True Position - x: 0.998518, y: -0.419775, Yaw: -0.184819
+Published Sensor Position (with offset) - x: 0.867698, y: -0.46653
+Published Sensor Linear Velocity: 0.44524, Angular Velocity: 0.460703
+Published IMU - Angular Velocity: [0, 0, 0.460703]
+Cmd Velocities - Linear: 0.416584, Angular: 1
+True Position - x: 1.04013, y: -0.427553, Yaw: -0.126749
+Published Sensor Position (with offset) - x: 0.912241, y: -0.481823
+Published Sensor Linear Velocity: 0.463951, Angular Velocity: 0.580695
+Published IMU - Angular Velocity: [0, 0, 0.580695]
+Cmd Velocities - Linear: 0.420973, Angular: 1
+True Position - x: 1.08003, y: -0.432638, Yaw: -0.0613657
+Published Sensor Position (with offset) - x: 0.955961, y: -0.495147
+Published Sensor Linear Velocity: 0.448008, Angular Velocity: 0.653834
+Published IMU - Angular Velocity: [0, 0, 0.653834]
+Cmd Velocities - Linear: 0.427794, Angular: 1
+True Position - x: 1.12293, y: -0.435274, Yaw: 0.0156295
+Published Sensor Position (with offset) - x: 1.00404, y: -0.507141
+Published Sensor Linear Velocity: 0.483764, Angular Velocity: 0.769952
+Published IMU - Angular Velocity: [0, 0, 0.769952]
+Cmd Velocities - Linear: 0.430162, Angular: 1
+True Position - x: 1.16673, y: -0.43459, Yaw: 0.0951221
+Published Sensor Position (with offset) - x: 1.05392, y: -0.515671
+Published Sensor Linear Velocity: 0.493687, Angular Velocity: 0.794926
+Published IMU - Angular Velocity: [0, 0, 0.794926]
+Cmd Velocities - Linear: 0.433793, Angular: 1
+True Position - x: 1.20904, y: -0.430553, Yaw: 0.179374
+Published Sensor Position (with offset) - x: 1.10345, y: -0.52084
+Published Sensor Linear Velocity: 0.483973, Angular Velocity: 0.842516
+Published IMU - Angular Velocity: [0, 0, 0.842516]
+Cmd Velocities - Linear: 0.439333, Angular: 1
+True Position - x: 1.25392, y: -0.422415, Yaw: 0.285146
+Published Sensor Position (with offset) - x: 1.15846, y: -0.523344
+Published Sensor Linear Velocity: 0.530184, Angular Velocity: 1.05772
+Published IMU - Angular Velocity: [0, 0, 1.05772]
+Cmd Velocities - Linear: 0.44081, Angular: 1
+True Position - x: 1.29681, y: -0.409845, Yaw: 0.416249
+Published Sensor Position (with offset) - x: 1.21536, y: -0.522387
+Published Sensor Linear Velocity: 0.538643, Angular Velocity: 1.31104
+Published IMU - Angular Velocity: [0, 0, 1.31104]
+Cmd Velocities - Linear: 0.446502, Angular: 0.0344959
+True Position - x: 1.33626, y: -0.392401, Yaw: 0.541265
+Published Sensor Position (with offset) - x: 1.26948, y: -0.514221
+Published Sensor Linear Velocity: 0.518931, Angular Velocity: 1.25016
+Published IMU - Angular Velocity: [0, 0, 1.25016]
+Cmd Velocities - Linear: 0.453835, Angular: -1
+True Position - x: 1.37463, y: -0.369339, Yaw: 0.649593
+Published Sensor Position (with offset) - x: 1.32141, y: -0.497665
+Published Sensor Linear Velocity: 0.523448, Angular Velocity: 1.08328
+Published IMU - Angular Velocity: [0, 0, 1.08328]
+Cmd Velocities - Linear: 0.459703, Angular: -1
+True Position - x: 1.41029, y: -0.342253, Yaw: 0.75662
+Published Sensor Position (with offset) - x: 1.37108, y: -0.47553
+Published Sensor Linear Velocity: 0.522721, Angular Velocity: 1.07028
+Published IMU - Angular Velocity: [0, 0, 1.07028]
+Cmd Velocities - Linear: 0.468678, Angular: -1
+True Position - x: 1.44338, y: -0.311014, Yaw: 0.813027
+Published Sensor Position (with offset) - x: 1.41175, y: -0.44629
+Published Sensor Linear Velocity: 0.494546, Angular Velocity: 0.564073
+Published IMU - Angular Velocity: [0, 0, 0.564073]
+Cmd Velocities - Linear: 0.47863, Angular: -1
+True Position - x: 1.47669, y: -0.275809, Yaw: 0.820699
+Published Sensor Position (with offset) - x: 1.4461, y: -0.411323
+Published Sensor Linear Velocity: 0.490052, Angular Velocity: 0.0767191
+Published IMU - Angular Velocity: [0, 0, 0.0767191]
+Cmd Velocities - Linear: 0.486538, Angular: -1
+True Position - x: 1.50896, y: -0.241176, Yaw: 0.784874
+Published Sensor Position (with offset) - x: 1.47353, y: -0.375507
+Published Sensor Linear Velocity: 0.448292, Angular Velocity: -0.358256
+Published IMU - Angular Velocity: [0, 0, -0.358256]
+Cmd Velocities - Linear: 0.495728, Angular: -1
+True Position - x: 1.54428, y: -0.205895, Yaw: 0.758594
+Published Sensor Position (with offset) - x: 1.50533, y: -0.33925
+Published Sensor Linear Velocity: 0.480807, Angular Velocity: -0.262796
+Published IMU - Angular Velocity: [0, 0, -0.262796]
+Cmd Velocities - Linear: 0.500168, Angular: -1
+True Position - x: 1.58169, y: -0.170441, Yaw: 0.703156
+Published Sensor Position (with offset) - x: 1.53541, y: -0.301433
+Published Sensor Linear Velocity: 0.476593, Angular Velocity: -0.554382
+Published IMU - Angular Velocity: [0, 0, -0.554382]
+Cmd Velocities - Linear: 0.504966, Angular: -1
+True Position - x: 1.62136, y: -0.136808, Yaw: 0.616743
+Published Sensor Position (with offset) - x: 1.56396, y: -0.263317
+Published Sensor Linear Velocity: 0.459639, Angular Velocity: -0.86413
+Published IMU - Angular Velocity: [0, 0, -0.86413]
+Cmd Velocities - Linear: 0.50843, Angular: -1
+True Position - x: 1.66386, y: -0.106677, Yaw: 0.544551
+Published Sensor Position (with offset) - x: 1.59748, y: -0.228716
+Published Sensor Linear Velocity: 0.470417, Angular Velocity: -0.721924
+Published IMU - Angular Velocity: [0, 0, -0.721924]
+Cmd Velocities - Linear: 0.509867, Angular: -1
+True Position - x: 1.70705, y: -0.0805181, Yaw: 0.47964
+Published Sensor Position (with offset) - x: 1.63289, y: -0.197995
+Published Sensor Linear Velocity: 0.459529, Angular Velocity: -0.649102
+Published IMU - Angular Velocity: [0, 0, -0.649102]
+Cmd Velocities - Linear: 0.51219, Angular: -1
+True Position - x: 1.75156, y: -0.0573661, Yaw: 0.43827
+Published Sensor Position (with offset) - x: 1.67261, y: -0.171675
+Published Sensor Linear Velocity: 0.472752, Angular Velocity: -0.413702
+Published IMU - Angular Velocity: [0, 0, -0.413702]
+Cmd Velocities - Linear: 0.513708, Angular: -1
+True Position - x: 1.79914, y: -0.0350661, Yaw: 0.362935
+Published Sensor Position (with offset) - x: 1.71181, y: -0.143109
+Published Sensor Linear Velocity: 0.472745, Angular Velocity: -0.753352
+Published IMU - Angular Velocity: [0, 0, -0.753352]
+Cmd Velocities - Linear: 0.514479, Angular: -1
+True Position - x: 1.84886, y: -0.0161864, Yaw: 0.262848
+Published Sensor Position (with offset) - x: 1.75117, y: -0.114962
+Published Sensor Linear Velocity: 0.461732, Angular Velocity: -1.00087
+Published IMU - Angular Velocity: [0, 0, -1.00087]
+Cmd Velocities - Linear: 0.514409, Angular: -1
+True Position - x: 1.90032, y: -0.00233909, Yaw: 0.144658
+Published Sensor Position (with offset) - x: 1.79166, y: -0.0889065
+Published Sensor Linear Velocity: 0.450203, Angular Velocity: -1.1819
+Published IMU - Angular Velocity: [0, 0, -1.1819]
+Cmd Velocities - Linear: 0.513082, Angular: -1
+True Position - x: 1.95143, y: 0.0051066, Yaw: 0.0211591
+Published Sensor Position (with offset) - x: 1.83294, y: -0.0674166
+Published Sensor Linear Velocity: 0.43006, Angular Velocity: -1.23499
+Published IMU - Angular Velocity: [0, 0, -1.23499]
+Cmd Velocities - Linear: 0.512053, Angular: -1
+True Position - x: 2.00461, y: 0.0062319, Yaw: -0.104819
+Published Sensor Position (with offset) - x: 1.87794, y: -0.0508287
+Published Sensor Linear Velocity: 0.443685, Angular Velocity: -1.25978
+Published IMU - Angular Velocity: [0, 0, -1.25978]
+Cmd Velocities - Linear: 0.508756, Angular: -1
+True Position - x: 2.05512, y: 0.000917416, Yaw: -0.218296
+Published Sensor Position (with offset) - x: 1.92281, y: -0.0414334
+Published Sensor Linear Velocity: 0.428513, Angular Velocity: -1.13477
+Published IMU - Angular Velocity: [0, 0, -1.13477]
+Cmd Velocities - Linear: 0.508701, Angular: -1
+True Position - x: 2.10414, y: -0.00995578, Yaw: -0.351153
+Published Sensor Position (with offset) - x: 1.96738, y: -0.0344064
+Published Sensor Linear Velocity: 0.409073, Angular Velocity: -1.32858
+Published IMU - Angular Velocity: [0, 0, -1.32858]
+Cmd Velocities - Linear: 0.508117, Angular: -1
+True Position - x: 2.15223, y: -0.0275747, Yaw: -0.454067
+Published Sensor Position (with offset) - x: 2.01369, y: -0.0378467
+Published Sensor Linear Velocity: 0.440167, Angular Velocity: -1.02914
+Published IMU - Angular Velocity: [0, 0, -1.02914]
+Cmd Velocities - Linear: 0.506081, Angular: -1
+True Position - x: 2.19891, y: -0.050358, Yaw: -0.548488
+Published Sensor Position (with offset) - x: 2.06002, y: -0.0475223
+Published Sensor Linear Velocity: 0.453332, Angular Velocity: -0.944206
+Published IMU - Angular Velocity: [0, 0, -0.944206]
+Cmd Velocities - Linear: 0.505542, Angular: -1
+True Position - x: 2.24262, y: -0.077063, Yaw: -0.626013
+Published Sensor Position (with offset) - x: 2.10436, y: -0.0634788
+Published Sensor Linear Velocity: 0.457914, Angular Velocity: -0.775248
+Published IMU - Angular Velocity: [0, 0, -0.775248]
+Cmd Velocities - Linear: 0.507255, Angular: -0.739139
+True Position - x: 2.28444, y: -0.107298, Yaw: -0.719108
+Published Sensor Position (with offset) - x: 2.14804, y: -0.0809196
+Published Sensor Linear Velocity: 0.450855, Angular Velocity: -0.930952
+Published IMU - Angular Velocity: [0, 0, -0.930952]
+Cmd Velocities - Linear: 0.508518, Angular: 1
+True Position - x: 2.3229, y: -0.140969, Yaw: -0.789265
+Published Sensor Position (with offset) - x: 2.18868, y: -0.105094
+Published Sensor Linear Velocity: 0.462055, Angular Velocity: -0.70157
+Published IMU - Angular Velocity: [0, 0, -0.70157]
+Cmd Velocities - Linear: 0.511196, Angular: 1
+True Position - x: 2.35915, y: -0.177509, Yaw: -0.83733
+Published Sensor Position (with offset) - x: 2.22682, y: -0.135228
+Published Sensor Linear Velocity: 0.481127, Angular Velocity: -0.480654
+Published IMU - Angular Velocity: [0, 0, -0.480654]
+Cmd Velocities - Linear: 0.513595, Angular: 1
+True Position - x: 2.39379, y: -0.215947, Yaw: -0.842393
+Published Sensor Position (with offset) - x: 2.26168, y: -0.172996
+Published Sensor Linear Velocity: 0.513888, Angular Velocity: -0.0506288
+Published IMU - Angular Velocity: [0, 0, -0.0506288]
+Cmd Velocities - Linear: 0.516233, Angular: 1
+True Position - x: 2.42858, y: -0.254944, Yaw: -0.861312
+Published Sensor Position (with offset) - x: 2.2973, y: -0.209501
+Published Sensor Linear Velocity: 0.509333, Angular Velocity: -0.189189
+Published IMU - Angular Velocity: [0, 0, -0.189189]
+Cmd Velocities - Linear: 0.517894, Angular: 1
+True Position - x: 2.46289, y: -0.294903, Yaw: -0.843018
+Published Sensor Position (with offset) - x: 2.3308, y: -0.25187
+Published Sensor Linear Velocity: 0.539491, Angular Velocity: 0.182944
+Published IMU - Angular Velocity: [0, 0, 0.182944]
+Cmd Velocities - Linear: 0.519739, Angular: 1
+True Position - x: 2.49756, y: -0.333814, Yaw: -0.823645
+Published Sensor Position (with offset) - x: 2.36466, y: -0.293347
+Published Sensor Linear Velocity: 0.534695, Angular Velocity: 0.193724
+Published IMU - Angular Velocity: [0, 0, 0.193724]
+Cmd Velocities - Linear: 0.521358, Angular: 1
+True Position - x: 2.53195, y: -0.370939, Yaw: -0.772572
+Published Sensor Position (with offset) - x: 2.39715, y: -0.33731
+Published Sensor Linear Velocity: 0.541798, Angular Velocity: 0.510731
+Published IMU - Angular Velocity: [0, 0, 0.510731]
+Cmd Velocities - Linear: 0.523328, Angular: 1
+True Position - x: 2.57065, y: -0.408666, Yaw: -0.729916
+Published Sensor Position (with offset) - x: 2.43455, y: -0.380816
+Published Sensor Linear Velocity: 0.570383, Angular Velocity: 0.426564
+Published IMU - Angular Velocity: [0, 0, 0.426564]
+Cmd Velocities - Linear: 0.519636, Angular: 1
+True Position - x: 2.60847, y: -0.442506, Yaw: -0.658908
+Published Sensor Position (with offset) - x: 2.47074, y: -0.424382
+Published Sensor Linear Velocity: 0.557189, Angular Velocity: 0.710082
+Published IMU - Angular Velocity: [0, 0, 0.710082]
+Cmd Velocities - Linear: 0.521827, Angular: 1
+True Position - x: 2.65091, y: -0.475364, Yaw: -0.606821
+Published Sensor Position (with offset) - x: 2.51241, y: -0.464436
+Published Sensor Linear Velocity: 0.573139, Angular Velocity: 0.520862
+Published IMU - Angular Velocity: [0, 0, 0.520862]
+Cmd Velocities - Linear: 0.517406, Angular: 1
+True Position - x: 2.69187, y: -0.503803, Yaw: -0.526585
+Published Sensor Position (with offset) - x: 2.55295, y: -0.50401
+Published Sensor Linear Velocity: 0.554862, Angular Velocity: 0.80236
+Published IMU - Angular Velocity: [0, 0, 0.80236]
+Cmd Velocities - Linear: 0.519608, Angular: 1
+True Position - x: 2.73603, y: -0.529474, Yaw: -0.462941
+Published Sensor Position (with offset) - x: 2.5974, y: -0.538516
+Published Sensor Linear Velocity: 0.555339, Angular Velocity: 0.636446
+Published IMU - Angular Velocity: [0, 0, 0.636446]
+Cmd Velocities - Linear: 0.516395, Angular: 1
+True Position - x: 2.78292, y: -0.552876, Yaw: -0.389942
+Published Sensor Position (with offset) - x: 2.64532, y: -0.572005
+Published Sensor Linear Velocity: 0.575132, Angular Velocity: 0.729987
+Published IMU - Angular Velocity: [0, 0, 0.729987]
+Cmd Velocities - Linear: 0.513495, Angular: 1
+True Position - x: 2.82957, y: -0.57205, Yaw: -0.328428
+Published Sensor Position (with offset) - x: 2.69341, y: -0.599602
+Published Sensor Linear Velocity: 0.547453, Angular Velocity: 0.61514
+Published IMU - Angular Velocity: [0, 0, 0.61514]
+Cmd Velocities - Linear: 0.513883, Angular: 1
+True Position - x: 2.87714, y: -0.588261, Yaw: -0.244468
+Published Sensor Position (with offset) - x: 2.74377, y: -0.627135
+Published Sensor Linear Velocity: 0.561351, Angular Velocity: 0.839605
+Published IMU - Angular Velocity: [0, 0, 0.839605]
+Cmd Velocities - Linear: 0.512829, Angular: 1
+True Position - x: 2.92546, y: -0.600315, Yaw: -0.158105
+Published Sensor Position (with offset) - x: 2.79594, y: -0.650548
+Published Sensor Linear Velocity: 0.558445, Angular Velocity: 0.863631
+Published IMU - Angular Velocity: [0, 0, 0.863631]
+Cmd Velocities - Linear: 0.512265, Angular: -0.31904
+True Position - x: 2.97672, y: -0.608486, Yaw: -0.0954344
+Published Sensor Position (with offset) - x: 2.85059, y: -0.666733
+Published Sensor Linear Velocity: 0.56289, Angular Velocity: 0.626702
+Published IMU - Angular Velocity: [0, 0, 0.626702]
+Cmd Velocities - Linear: 0.509359, Angular: -1
+True Position - x: 3.02801, y: -0.613396, Yaw: -0.035081
+Published Sensor Position (with offset) - x: 2.90563, y: -0.679145
+Published Sensor Linear Velocity: 0.55753, Angular Velocity: 0.603533
+Published IMU - Angular Velocity: [0, 0, 0.603533]
+Cmd Velocities - Linear: 0.509455, Angular: -1
+True Position - x: 3.0798, y: -0.615214, Yaw: 0.00722282
+Published Sensor Position (with offset) - x: 2.96031, y: -0.686079
+Published Sensor Linear Velocity: 0.547836, Angular Velocity: 0.423039
+Published IMU - Angular Velocity: [0, 0, 0.423039]
+Cmd Velocities - Linear: 0.509348, Angular: -1
+True Position - x: 3.13142, y: -0.614841, Yaw: 0.0523882
+Published Sensor Position (with offset) - x: 3.01525, y: -0.691029
+Published Sensor Linear Velocity: 0.547818, Angular Velocity: 0.451654
+Published IMU - Angular Velocity: [0, 0, 0.451654]
+Cmd Velocities - Linear: 0.509787, Angular: -1
+True Position - x: 3.18349, y: -0.612111, Yaw: 0.0637488
+Published Sensor Position (with offset) - x: 3.0682, y: -0.689613
+Published Sensor Linear Velocity: 0.529419, Angular Velocity: 0.113606
+Published IMU - Angular Velocity: [0, 0, 0.113606]
+Cmd Velocities - Linear: 0.509769, Angular: -1
+True Position - x: 3.23537, y: -0.608799, Yaw: 0.0390768
+Published Sensor Position (with offset) - x: 3.11819, y: -0.683434
+Published Sensor Linear Velocity: 0.502505, Angular Velocity: -0.246721
+Published IMU - Angular Velocity: [0, 0, -0.246721]
+Cmd Velocities - Linear: 0.509997, Angular: -1
+True Position - x: 3.28804, y: -0.60674, Yaw: -0.0103792
+Published Sensor Position (with offset) - x: 3.16732, y: -0.675491
+Published Sensor Linear Velocity: 0.49255, Angular Velocity: -0.49456
+Published IMU - Angular Velocity: [0, 0, -0.49456]
+Cmd Velocities - Linear: 0.508318, Angular: -1
+True Position - x: 3.33839, y: -0.607262, Yaw: -0.0413441
+Published Sensor Position (with offset) - x: 3.2156, y: -0.672243
+Published Sensor Linear Velocity: 0.481867, Angular Velocity: -0.309649
+Published IMU - Angular Velocity: [0, 0, -0.309649]
+Cmd Velocities - Linear: 0.509533, Angular: -1
+True Position - x: 3.3881, y: -0.609319, Yaw: -0.0647028
+Published Sensor Position (with offset) - x: 3.26382, y: -0.671413
+Published Sensor Linear Velocity: 0.481098, Angular Velocity: -0.233586
+Published IMU - Angular Velocity: [0, 0, -0.233586]
+Cmd Velocities - Linear: 0.50884, Angular: -1
+True Position - x: 3.43949, y: -0.612649, Yaw: -0.106065
+Published Sensor Position (with offset) - x: 3.31276, y: -0.669551
+Published Sensor Linear Velocity: 0.486072, Angular Velocity: -0.413626
+Published IMU - Angular Velocity: [0, 0, -0.413626]
+Cmd Velocities - Linear: 0.506305, Angular: -1
+True Position - x: 3.48941, y: -0.617964, Yaw: -0.135912
+Published Sensor Position (with offset) - x: 3.36104, y: -0.671059
+Published Sensor Linear Velocity: 0.48115, Angular Velocity: -0.298463
+Published IMU - Angular Velocity: [0, 0, -0.298463]
+Cmd Velocities - Linear: 0.506464, Angular: -1
+True Position - x: 3.53901, y: -0.624746, Yaw: -0.171466
+Published Sensor Position (with offset) - x: 3.40882, y: -0.673244
+Published Sensor Linear Velocity: 0.475658, Angular Velocity: -0.355548
+Published IMU - Angular Velocity: [0, 0, -0.355548]
+Cmd Velocities - Linear: 0.505928, Angular: -1
+True Position - x: 3.5886, y: -0.633334, Yaw: -0.225278
+Published Sensor Position (with offset) - x: 3.456, y: -0.67476
+Published Sensor Linear Velocity: 0.465674, Angular Velocity: -0.538118
+Published IMU - Angular Velocity: [0, 0, -0.538118]
+Cmd Velocities - Linear: 0.505041, Angular: -1
+True Position - x: 3.63891, y: -0.644863, Yaw: -0.278965
+Published Sensor Position (with offset) - x: 3.50427, y: -0.679113
+Published Sensor Linear Velocity: 0.478517, Angular Velocity: -0.536867
+Published IMU - Angular Velocity: [0, 0, -0.536867]
+Cmd Velocities - Linear: 0.503591, Angular: -0.155537
+True Position - x: 3.68591, y: -0.658326, Yaw: -0.349642
+Published Sensor Position (with offset) - x: 3.54919, y: -0.682983
+Published Sensor Linear Velocity: 0.439448, Angular Velocity: -0.706773
+Published IMU - Angular Velocity: [0, 0, -0.706773]
+Cmd Velocities - Linear: 0.506837, Angular: 1
+True Position - x: 3.73253, y: -0.675324, Yaw: -0.3849
+Published Sensor Position (with offset) - x: 3.59503, y: -0.695147
+Published Sensor Linear Velocity: 0.471543, Angular Velocity: -0.35258
+Published IMU - Angular Velocity: [0, 0, -0.35258]
+Cmd Velocities - Linear: 0.507655, Angular: 1
+True Position - x: 3.78123, y: -0.695052, Yaw: -0.42722
+Published Sensor Position (with offset) - x: 3.64301, y: -0.70904
+Published Sensor Linear Velocity: 0.495798, Angular Velocity: -0.423197
+Published IMU - Angular Velocity: [0, 0, -0.423197]
+Cmd Velocities - Linear: 0.506872, Angular: 1
+True Position - x: 3.82772, y: -0.716218, Yaw: -0.475985
+Published Sensor Position (with offset) - x: 3.68899, y: -0.723452
+Published Sensor Linear Velocity: 0.476704, Angular Velocity: -0.487647
+Published IMU - Angular Velocity: [0, 0, -0.487647]
+Cmd Velocities - Linear: 0.511563, Angular: 1
+True Position - x: 3.87488, y: -0.740529, Yaw: -0.493233
+Published Sensor Position (with offset) - x: 3.73604, y: -0.745368
+Published Sensor Linear Velocity: 0.518469, Angular Velocity: -0.172478
+Published IMU - Angular Velocity: [0, 0, -0.172478]
+Cmd Velocities - Linear: 0.513958, Angular: 1
+True Position - x: 3.91919, y: -0.764348, Yaw: -0.496862
+Published Sensor Position (with offset) - x: 3.78033, y: -0.768683
+Published Sensor Linear Velocity: 0.500528, Angular Velocity: -0.0362931
+Published IMU - Angular Velocity: [0, 0, -0.0362931]
+Cmd Velocities - Linear: 0.520896, Angular: 1
+True Position - x: 3.96624, y: -0.789863, Yaw: -0.479119
+Published Sensor Position (with offset) - x: 3.82749, y: -0.796661
+Published Sensor Linear Velocity: 0.547696, Angular Velocity: 0.17743
+Published IMU - Angular Velocity: [0, 0, 0.17743]
+Cmd Velocities - Linear: 0.52248, Angular: 1
+True Position - x: 4.01093, y: -0.813075, Yaw: -0.46716
+Published Sensor Position (with offset) - x: 3.87226, y: -0.821532
+Published Sensor Linear Velocity: 0.511891, Angular Velocity: 0.119589
+Published IMU - Angular Velocity: [0, 0, 0.119589]
+Cmd Velocities - Linear: 0.529082, Angular: 1
+True Position - x: 4.05687, y: -0.836249, Yaw: -0.440068
+Published Sensor Position (with offset) - x: 3.91848, y: -0.84846
+Published Sensor Linear Velocity: 0.533555, Angular Velocity: 0.270922
+Published IMU - Angular Velocity: [0, 0, 0.270922]
+Cmd Velocities - Linear: 0.531831, Angular: 1
+True Position - x: 4.10426, y: -0.858563, Yaw: -0.37778
+Published Sensor Position (with offset) - x: 3.9669, y: -0.879364
+Published Sensor Linear Velocity: 0.567401, Angular Velocity: 0.622878
+Published IMU - Angular Velocity: [0, 0, 0.622878]
+Cmd Velocities - Linear: 0.534471, Angular: 1
+True Position - x: 4.15375, y: -0.878202, Yaw: -0.298469
+Published Sensor Position (with offset) - x: 4.01847, y: -0.90982
+Published Sensor Linear Velocity: 0.587937, Angular Velocity: 0.793108
+Published IMU - Angular Velocity: [0, 0, 0.793108]
+Cmd Velocities - Linear: 0.535159, Angular: 1
+True Position - x: 4.20477, y: -0.8939, Yaw: -0.215147
+Published Sensor Position (with offset) - x: 4.0726, y: -0.936667
+Published Sensor Linear Velocity: 0.592173, Angular Velocity: 0.833221
+Published IMU - Angular Velocity: [0, 0, 0.833221]
+Cmd Velocities - Linear: 0.535469, Angular: 1
+True Position - x: 4.25782, y: -0.905493, Yaw: -0.134886
+Published Sensor Position (with offset) - x: 4.1295, y: -0.95872
+Published Sensor Linear Velocity: 0.599217, Angular Velocity: 0.802614
+Published IMU - Angular Velocity: [0, 0, 0.802614]
+Cmd Velocities - Linear: 0.53437, Angular: 1
+True Position - x: 4.30988, y: -0.912558, Yaw: -0.0572869
+Published Sensor Position (with offset) - x: 4.18607, y: -0.975573
+Published Sensor Linear Velocity: 0.579684, Angular Velocity: 0.775988
+Published IMU - Angular Velocity: [0, 0, 0.775988]
+Cmd Velocities - Linear: 0.535131, Angular: 1
+True Position - x: 4.36131, y: -0.915508, Yaw: 0.014298
+Published Sensor Position (with offset) - x: 4.24233, y: -0.987216
+Published Sensor Linear Velocity: 0.565252, Angular Velocity: 0.715848
+Published IMU - Angular Velocity: [0, 0, 0.715848]
+Cmd Velocities - Linear: 0.535232, Angular: 1
+True Position - x: 4.41338, y: -0.914763, Yaw: 0.0831569
+Published Sensor Position (with offset) - x: 4.29961, y: -0.994489
+Published Sensor Linear Velocity: 0.568954, Angular Velocity: 0.688589
+Published IMU - Angular Velocity: [0, 0, 0.688589]
+Cmd Velocities - Linear: 0.533968, Angular: 1
+True Position - x: 4.46844, y: -0.910175, Yaw: 0.18641
+Published Sensor Position (with offset) - x: 4.36349, y: -1.0012
+Published Sensor Linear Velocity: 0.624722, Angular Velocity: 1.03253
+Published IMU - Angular Velocity: [0, 0, 1.03253]
+Cmd Velocities - Linear: 0.530555, Angular: 1
+True Position - x: 4.52074, y: -0.90031, Yaw: 0.271295
+Published Sensor Position (with offset) - x: 4.42389, y: -0.999907
+Published Sensor Linear Velocity: 0.591688, Angular Velocity: 0.848854
+Published IMU - Angular Velocity: [0, 0, 0.848854]
+Cmd Velocities - Linear: 0.530212, Angular: 1
+True Position - x: 4.57297, y: -0.885781, Yaw: 0.33714
+Published Sensor Position (with offset) - x: 4.48288, y: -0.991536
+Published Sensor Linear Velocity: 0.588242, Angular Velocity: 0.65845
+Published IMU - Angular Velocity: [0, 0, 0.65845]
+Cmd Velocities - Linear: 0.528238, Angular: 1
+True Position - x: 4.6235, y: -0.868071, Yaw: 0.428543
+Published Sensor Position (with offset) - x: 4.54344, y: -0.981607
+Published Sensor Linear Velocity: 0.599368, Angular Velocity: 0.914027
+Published IMU - Angular Velocity: [0, 0, 0.914027]
+Cmd Velocities - Linear: 0.528044, Angular: 1
+True Position - x: 4.67117, y: -0.84629, Yaw: 0.524501
+Published Sensor Position (with offset) - x: 4.60236, y: -0.966974
+Published Sensor Linear Velocity: 0.591326, Angular Velocity: 0.95958
+Published IMU - Angular Velocity: [0, 0, 0.95958]
+Cmd Velocities - Linear: 0.52833, Angular: 1
+True Position - x: 4.71531, y: -0.820755, Yaw: 0.611646
+Published Sensor Position (with offset) - x: 4.65726, y: -0.94697
+Published Sensor Linear Velocity: 0.570918, Angular Velocity: 0.871448
+Published IMU - Angular Velocity: [0, 0, 0.871448]
+Cmd Velocities - Linear: 0.529469, Angular: 1
+True Position - x: 4.75941, y: -0.789823, Yaw: 0.692566
+Published Sensor Position (with offset) - x: 4.71176, y: -0.920317
+Published Sensor Linear Velocity: 0.595328, Angular Velocity: 0.809199
+Published IMU - Angular Velocity: [0, 0, 0.809199]
+Cmd Velocities - Linear: 0.526995, Angular: -0.745831
+True Position - x: 4.79943, y: -0.75662, Yaw: 0.75511
+Published Sensor Position (with offset) - x: 4.76003, y: -0.889838
+Published Sensor Linear Velocity: 0.563786, Angular Velocity: 0.625442
+Published IMU - Angular Velocity: [0, 0, 0.625442]
+Cmd Velocities - Linear: 0.530332, Angular: -1
+True Position - x: 4.83692, y: -0.721341, Yaw: 0.797405
+Published Sensor Position (with offset) - x: 4.80318, y: -0.856106
+Published Sensor Linear Velocity: 0.544344, Angular Velocity: 0.422945
+Published IMU - Angular Velocity: [0, 0, 0.422945]
+Cmd Velocities - Linear: 0.532962, Angular: -1
+True Position - x: 4.87532, y: -0.682009, Yaw: 0.840882
+Published Sensor Position (with offset) - x: 4.84747, y: -0.818113
+Published Sensor Linear Velocity: 0.580115, Angular Velocity: 0.434774
+Published IMU - Angular Velocity: [0, 0, 0.434774]
+Cmd Velocities - Linear: 0.532092, Angular: -1
+True Position - x: 4.91123, y: -0.641866, Yaw: 0.892254
+Published Sensor Position (with offset) - x: 4.89041, y: -0.779221
+Published Sensor Linear Velocity: 0.574627, Angular Velocity: 0.513722
+Published IMU - Angular Velocity: [0, 0, 0.513722]
+Cmd Velocities - Linear: 0.53653, Angular: -1
+True Position - x: 4.94516, y: -0.599793, Yaw: 0.895775
+Published Sensor Position (with offset) - x: 4.92481, y: -0.73722
+Published Sensor Linear Velocity: 0.542912, Angular Velocity: 0.0352077
+Published IMU - Angular Velocity: [0, 0, 0.0352077]
+Cmd Velocities - Linear: 0.540393, Angular: -1
+True Position - x: 4.97875, y: -0.55782, Yaw: 0.866425
+Published Sensor Position (with offset) - x: 4.95439, y: -0.694591
+Published Sensor Linear Velocity: 0.517081, Angular Velocity: -0.293501
+Published IMU - Angular Velocity: [0, 0, -0.293501]
+Cmd Velocities - Linear: 0.544034, Angular: -1
+True Position - x: 5.01446, y: -0.515805, Yaw: 0.807091
+Published Sensor Position (with offset) - x: 4.98202, y: -0.650891
+Published Sensor Linear Velocity: 0.509834, Angular Velocity: -0.59334
+Published IMU - Angular Velocity: [0, 0, -0.59334]
+Cmd Velocities - Linear: 0.54539, Angular: -1
+True Position - x: 5.05129, y: -0.477343, Yaw: 0.752044
+Published Sensor Position (with offset) - x: 5.01147, y: -0.610439
+Published Sensor Linear Velocity: 0.493983, Angular Velocity: -0.55047
+Published IMU - Angular Velocity: [0, 0, -0.55047]
+Cmd Velocities - Linear: 0.548409, Angular: -1
+True Position - x: 5.09015, y: -0.440989, Yaw: 0.687282
+Published Sensor Position (with offset) - x: 5.0418, y: -0.57123
+Published Sensor Linear Velocity: 0.486822, Angular Velocity: -0.647616
+Published IMU - Angular Velocity: [0, 0, -0.647616]
+Cmd Velocities - Linear: 0.549725, Angular: -1
+True Position - x: 5.13173, y: -0.406864, Yaw: 0.588451
+Published Sensor Position (with offset) - x: 5.07076, y: -0.531699
+Published Sensor Linear Velocity: 0.468699, Angular Velocity: -0.988312
+Published IMU - Angular Velocity: [0, 0, -0.988312]
+Cmd Velocities - Linear: 0.55004, Angular: -1
+True Position - x: 5.17663, y: -0.376898, Yaw: 0.461255
+Published Sensor Position (with offset) - x: 5.10033, y: -0.492991
+Published Sensor Linear Velocity: 0.450823, Angular Velocity: -1.27196
+Published IMU - Angular Velocity: [0, 0, -1.27196]
+Cmd Velocities - Linear: 0.549428, Angular: -1
+True Position - x: 5.22579, y: -0.352467, Yaw: 0.364141
+Published Sensor Position (with offset) - x: 5.13858, y: -0.460615
+Published Sensor Linear Velocity: 0.48093, Angular Velocity: -0.971141
+Published IMU - Angular Velocity: [0, 0, -0.971141]
+Cmd Velocities - Linear: 0.547368, Angular: -1
+True Position - x: 5.27571, y: -0.33344, Yaw: 0.259441
+Published Sensor Position (with offset) - x: 5.17768, y: -0.431882
+Published Sensor Linear Velocity: 0.460976, Angular Velocity: -1.04701
+Published IMU - Angular Velocity: [0, 0, -1.04701]
+Cmd Velocities - Linear: 0.548495, Angular: -1
+True Position - x: 5.33023, y: -0.318968, Yaw: 0.140433
+Published Sensor Position (with offset) - x: 5.22121, y: -0.405075
+Published Sensor Linear Velocity: 0.480807, Angular Velocity: -1.19008
+Published IMU - Angular Velocity: [0, 0, -1.19008]
+Cmd Velocities - Linear: 0.545093, Angular: -1
+True Position - x: 5.38431, y: -0.311323, Yaw: -0.000367761
+Published Sensor Position (with offset) - x: 5.26428, y: -0.381279
+Published Sensor Linear Velocity: 0.447585, Angular Velocity: -1.408
+Published IMU - Angular Velocity: [0, 0, -1.408]
+Cmd Velocities - Linear: 0.546798, Angular: 0.377135
+True Position - x: 5.44002, y: -0.311344, Yaw: -0.106945
+Published Sensor Position (with offset) - x: 5.31323, y: -0.368135
+Published Sensor Linear Velocity: 0.482459, Angular Velocity: -1.06578
+Published IMU - Angular Velocity: [0, 0, -1.06578]
+Cmd Velocities - Linear: 0.546365, Angular: 1
+True Position - x: 5.493, y: -0.317032, Yaw: -0.189469
+Published Sensor Position (with offset) - x: 5.36196, y: -0.363179
+Published Sensor Linear Velocity: 0.475096, Angular Velocity: -0.825232
+Published IMU - Angular Velocity: [0, 0, -0.825232]
+Cmd Velocities - Linear: 0.550419, Angular: 1
+True Position - x: 5.5464, y: -0.327273, Yaw: -0.254657
+Published Sensor Position (with offset) - x: 5.41264, y: -0.364786
+Published Sensor Linear Velocity: 0.49813, Angular Velocity: -0.651888
+Published IMU - Angular Velocity: [0, 0, -0.651888]
+Cmd Velocities - Linear: 0.551523, Angular: 1
+True Position - x: 5.59798, y: -0.340701, Yaw: -0.321555
+Published Sensor Position (with offset) - x: 5.46201, y: -0.369188
+Published Sensor Linear Velocity: 0.486202, Angular Velocity: -0.668976
+Published IMU - Angular Velocity: [0, 0, -0.668976]
+Cmd Velocities - Linear: 0.555234, Angular: 1
+True Position - x: 5.65126, y: -0.358449, Yaw: -0.39451
+Published Sensor Position (with offset) - x: 5.51358, y: -0.376949
+Published Sensor Linear Velocity: 0.51051, Angular Velocity: -0.729552
+Published IMU - Angular Velocity: [0, 0, -0.729552]
+Cmd Velocities - Linear: 0.555753, Angular: 1
+True Position - x: 5.70133, y: -0.379295, Yaw: -0.465771
+Published Sensor Position (with offset) - x: 5.56268, y: -0.387945
+Published Sensor Linear Velocity: 0.492487, Angular Velocity: -0.712608
+Published IMU - Angular Velocity: [0, 0, -0.712608]
+Cmd Velocities - Linear: 0.561547, Angular: 1
+True Position - x: 5.75063, y: -0.404074, Yaw: -0.527985
+Published Sensor Position (with offset) - x: 5.61171, y: -0.404086
+Published Sensor Linear Velocity: 0.508179, Angular Velocity: -0.622143
+Published IMU - Angular Velocity: [0, 0, -0.622143]
+Cmd Velocities - Linear: 0.565505, Angular: 1
+True Position - x: 5.79968, y: -0.43268, Yaw: -0.542906
+Published Sensor Position (with offset) - x: 5.66077, y: -0.430619
+Published Sensor Linear Velocity: 0.557365, Angular Velocity: -0.149211
+Published IMU - Angular Velocity: [0, 0, -0.149211]
+Cmd Velocities - Linear: 0.569456, Angular: 1
+True Position - x: 5.84801, y: -0.461841, Yaw: -0.526679
+Published Sensor Position (with offset) - x: 5.70908, y: -0.462035
+Published Sensor Linear Velocity: 0.575817, Angular Velocity: 0.162276
+Published IMU - Angular Velocity: [0, 0, 0.162276]
+Cmd Velocities - Linear: 0.573149, Angular: 1
+True Position - x: 5.89618, y: -0.489852, Yaw: -0.476682
+Published Sensor Position (with offset) - x: 5.75744, y: -0.496989
+Published Sensor Linear Velocity: 0.592246, Angular Velocity: 0.499967
+Published IMU - Angular Velocity: [0, 0, 0.499967]
+Cmd Velocities - Linear: 0.575485, Angular: 1
+True Position - x: 5.949, y: -0.51713, Yaw: -0.399702
+Published Sensor Position (with offset) - x: 5.81122, y: -0.534915
+Published Sensor Linear Velocity: 0.648387, Angular Velocity: 0.769802
+Published IMU - Angular Velocity: [0, 0, 0.769802]
+Cmd Velocities - Linear: 0.573335, Angular: 1
+True Position - x: 6.0001, y: -0.538713, Yaw: -0.326907
+Published Sensor Position (with offset) - x: 5.86397, y: -0.566472
+Published Sensor Linear Velocity: 0.605585, Angular Velocity: 0.727949
+Published IMU - Angular Velocity: [0, 0, 0.727949]
+Cmd Velocities - Linear: 0.574418, Angular: 1
+True Position - x: 6.05468, y: -0.557222, Yaw: -0.233607
+Published Sensor Position (with offset) - x: 5.92174, y: -0.597542
+Published Sensor Linear Velocity: 0.641707, Angular Velocity: 0.933004
+Published IMU - Angular Velocity: [0, 0, 0.933004]
+Cmd Velocities - Linear: 0.571407, Angular: 1
+True Position - x: 6.1122, y: -0.570907, Yaw: -0.139363
+Published Sensor Position (with offset) - x: 5.98364, y: -0.623559
+Published Sensor Linear Velocity: 0.657164, Angular Velocity: 0.942439
+Published IMU - Angular Velocity: [0, 0, 0.942439]
+Cmd Velocities - Linear: 0.567711, Angular: 1
+True Position - x: 6.16711, y: -0.578611, Yaw: -0.057327
+Published Sensor Position (with offset) - x: 6.0433, y: -0.64162
+Published Sensor Linear Velocity: 0.611986, Angular Velocity: 0.820358
+Published IMU - Angular Velocity: [0, 0, 0.820358]
+Cmd Velocities - Linear: 0.567718, Angular: 1
+True Position - x: 6.2254, y: -0.581956, Yaw: 0.0301771
+Published Sensor Position (with offset) - x: 6.10757, y: -0.655545
+Published Sensor Linear Velocity: 0.645071, Angular Velocity: 0.875041
+Published IMU - Angular Velocity: [0, 0, 0.875041]
+Cmd Velocities - Linear: 0.563161, Angular: 1
+True Position - x: 6.28103, y: -0.580277, Yaw: 0.116639
+Published Sensor Position (with offset) - x: 6.17, y: -0.663766
+Published Sensor Linear Velocity: 0.617109, Angular Velocity: 0.864622
+Published IMU - Angular Velocity: [0, 0, 0.864622]
+Cmd Velocities - Linear: 0.562915, Angular: 1
+True Position - x: 6.33711, y: -0.573706, Yaw: 0.219812
+Published Sensor Position (with offset) - x: 6.23526, y: -0.668187
+Published Sensor Linear Velocity: 0.636808, Angular Velocity: 1.03173
+Published IMU - Angular Velocity: [0, 0, 1.03173]
+Cmd Velocities - Linear: 0.559934, Angular: 1
+True Position - x: 6.39254, y: -0.561321, Yaw: 0.332203
+Published Sensor Position (with offset) - x: 6.30193, y: -0.666629
+Published Sensor Linear Velocity: 0.646699, Angular Velocity: 1.12391
+Published IMU - Angular Velocity: [0, 0, 1.12391]
+Cmd Velocities - Linear: 0.557134, Angular: 1
+True Position - x: 6.44693, y: -0.542558, Yaw: 0.466962
+Published Sensor Position (with offset) - x: 6.37129, y: -0.659085
+Published Sensor Linear Velocity: 0.669636, Angular Velocity: 1.34759
+Published IMU - Angular Velocity: [0, 0, 1.34759]
+Cmd Velocities - Linear: 0.554281, Angular: 1
+True Position - x: 6.49748, y: -0.517073, Yaw: 0.602875
+Published Sensor Position (with offset) - x: 6.43833, y: -0.642774
+Published Sensor Linear Velocity: 0.661262, Angular Velocity: 1.35914
+Published IMU - Angular Velocity: [0, 0, 1.35914]
+Cmd Velocities - Linear: 0.551453, Angular: 0.411014
+True Position - x: 6.54252, y: -0.486069, Yaw: 0.7187
+Published Sensor Position (with offset) - x: 6.49829, y: -0.617764
+Published Sensor Linear Velocity: 0.627866, Angular Velocity: 1.15825
+Published IMU - Angular Velocity: [0, 0, 1.15825]
+Cmd Velocities - Linear: 0.508769, Angular: -1
+True Position - x: 6.57934, y: -0.453859, Yaw: 0.796936
+Published Sensor Position (with offset) - x: 6.54554, y: -0.588608
+Published Sensor Linear Velocity: 0.54398, Angular Velocity: 0.782358
+Published IMU - Angular Velocity: [0, 0, 0.782358]
+Cmd Velocities - Linear: 0.515243, Angular: -1
+True Position - x: 6.61441, y: -0.417976, Yaw: 0.868208
+Published Sensor Position (with offset) - x: 6.59028, y: -0.55479
+Published Sensor Linear Velocity: 0.551598, Angular Velocity: 0.712721
+Published IMU - Angular Velocity: [0, 0, 0.712721]
+Cmd Velocities - Linear: 0.514842, Angular: -1
+True Position - x: 6.64657, y: -0.379989, Yaw: 0.90775
+Published Sensor Position (with offset) - x: 6.62788, y: -0.51765
+Published Sensor Linear Velocity: 0.525435, Angular Velocity: 0.39542
+Published IMU - Angular Velocity: [0, 0, 0.39542]
+Cmd Velocities - Linear: 0.516595, Angular: -1
+True Position - x: 6.67801, y: -0.339738, Yaw: 0.950886
+Published Sensor Position (with offset) - x: 6.66527, y: -0.478077
+Published Sensor Linear Velocity: 0.540916, Angular Velocity: 0.431364
+Published IMU - Angular Velocity: [0, 0, 0.431364]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67819, y: -0.339488, Yaw: 0.966455
+Published Sensor Position (with offset) - x: 6.6676, y: -0.478009
+Published Sensor Linear Velocity: 0.0139636, Angular Velocity: 0.155687
+Published IMU - Angular Velocity: [0, 0, 0.155687]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67744, y: -0.340565, Yaw: 0.972277
+Published Sensor Position (with offset) - x: 6.66766, y: -0.479145
+Published Sensor Linear Velocity: -0.00900761, Angular Velocity: 0.0582187
+Published IMU - Angular Velocity: [0, 0, 0.0582187]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.6781, y: -0.339603, Yaw: 0.962312
+Published Sensor Position (with offset) - x: 6.66694, y: -0.478078
+Published Sensor Linear Velocity: 0.0046707, Angular Velocity: -0.0996508
+Published IMU - Angular Velocity: [0, 0, -0.0996508]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67776, y: -0.340089, Yaw: 0.948503
+Published Sensor Position (with offset) - x: 6.66469, y: -0.478397
+Published Sensor Linear Velocity: -0.0155915, Angular Velocity: -0.138089
+Published IMU - Angular Velocity: [0, 0, -0.138089]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67753, y: -0.340412, Yaw: 0.955048
+Published Sensor Position (with offset) - x: 6.66536, y: -0.478803
+Published Sensor Linear Velocity: 0.0006025, Angular Velocity: 0.0654512
+Published IMU - Angular Velocity: [0, 0, 0.0654512]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67861, y: -0.33888, Yaw: 0.943091
+Published Sensor Position (with offset) - x: 6.66479, y: -0.477115
+Published Sensor Linear Velocity: 0.0103987, Angular Velocity: -0.119573
+Published IMU - Angular Velocity: [0, 0, -0.119573]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67975, y: -0.33731, Yaw: 0.922814
+Published Sensor Position (with offset) - x: 6.66313, y: -0.475237
+Published Sensor Linear Velocity: 0.00520295, Angular Velocity: -0.20277
+Published IMU - Angular Velocity: [0, 0, -0.20277]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67904, y: -0.338253, Yaw: 0.885269
+Published Sensor Position (with offset) - x: 6.65725, y: -0.475459
+Published Sensor Linear Velocity: -0.0381148, Angular Velocity: -0.375441
+Published IMU - Angular Velocity: [0, 0, -0.375441]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.678, y: -0.339521, Yaw: 0.83791
+Published Sensor Position (with offset) - x: 6.64974, y: -0.475542
+Published Sensor Linear Velocity: -0.0495216, Angular Velocity: -0.473591
+Published IMU - Angular Velocity: [0, 0, -0.473591]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67826, y: -0.339233, Yaw: 0.82652
+Published Sensor Position (with offset) - x: 6.64846, y: -0.474923
+Published Sensor Linear Velocity: -0.00410476, Angular Velocity: -0.113898
+Published IMU - Angular Velocity: [0, 0, -0.113898]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67861, y: -0.338857, Yaw: 0.810557
+Published Sensor Position (with offset) - x: 6.64664, y: -0.474054
+Published Sensor Linear Velocity: -0.00605443, Angular Velocity: -0.159634
+Published IMU - Angular Velocity: [0, 0, -0.159634]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67947, y: -0.337947, Yaw: 0.784562
+Published Sensor Position (with offset) - x: 6.644, y: -0.472268
+Published Sensor Linear Velocity: -0.00565182, Angular Velocity: -0.259953
+Published IMU - Angular Velocity: [0, 0, -0.259953]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67937, y: -0.338049, Yaw: 0.771764
+Published Sensor Position (with offset) - x: 6.64218, y: -0.471905
+Published Sensor Linear Velocity: -0.0103972, Angular Velocity: -0.127978
+Published IMU - Angular Velocity: [0, 0, -0.127978]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67981, y: -0.337624, Yaw: 0.747576
+Published Sensor Position (with offset) - x: 6.63939, y: -0.470541
+Published Sensor Linear Velocity: -0.010833, Angular Velocity: -0.24188
+Published IMU - Angular Velocity: [0, 0, -0.24188]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67897, y: -0.3384, Yaw: 0.712063
+Published Sensor Position (with offset) - x: 6.63386, y: -0.469799
+Published Sensor Linear Velocity: -0.0362727, Angular Velocity: -0.355129
+Published IMU - Angular Velocity: [0, 0, -0.355129]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68025, y: -0.337294, Yaw: 0.666663
+Published Sensor Position (with offset) - x: 6.62923, y: -0.46651
+Published Sensor Linear Velocity: -0.0148578, Angular Velocity: -0.454004
+Published IMU - Angular Velocity: [0, 0, -0.454004]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68027, y: -0.337278, Yaw: 0.647852
+Published Sensor Position (with offset) - x: 6.62683, y: -0.465512
+Published Sensor Linear Velocity: -0.0129118, Angular Velocity: -0.188106
+Published IMU - Angular Velocity: [0, 0, -0.188106]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67994, y: -0.337528, Yaw: 0.647966
+Published Sensor Position (with offset) - x: 6.62651, y: -0.465768
+Published Sensor Linear Velocity: -0.00406091, Angular Velocity: 0.00113681
+Published IMU - Angular Velocity: [0, 0, 0.00113681]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68071, y: -0.336944, Yaw: 0.634391
+Published Sensor Position (with offset) - x: 6.62555, y: -0.464447
+Published Sensor Linear Velocity: 0.000177981, Angular Velocity: -0.135744
+Published IMU - Angular Velocity: [0, 0, -0.135744]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67935, y: -0.337946, Yaw: 0.643223
+Published Sensor Position (with offset) - x: 6.62531, y: -0.465931
+Published Sensor Linear Velocity: -0.0107276, Angular Velocity: 0.0883172
+Published IMU - Angular Velocity: [0, 0, 0.0883172]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.67896, y: -0.338241, Yaw: 0.670515
+Published Sensor Position (with offset) - x: 6.62843, y: -0.467653
+Published Sensor Linear Velocity: 0.0141918, Angular Velocity: 0.272923
+Published IMU - Angular Velocity: [0, 0, 0.272923]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68038, y: -0.337111, Yaw: 0.71605
+Published Sensor Position (with offset) - x: 6.6358, y: -0.468688
+Published Sensor Linear Velocity: 0.05006, Angular Velocity: 0.455342
+Published IMU - Angular Velocity: [0, 0, 0.455342]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68009, y: -0.337364, Yaw: 0.746802
+Published Sensor Position (with offset) - x: 6.63958, y: -0.47025
+Published Sensor Linear Velocity: 0.0176752, Angular Velocity: 0.307528
+Published IMU - Angular Velocity: [0, 0, 0.307528]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68146, y: -0.336098, Yaw: 0.768172
+Published Sensor Position (with offset) - x: 6.64379, y: -0.469819
+Published Sensor Linear Velocity: 0.0335924, Angular Velocity: 0.213699
+Published IMU - Angular Velocity: [0, 0, 0.213699]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68175, y: -0.335811, Yaw: 0.815735
+Published Sensor Position (with offset) - x: 6.65049, y: -0.471171
+Published Sensor Linear Velocity: 0.0374284, Angular Velocity: 0.475629
+Published IMU - Angular Velocity: [0, 0, 0.475629]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68224, y: -0.335292, Yaw: 0.840713
+Published Sensor Position (with offset) - x: 6.65437, y: -0.471392
+Published Sensor Linear Velocity: 0.024598, Angular Velocity: 0.249781
+Published IMU - Angular Velocity: [0, 0, 0.249781]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68251, y: -0.334998, Yaw: 0.836546
+Published Sensor Position (with offset) - x: 6.65407, y: -0.47098
+Published Sensor Linear Velocity: 0.00103398, Angular Velocity: -0.0416744
+Published IMU - Angular Velocity: [0, 0, -0.0416744]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68373, y: -0.333637, Yaw: 0.847402
+Published Sensor Position (with offset) - x: 6.65677, y: -0.46992
+Published Sensor Linear Velocity: 0.0259282, Angular Velocity: 0.108565
+Published IMU - Angular Velocity: [0, 0, 0.108565]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68299, y: -0.334481, Yaw: 0.84295
+Published Sensor Position (with offset) - x: 6.65542, y: -0.470643
+Published Sensor Linear Velocity: -0.0143717, Angular Velocity: -0.0445233
+Published IMU - Angular Velocity: [0, 0, -0.0445233]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68288, y: -0.334607, Yaw: 0.852648
+Published Sensor Position (with offset) - x: 6.65663, y: -0.47103
+Published Sensor Linear Velocity: 0.00509775, Angular Velocity: 0.0969779
+Published IMU - Angular Velocity: [0, 0, 0.0969779]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68271, y: -0.334801, Yaw: 0.845509
+Published Sensor Position (with offset) - x: 6.65549, y: -0.471032
+Published Sensor Linear Velocity: -0.00756634, Angular Velocity: -0.0713892
+Published IMU - Angular Velocity: [0, 0, -0.0713892]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68159, y: -0.336061, Yaw: 0.812286
+Published Sensor Position (with offset) - x: 6.64986, y: -0.471313
+Published Sensor Linear Velocity: -0.0400986, Angular Velocity: -0.332232
+Published IMU - Angular Velocity: [0, 0, -0.332232]
+Cmd Velocities - Linear: 0, Angular: 0
+True Position - x: 6.68256, y: -0.335034, Yaw: 0.770522
+Published Sensor Position (with offset) - x: 6.64521, y: -0.468843
+Published Sensor Linear Velocity: -0.0150823, Angular Velocity: -0.417632
+Published IMU - Angular Velocity: [0, 0, -0.417632]
