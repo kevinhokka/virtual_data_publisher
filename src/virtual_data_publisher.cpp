@@ -93,40 +93,66 @@ private:
 
     // 更新机器人的位置、速度等
     void update_robot_state(double dt) {
-        // 模拟速度延迟（使用一阶低通滤波器）
-        double tau_linear = 0.1;    // 线速度延迟时间常数
-        double tau_angular = 0.4;   // 角速度延迟时间常数
-
+        //
+        // 1) 线速度依旧用简单滤波（或你喜欢的模型）
+        //
+        double tau_linear = 0.5; // 线速度时间常数(示例)
         current_linear_velocity_ +=
             (target_linear_velocity_ - current_linear_velocity_) * (dt / tau_linear);
-        current_angular_velocity_ +=
-            (target_angular_velocity_ - current_angular_velocity_) * (dt / tau_angular);
-
-        // 添加噪声
-        double noise_linear = generate_noise(0.0);   // 线速度噪声
-        double noise_angular = generate_noise(0.02);  // 角速度噪声
+    
+        // 可以在这里对线速度加噪声
+        double noise_linear = generate_noise(0.0);
         current_linear_velocity_ += noise_linear;
+    
+        //
+        // 2) 角速度考虑转动惯量
+        //
+        //   I: 机器人转动惯量（需要你自己设定一个估计值，越大表示转向更慢）
+        //   b: 粘性摩擦系数（越大表示角速度越难维持，高速时衰减更快）
+        //   Kp: 控制增益，用于把 "target_angular_velocity_" 转换成扭矩
+        //
+        double I = 1.5;   // [kg·m^2] 示例值，实际要根据机器人外形和质量分布估计
+        double b = 0.01;   // [N·m·s/rad] 粘性阻力系数，示例
+        double Kp = 3;  // 控制增益
+    
+        // 2.1) 计算输入扭矩 (例：P控制)
+        double error_omega = target_angular_velocity_ - current_angular_velocity_;
+        double torque_input = Kp * error_omega;
+    
+        // 2.2) 计算摩擦力矩
+        double torque_friction = b * current_angular_velocity_;
+    
+        // 2.3) 角加速度 (alpha = (torque_input - torque_friction) / I )
+        double alpha = (torque_input - torque_friction) / I;
+    
+        // 2.4) 更新角速度 (omega = omega + alpha * dt)
+        current_angular_velocity_ += alpha * dt;
+    
+        // 可以在这里对角速度加高斯/均匀噪声
+        double noise_angular = generate_noise(0.01);
         current_angular_velocity_ += noise_angular;
-
-        // 根据实际速度计算机器人中心位置更新
+    
+        //
+        // 3) 更新位姿 (x, y, yaw)
+        //
         double delta_x = current_linear_velocity_ * std::cos(current_yaw_) * dt;
         double delta_y = current_linear_velocity_ * std::sin(current_yaw_) * dt;
         double delta_yaw = current_angular_velocity_ * dt;
-        current_x_ += delta_x;
-        current_y_ += delta_y;
+    
+        current_x_   += delta_x;
+        current_y_   += delta_y;
         current_yaw_ += delta_yaw;
-
-        // 保证 yaw 在 [-π, π] 范围内
+    
+        // 保证 yaw 在 [-π, π] 范围
         if (current_yaw_ > M_PI) {
-            current_yaw_ -= 2 * M_PI;
+            current_yaw_ -= 2.0 * M_PI;
         } else if (current_yaw_ < -M_PI) {
-            current_yaw_ += 2 * M_PI;
+            current_yaw_ += 2.0 * M_PI;
         }
-
-        // 日志中可以先记录“真实”机器人中心状态
-        log_file_ << "[Update] True Position - x: " << current_x_
-                  << ", y: " << current_y_ << ", Yaw: " << current_yaw_ << std::endl;
+    
+        // (可选) 在此记录日志查看
     }
+    
 
     // 发布IMU消息（100Hz）
     void publish_imu() {
@@ -151,12 +177,12 @@ private:
         double sensor_x = current_x_
             + std::cos(current_yaw_) * sensor_offset_x_
             - std::sin(current_yaw_) * sensor_offset_y_
-            + generate_noise(0.05);
+            + generate_noise(0.01);
 
         double sensor_y = current_y_
             + std::sin(current_yaw_) * sensor_offset_x_
             + std::cos(current_yaw_) * sensor_offset_y_
-            + generate_noise(0.05);
+            + generate_noise(0.01);
 
         // 根据传感器偏差计算线速度测量值
         // 公式： v_sensor = v_center - ω * (sensor_offset_y)

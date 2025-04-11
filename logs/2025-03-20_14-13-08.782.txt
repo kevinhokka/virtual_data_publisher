@@ -1,0 +1,3421 @@
+[IMU] Angular Velocity: -0.000826997
+[IMU] Angular Velocity: 0.00283465
+[IMU] Angular Velocity: 0.00293384
+[IMU] Angular Velocity: 0.0032286
+[IMU] Angular Velocity: -0.00576388
+[IMU] Angular Velocity: 0.00343277
+[IMU] Angular Velocity: 0.00616101
+[IMU] Angular Velocity: 0.0107765
+[IMU] Angular Velocity: 0.00624202
+[IMU] Angular Velocity: 0.00291211
+[Odom] Published Sensor Position - x: -0.0717226, y: -0.0447027
+[Odom] Published Sensor Linear Vel: 0.000203848, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0103092
+[IMU] Angular Velocity: 0.00881231
+[IMU] Angular Velocity: 0.0012436
+[IMU] Angular Velocity: -0.00767196
+[IMU] Angular Velocity: -0.0105088
+[IMU] Angular Velocity: -0.0176222
+[IMU] Angular Velocity: -0.0181419
+[IMU] Angular Velocity: -0.0170025
+[IMU] Angular Velocity: -0.00986416
+[IMU] Angular Velocity: -0.00508891
+[Odom] Published Sensor Position - x: -0.107069, y: -0.0474185
+[Odom] Published Sensor Linear Vel: -0.000356224, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00844341
+[IMU] Angular Velocity: -0.000662549
+[IMU] Angular Velocity: -0.00228708
+[IMU] Angular Velocity: -0.00848724
+[IMU] Angular Velocity: -0.0169605
+[IMU] Angular Velocity: -0.0102646
+[IMU] Angular Velocity: -0.00237686
+[IMU] Angular Velocity: -0.00952588
+[IMU] Angular Velocity: -0.0102684
+[IMU] Angular Velocity: -0.0144228
+[Odom] Published Sensor Position - x: -0.138328, y: -0.0546533
+[Odom] Published Sensor Linear Vel: -0.00100959, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0151972
+[IMU] Angular Velocity: -0.00673553
+[IMU] Angular Velocity: -0.0130855
+[IMU] Angular Velocity: -0.0104528
+[IMU] Angular Velocity: -0.000164695
+[IMU] Angular Velocity: 0.00243749
+[IMU] Angular Velocity: 0.00825032
+[IMU] Angular Velocity: 0.0014738
+[IMU] Angular Velocity: -0.00583611
+[IMU] Angular Velocity: 0.00247214
+[Odom] Published Sensor Position - x: -0.153888, y: -0.083281
+[Odom] Published Sensor Linear Vel: 0.00017305, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00132613
+[IMU] Angular Velocity: 0.00982435
+[IMU] Angular Velocity: 0.0170007
+[IMU] Angular Velocity: 0.0153858
+[IMU] Angular Velocity: 0.0130613
+[IMU] Angular Velocity: 0.018223
+[IMU] Angular Velocity: 0.0254526
+[IMU] Angular Velocity: 0.0231451
+[IMU] Angular Velocity: 0.0283156
+[IMU] Angular Velocity: 0.0297403
+[Odom] Published Sensor Position - x: -0.0993273, y: -0.118124
+[Odom] Published Sensor Linear Vel: 0.00208182, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0180106
+[IMU] Angular Velocity: 0.0198145
+[IMU] Angular Velocity: 0.0255938
+[IMU] Angular Velocity: 0.0327705
+[IMU] Angular Velocity: 0.0297211
+[IMU] Angular Velocity: 0.0328225
+[IMU] Angular Velocity: 0.0225467
+[IMU] Angular Velocity: 0.0102645
+[IMU] Angular Velocity: 0.00757204
+[IMU] Angular Velocity: 0.0135281
+[Odom] Published Sensor Position - x: -0.0869609, y: -0.112114
+[Odom] Published Sensor Linear Vel: 0.000946966, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00641916
+[IMU] Angular Velocity: 0.0147153
+[IMU] Angular Velocity: 0.00889504
+[IMU] Angular Velocity: 0.00363087
+[IMU] Angular Velocity: 0.0129252
+[IMU] Angular Velocity: 0.00956974
+[IMU] Angular Velocity: 0.00174825
+[IMU] Angular Velocity: -0.00639733
+[IMU] Angular Velocity: 0.000150596
+[IMU] Angular Velocity: 0.00280383
+[Odom] Published Sensor Position - x: -0.109972, y: -0.0884752
+[Odom] Published Sensor Linear Vel: 0.000196268, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00304031
+[IMU] Angular Velocity: 0.00678998
+[IMU] Angular Velocity: 0.0133019
+[IMU] Angular Velocity: 0.00826527
+[IMU] Angular Velocity: 0.0091846
+[IMU] Angular Velocity: 0.00565229
+[IMU] Angular Velocity: 0.00283238
+[IMU] Angular Velocity: -0.00237807
+[IMU] Angular Velocity: 0.00243666
+[IMU] Angular Velocity: 0.0109914
+[Odom] Published Sensor Position - x: -0.123708, y: -0.0542895
+[Odom] Published Sensor Linear Vel: 0.000769397, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00287814
+[IMU] Angular Velocity: 0.00304072
+[IMU] Angular Velocity: 0.00559015
+[IMU] Angular Velocity: 0.0144217
+[IMU] Angular Velocity: 0.0120657
+[IMU] Angular Velocity: 0.014974
+[IMU] Angular Velocity: 0.0184809
+[IMU] Angular Velocity: 0.0216731
+[IMU] Angular Velocity: 0.0110607
+[IMU] Angular Velocity: 0.0148661
+[Odom] Published Sensor Position - x: -0.169033, y: -0.0687197
+[Odom] Published Sensor Linear Vel: 0.00104063, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00766631
+[IMU] Angular Velocity: 0.0110707
+[IMU] Angular Velocity: 0.00737972
+[IMU] Angular Velocity: -0.00129707
+[IMU] Angular Velocity: -0.0100592
+[IMU] Angular Velocity: -0.0130927
+[IMU] Angular Velocity: -0.0113575
+[IMU] Angular Velocity: -0.00352538
+[IMU] Angular Velocity: -0.00654229
+[IMU] Angular Velocity: -0.0158418
+[Odom] Published Sensor Position - x: -0.166757, y: -0.0715598
+[Odom] Published Sensor Linear Vel: -0.00110893, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0135006
+[IMU] Angular Velocity: -0.018358
+[IMU] Angular Velocity: -0.0239669
+[IMU] Angular Velocity: -0.0147602
+[IMU] Angular Velocity: -0.014768
+[IMU] Angular Velocity: -0.00804928
+[IMU] Angular Velocity: -0.00391818
+[IMU] Angular Velocity: -0.00257903
+[IMU] Angular Velocity: -0.00367781
+[IMU] Angular Velocity: 0.00342146
+[Odom] Published Sensor Position - x: -0.0724282, y: -0.11237
+[Odom] Published Sensor Linear Vel: 0.000239502, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00192442
+[IMU] Angular Velocity: 0.0032569
+[IMU] Angular Velocity: -0.00634795
+[IMU] Angular Velocity: -0.00264802
+[IMU] Angular Velocity: -0.00770409
+[IMU] Angular Velocity: -0.0137231
+[IMU] Angular Velocity: -0.00334022
+[IMU] Angular Velocity: -0.0126406
+[IMU] Angular Velocity: -0.0202774
+[IMU] Angular Velocity: -0.026902
+[Odom] Published Sensor Position - x: -0.0721097, y: -0.0873889
+[Odom] Published Sensor Linear Vel: -0.00188314, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0307304
+[IMU] Angular Velocity: -0.0324967
+[IMU] Angular Velocity: -0.0359804
+[IMU] Angular Velocity: -0.0349392
+[IMU] Angular Velocity: -0.0298399
+[IMU] Angular Velocity: -0.0228004
+[IMU] Angular Velocity: -0.0232331
+[IMU] Angular Velocity: -0.0260545
+[IMU] Angular Velocity: -0.0276016
+[IMU] Angular Velocity: -0.0242374
+[Odom] Published Sensor Position - x: -0.0836653, y: -0.0487928
+[Odom] Published Sensor Linear Vel: -0.00169662, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.02257
+[IMU] Angular Velocity: -0.0302033
+[IMU] Angular Velocity: -0.033386
+[IMU] Angular Velocity: -0.0210598
+[IMU] Angular Velocity: -0.0219618
+[IMU] Angular Velocity: -0.013035
+[IMU] Angular Velocity: -0.00907013
+[IMU] Angular Velocity: -0.00280367
+[IMU] Angular Velocity: -0.00810739
+[IMU] Angular Velocity: -0.00315121
+[Odom] Published Sensor Position - x: -0.143967, y: -0.081914
+[Odom] Published Sensor Linear Vel: -0.000220585, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00343982
+[IMU] Angular Velocity: -0.0124041
+[IMU] Angular Velocity: -0.00930711
+[IMU] Angular Velocity: -0.00762722
+[IMU] Angular Velocity: 0.00248895
+[IMU] Angular Velocity: -0.00479712
+[IMU] Angular Velocity: 0.00433048
+[IMU] Angular Velocity: 0.00534491
+[IMU] Angular Velocity: -0.002092
+[IMU] Angular Velocity: -0.00994785
+[Odom] Published Sensor Position - x: -0.167931, y: -0.034018
+[Odom] Published Sensor Linear Vel: -0.000696349, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00496396
+[IMU] Angular Velocity: -0.0075402
+[IMU] Angular Velocity: -0.012338
+[IMU] Angular Velocity: -0.0205527
+[IMU] Angular Velocity: -0.0269098
+[IMU] Angular Velocity: -0.0255561
+[IMU] Angular Velocity: -0.0209166
+[IMU] Angular Velocity: -0.0255548
+[IMU] Angular Velocity: -0.0223196
+[IMU] Angular Velocity: -0.0190683
+[Odom] Published Sensor Position - x: -0.103504, y: -0.0623241
+[Odom] Published Sensor Linear Vel: -0.00133478, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0170778
+[IMU] Angular Velocity: -0.0148946
+[IMU] Angular Velocity: -0.0212318
+[IMU] Angular Velocity: -0.0168439
+[IMU] Angular Velocity: -0.0153922
+[IMU] Angular Velocity: -0.0140852
+[IMU] Angular Velocity: -0.0171156
+[IMU] Angular Velocity: -0.01476
+[IMU] Angular Velocity: -0.011305
+[IMU] Angular Velocity: -0.00372831
+[Odom] Published Sensor Position - x: -0.147375, y: -0.029354
+[Odom] Published Sensor Linear Vel: -0.000260981, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0053707
+[IMU] Angular Velocity: 0.0138715
+[IMU] Angular Velocity: 0.016506
+[IMU] Angular Velocity: 0.00681974
+[IMU] Angular Velocity: 0.0112765
+[IMU] Angular Velocity: 0.01159
+[IMU] Angular Velocity: 0.0198948
+[IMU] Angular Velocity: 0.0239638
+[IMU] Angular Velocity: 0.0145045
+[IMU] Angular Velocity: 0.0115077
+[Odom] Published Sensor Position - x: -0.105179, y: -0.113455
+[Odom] Published Sensor Linear Vel: 0.000805539, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0183583
+[IMU] Angular Velocity: 0.0071138
+[IMU] Angular Velocity: 0.00193216
+[IMU] Angular Velocity: 0.00797298
+[IMU] Angular Velocity: 0.00875699
+[IMU] Angular Velocity: 0.00165475
+[IMU] Angular Velocity: -0.00705666
+[IMU] Angular Velocity: -0.0145398
+[IMU] Angular Velocity: -0.0095629
+[IMU] Angular Velocity: -0.00320028
+[Odom] Published Sensor Position - x: -0.0806479, y: -0.0708356
+[Odom] Published Sensor Linear Vel: -0.00022402, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.000877707
+[IMU] Angular Velocity: 0.000340997
+[IMU] Angular Velocity: 0.00982383
+[IMU] Angular Velocity: 0.0060698
+[IMU] Angular Velocity: -0.0030791
+[IMU] Angular Velocity: -0.00277188
+[IMU] Angular Velocity: -0.00956524
+[IMU] Angular Velocity: -0.010426
+[IMU] Angular Velocity: -0.015401
+[IMU] Angular Velocity: -0.0123165
+[Odom] Published Sensor Position - x: -0.111758, y: -0.0826186
+[Odom] Published Sensor Linear Vel: -0.000862155, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0180845
+[IMU] Angular Velocity: -0.0181851
+[IMU] Angular Velocity: -0.0188452
+[IMU] Angular Velocity: -0.0139931
+[IMU] Angular Velocity: -0.0154123
+[IMU] Angular Velocity: -0.0209423
+[IMU] Angular Velocity: -0.0225122
+[IMU] Angular Velocity: -0.0117994
+[IMU] Angular Velocity: -0.0153132
+[IMU] Angular Velocity: -0.0110589
+[Odom] Published Sensor Position - x: -0.124636, y: -0.103652
+[Odom] Published Sensor Linear Vel: -0.00077412, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00403324
+[IMU] Angular Velocity: -0.00720962
+[IMU] Angular Velocity: -0.0118363
+[IMU] Angular Velocity: -0.019152
+[IMU] Angular Velocity: -0.0187475
+[IMU] Angular Velocity: -0.0196847
+[IMU] Angular Velocity: -0.0184157
+[IMU] Angular Velocity: -0.0255277
+[IMU] Angular Velocity: -0.0156404
+[IMU] Angular Velocity: -0.00737753
+[Odom] Published Sensor Position - x: -0.104684, y: -0.117169
+[Odom] Published Sensor Linear Vel: -0.000516427, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00616357
+[IMU] Angular Velocity: 0.00120675
+[IMU] Angular Velocity: 0.00394419
+[IMU] Angular Velocity: 1.04626e-05
+[IMU] Angular Velocity: -0.00445725
+[IMU] Angular Velocity: 0.0027249
+[IMU] Angular Velocity: 0.00316608
+[IMU] Angular Velocity: -0.00229229
+[IMU] Angular Velocity: -0.007119
+[IMU] Angular Velocity: 0.000327079
+[Odom] Published Sensor Position - x: -0.108225, y: -0.0518857
+[Odom] Published Sensor Linear Vel: 2.28955e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00739415
+[IMU] Angular Velocity: -0.007549
+[IMU] Angular Velocity: 0.000322643
+[IMU] Angular Velocity: -0.00851107
+[IMU] Angular Velocity: -0.0141145
+[IMU] Angular Velocity: -0.0107917
+[IMU] Angular Velocity: -0.00830413
+[IMU] Angular Velocity: -0.0133939
+[IMU] Angular Velocity: -0.0171418
+[IMU] Angular Velocity: -0.00616457
+[Odom] Published Sensor Position - x: -0.148872, y: -0.0406909
+[Odom] Published Sensor Linear Vel: -0.00043152, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00406778
+[IMU] Angular Velocity: -0.00361579
+[IMU] Angular Velocity: -0.010879
+[IMU] Angular Velocity: -0.0120352
+[IMU] Angular Velocity: -0.0183387
+[IMU] Angular Velocity: -0.00949429
+[IMU] Angular Velocity: -0.0113065
+[IMU] Angular Velocity: -0.00853387
+[IMU] Angular Velocity: -0.0142812
+[IMU] Angular Velocity: -0.00509433
+[Odom] Published Sensor Position - x: -0.136496, y: -0.0488566
+[Odom] Published Sensor Linear Vel: -0.000356603, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00893032
+[IMU] Angular Velocity: -0.0165558
+[IMU] Angular Velocity: -0.0215751
+[IMU] Angular Velocity: -0.0206959
+[IMU] Angular Velocity: -0.0232591
+[IMU] Angular Velocity: -0.0266084
+[IMU] Angular Velocity: -0.0153238
+[IMU] Angular Velocity: -0.0166341
+[IMU] Angular Velocity: -0.00911459
+[IMU] Angular Velocity: -0.0158943
+[Odom] Published Sensor Position - x: -0.105337, y: -0.0803684
+[Odom] Published Sensor Linear Vel: -0.0011126, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00598573
+[IMU] Angular Velocity: 0.00125583
+[IMU] Angular Velocity: 0.00996913
+[IMU] Angular Velocity: 0.0103901
+[IMU] Angular Velocity: 0.0156766
+[IMU] Angular Velocity: 0.0110608
+[IMU] Angular Velocity: 0.0148242
+[IMU] Angular Velocity: 0.0155533
+[IMU] Angular Velocity: 0.00648527
+[IMU] Angular Velocity: -0.00165561
+[Odom] Published Sensor Position - x: -0.0956945, y: -0.0728121
+[Odom] Published Sensor Linear Vel: -0.000115892, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00219219
+[IMU] Angular Velocity: -0.00562788
+[IMU] Angular Velocity: -0.0138486
+[IMU] Angular Velocity: -0.0178863
+[IMU] Angular Velocity: -0.0249873
+[IMU] Angular Velocity: -0.0318019
+[IMU] Angular Velocity: -0.0251365
+[IMU] Angular Velocity: -0.0207784
+[IMU] Angular Velocity: -0.0197027
+[IMU] Angular Velocity: -0.0174231
+[Odom] Published Sensor Position - x: -0.084916, y: -0.0575452
+[Odom] Published Sensor Linear Vel: -0.00121961, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0127581
+[IMU] Angular Velocity: -0.0173018
+[IMU] Angular Velocity: -0.0231232
+[IMU] Angular Velocity: -0.0199126
+[IMU] Angular Velocity: -0.0206297
+[IMU] Angular Velocity: -0.0102654
+[IMU] Angular Velocity: -0.00326089
+[IMU] Angular Velocity: 0.000950241
+[IMU] Angular Velocity: -0.00111559
+[IMU] Angular Velocity: -0.000649888
+[Odom] Published Sensor Position - x: -0.0810143, y: -0.104662
+[Odom] Published Sensor Linear Vel: -4.54922e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00239803
+[IMU] Angular Velocity: -0.0083005
+[IMU] Angular Velocity: -0.00928132
+[IMU] Angular Velocity: -0.00567585
+[IMU] Angular Velocity: -0.00816829
+[IMU] Angular Velocity: -0.0109641
+[IMU] Angular Velocity: -0.0121075
+[IMU] Angular Velocity: -0.00556193
+[IMU] Angular Velocity: 0.00498723
+[IMU] Angular Velocity: -0.00154146
+[Odom] Published Sensor Position - x: -0.116699, y: -0.0981283
+[Odom] Published Sensor Linear Vel: -0.000107902, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.000776166
+[IMU] Angular Velocity: -0.00636957
+[IMU] Angular Velocity: -0.00428734
+[IMU] Angular Velocity: 0.00304278
+[IMU] Angular Velocity: 0.00761391
+[IMU] Angular Velocity: 0.00794635
+[IMU] Angular Velocity: 0.00941434
+[IMU] Angular Velocity: 0.00532387
+[IMU] Angular Velocity: 0.00325774
+[IMU] Angular Velocity: 0.000238325
+[Odom] Published Sensor Position - x: -0.162302, y: -0.076506
+[Odom] Published Sensor Linear Vel: 1.66828e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00149369
+[IMU] Angular Velocity: -0.00745384
+[IMU] Angular Velocity: -0.00570325
+[IMU] Angular Velocity: -0.0139346
+[IMU] Angular Velocity: -0.00534303
+[IMU] Angular Velocity: 0.00212847
+[IMU] Angular Velocity: 0.0113752
+[IMU] Angular Velocity: 0.00588161
+[IMU] Angular Velocity: -0.00346059
+[IMU] Angular Velocity: -0.00746299
+[Odom] Published Sensor Position - x: -0.127896, y: -0.0984323
+[Odom] Published Sensor Linear Vel: -0.000522409, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00324699
+[IMU] Angular Velocity: -0.00954614
+[IMU] Angular Velocity: -0.0184961
+[IMU] Angular Velocity: -0.013244
+[IMU] Angular Velocity: -0.0125538
+[IMU] Angular Velocity: -0.0123709
+[IMU] Angular Velocity: -0.00346203
+[IMU] Angular Velocity: -0.0127874
+[IMU] Angular Velocity: -0.0102604
+[IMU] Angular Velocity: -0.0186131
+[Odom] Published Sensor Position - x: -0.0824213, y: -0.0634166
+[Odom] Published Sensor Linear Vel: -0.00130291, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00798235
+[IMU] Angular Velocity: -0.00210142
+[IMU] Angular Velocity: -0.00427854
+[IMU] Angular Velocity: -0.00781434
+[IMU] Angular Velocity: -0.0120102
+[IMU] Angular Velocity: -0.00661554
+[IMU] Angular Velocity: -0.0141101
+[IMU] Angular Velocity: -0.0165137
+[IMU] Angular Velocity: -0.0119224
+[IMU] Angular Velocity: -0.0116023
+[Odom] Published Sensor Position - x: -0.154878, y: -0.077136
+[Odom] Published Sensor Linear Vel: -0.000812161, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.000710245
+[IMU] Angular Velocity: -0.00355127
+[IMU] Angular Velocity: -0.000361528
+[IMU] Angular Velocity: -0.00876037
+[IMU] Angular Velocity: -0.0128124
+[IMU] Angular Velocity: -0.0214723
+[IMU] Angular Velocity: -0.0101718
+[IMU] Angular Velocity: -0.0168054
+[IMU] Angular Velocity: -0.0206835
+[IMU] Angular Velocity: -0.0237135
+[Odom] Published Sensor Position - x: -0.116279, y: -0.0327326
+[Odom] Published Sensor Linear Vel: -0.00165995, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0132548
+[IMU] Angular Velocity: -0.00193704
+[IMU] Angular Velocity: 0.00317098
+[IMU] Angular Velocity: 0.00568084
+[IMU] Angular Velocity: 0.0123686
+[IMU] Angular Velocity: 0.00693033
+[IMU] Angular Velocity: 0.0128368
+[IMU] Angular Velocity: 0.0168316
+[IMU] Angular Velocity: 0.0126236
+[IMU] Angular Velocity: 0.0132749
+[Odom] Published Sensor Position - x: -0.116208, y: -0.0402822
+[Odom] Published Sensor Linear Vel: 0.000929243, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0195922
+[IMU] Angular Velocity: 0.0175892
+[IMU] Angular Velocity: 0.0195893
+[IMU] Angular Velocity: 0.0132477
+[IMU] Angular Velocity: 0.00988261
+[IMU] Angular Velocity: 0.00984188
+[IMU] Angular Velocity: 0.00355469
+[IMU] Angular Velocity: 0.00224977
+[IMU] Angular Velocity: 0.00840439
+[IMU] Angular Velocity: 0.0124728
+[Odom] Published Sensor Position - x: -0.0952063, y: -0.0774466
+[Odom] Published Sensor Linear Vel: 0.000873098, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0144241
+[IMU] Angular Velocity: 0.00898214
+[IMU] Angular Velocity: 0.016112
+[IMU] Angular Velocity: 0.0126678
+[IMU] Angular Velocity: 0.0134158
+[IMU] Angular Velocity: 0.00350814
+[IMU] Angular Velocity: 0.00096897
+[IMU] Angular Velocity: 0.00485073
+[IMU] Angular Velocity: 0.00210361
+[IMU] Angular Velocity: -0.00273925
+[Odom] Published Sensor Position - x: -0.154864, y: -0.0373805
+[Odom] Published Sensor Linear Vel: -0.000191747, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.000503244
+[IMU] Angular Velocity: -0.00196898
+[IMU] Angular Velocity: -0.00744324
+[IMU] Angular Velocity: 0.00115895
+[IMU] Angular Velocity: 0.0106841
+[IMU] Angular Velocity: 0.00245921
+[IMU] Angular Velocity: -0.00613968
+[IMU] Angular Velocity: -0.008021
+[IMU] Angular Velocity: -0.0122943
+[IMU] Angular Velocity: -0.0160254
+[Odom] Published Sensor Position - x: -0.116069, y: -0.0666376
+[Odom] Published Sensor Linear Vel: -0.00112178, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0161466
+[IMU] Angular Velocity: -0.013127
+[IMU] Angular Velocity: -0.00566094
+[IMU] Angular Velocity: -0.0124815
+[IMU] Angular Velocity: -0.0170642
+[IMU] Angular Velocity: -0.0192025
+[IMU] Angular Velocity: -0.0205864
+[IMU] Angular Velocity: -0.0148535
+[IMU] Angular Velocity: -0.0200597
+[IMU] Angular Velocity: -0.0105771
+[Odom] Published Sensor Position - x: -0.162078, y: -0.0932827
+[Odom] Published Sensor Linear Vel: -0.000740396, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00213839
+[IMU] Angular Velocity: 0.0078143
+[IMU] Angular Velocity: 0.0107459
+[IMU] Angular Velocity: 0.00758289
+[IMU] Angular Velocity: 0.00636461
+[IMU] Angular Velocity: 0.00161128
+[IMU] Angular Velocity: 3.17548e-05
+[IMU] Angular Velocity: 0.00318981
+[IMU] Angular Velocity: 0.00621691
+[IMU] Angular Velocity: 0.00117663
+[Odom] Published Sensor Position - x: -0.170606, y: -0.112117
+[Odom] Published Sensor Linear Vel: 8.2364e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00387016
+[IMU] Angular Velocity: -0.0040116
+[IMU] Angular Velocity: -0.00858932
+[IMU] Angular Velocity: -0.00823477
+[IMU] Angular Velocity: -0.000693497
+[IMU] Angular Velocity: -0.00764869
+[IMU] Angular Velocity: -0.00145616
+[IMU] Angular Velocity: 0.00141879
+[IMU] Angular Velocity: -0.00328322
+[IMU] Angular Velocity: 0.00280581
+[Odom] Published Sensor Position - x: -0.163421, y: -0.0338846
+[Odom] Published Sensor Linear Vel: 0.000196407, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0114389
+[IMU] Angular Velocity: 0.0168462
+[IMU] Angular Velocity: 0.0223565
+[IMU] Angular Velocity: 0.0274564
+[IMU] Angular Velocity: 0.023005
+[IMU] Angular Velocity: 0.0178996
+[IMU] Angular Velocity: 0.0225455
+[IMU] Angular Velocity: 0.0185826
+[IMU] Angular Velocity: 0.0149892
+[IMU] Angular Velocity: 0.0232089
+[Odom] Published Sensor Position - x: -0.170591, y: -0.105219
+[Odom] Published Sensor Linear Vel: 0.00162462, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0155782
+[IMU] Angular Velocity: 0.00690912
+[IMU] Angular Velocity: -0.00232136
+[IMU] Angular Velocity: 0.00256739
+[IMU] Angular Velocity: 0.00711505
+[IMU] Angular Velocity: 0.0131725
+[IMU] Angular Velocity: 0.00724295
+[IMU] Angular Velocity: 0.00896044
+[IMU] Angular Velocity: 0.0125512
+[IMU] Angular Velocity: 0.0033161
+[Odom] Published Sensor Position - x: -0.127383, y: -0.0940794
+[Odom] Published Sensor Linear Vel: 0.000232127, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00387066
+[IMU] Angular Velocity: -0.00555885
+[IMU] Angular Velocity: -0.0082228
+[IMU] Angular Velocity: -0.0118128
+[IMU] Angular Velocity: -0.00320038
+[IMU] Angular Velocity: -0.00225533
+[IMU] Angular Velocity: -0.00731874
+[IMU] Angular Velocity: -0.000126226
+[IMU] Angular Velocity: -0.00934016
+[IMU] Angular Velocity: -0.0112824
+[Odom] Published Sensor Position - x: -0.154494, y: -0.0872276
+[Odom] Published Sensor Linear Vel: -0.000789769, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00199747
+[IMU] Angular Velocity: 0.0047929
+[IMU] Angular Velocity: 0.00594636
+[IMU] Angular Velocity: 0.00149034
+[IMU] Angular Velocity: -0.00796226
+[IMU] Angular Velocity: -0.00173823
+[IMU] Angular Velocity: 0.00778413
+[IMU] Angular Velocity: 7.87653e-05
+[IMU] Angular Velocity: 0.00385047
+[IMU] Angular Velocity: -0.00330633
+[Odom] Published Sensor Position - x: -0.169746, y: -0.0377218
+[Odom] Published Sensor Linear Vel: -0.000231443, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00145604
+[IMU] Angular Velocity: -0.00109101
+[IMU] Angular Velocity: 0.000723907
+[IMU] Angular Velocity: -0.00244616
+[IMU] Angular Velocity: 0.00295479
+[IMU] Angular Velocity: -0.00409594
+[IMU] Angular Velocity: -0.0102436
+[IMU] Angular Velocity: -0.00279689
+[IMU] Angular Velocity: 0.00418909
+[IMU] Angular Velocity: -0.00505728
+[Odom] Published Sensor Position - x: -0.106577, y: -0.0973592
+[Odom] Published Sensor Linear Vel: -0.00035401, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00720104
+[IMU] Angular Velocity: -0.000201852
+[IMU] Angular Velocity: 0.00447648
+[IMU] Angular Velocity: 0.00815626
+[IMU] Angular Velocity: 0.0114303
+[IMU] Angular Velocity: 0.00395154
+[IMU] Angular Velocity: 0.00755318
+[IMU] Angular Velocity: 0.000367513
+[IMU] Angular Velocity: 0.00088381
+[IMU] Angular Velocity: 0.00428588
+[Odom] Published Sensor Position - x: -0.111308, y: -0.0361953
+[Odom] Published Sensor Linear Vel: 0.000300012, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00337752
+[IMU] Angular Velocity: -0.012588
+[IMU] Angular Velocity: -0.0193205
+[IMU] Angular Velocity: -0.0114022
+[IMU] Angular Velocity: -0.00770268
+[IMU] Angular Velocity: -0.0105046
+[IMU] Angular Velocity: -0.00469204
+[IMU] Angular Velocity: -0.0078899
+[IMU] Angular Velocity: 0.000591093
+[IMU] Angular Velocity: 0.00809502
+[Odom] Published Sensor Position - x: -0.133333, y: -0.0378258
+[Odom] Published Sensor Linear Vel: 0.000566651, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00146932
+[IMU] Angular Velocity: -0.0046938
+[IMU] Angular Velocity: -0.0110379
+[IMU] Angular Velocity: -0.0184724
+[IMU] Angular Velocity: -0.0218311
+[IMU] Angular Velocity: -0.0227164
+[IMU] Angular Velocity: -0.0107965
+[IMU] Angular Velocity: -0.00111721
+[IMU] Angular Velocity: 0.00202154
+[IMU] Angular Velocity: -0.00304093
+[Odom] Published Sensor Position - x: -0.168663, y: -0.0697202
+[Odom] Published Sensor Linear Vel: -0.000212865, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00497895
+[IMU] Angular Velocity: -0.00169204
+[IMU] Angular Velocity: 0.00483947
+[IMU] Angular Velocity: -0.00199301
+[IMU] Angular Velocity: -0.00620022
+[IMU] Angular Velocity: -0.00170324
+[IMU] Angular Velocity: -0.00664904
+[IMU] Angular Velocity: -0.00894892
+[IMU] Angular Velocity: -0.0116213
+[IMU] Angular Velocity: -0.00175734
+[Odom] Published Sensor Position - x: -0.091612, y: -0.0873028
+[Odom] Published Sensor Linear Vel: -0.000123014, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0103944
+[IMU] Angular Velocity: -0.00901668
+[IMU] Angular Velocity: -0.00584969
+[IMU] Angular Velocity: -0.00238859
+[IMU] Angular Velocity: -0.00871133
+[IMU] Angular Velocity: -0.00987505
+[IMU] Angular Velocity: -0.0028413
+[IMU] Angular Velocity: -0.0011329
+[IMU] Angular Velocity: -0.00883443
+[IMU] Angular Velocity: -0.0047394
+[Odom] Published Sensor Position - x: -0.120476, y: -0.100399
+[Odom] Published Sensor Linear Vel: -0.000331758, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0051634
+[IMU] Angular Velocity: -0.0111528
+[IMU] Angular Velocity: -0.00808285
+[IMU] Angular Velocity: -0.0103406
+[IMU] Angular Velocity: -0.0172949
+[IMU] Angular Velocity: -0.00964599
+[IMU] Angular Velocity: -0.0158654
+[IMU] Angular Velocity: -0.021827
+[IMU] Angular Velocity: -0.0180091
+[IMU] Angular Velocity: -0.00626554
+[Odom] Published Sensor Position - x: -0.164778, y: -0.0802411
+[Odom] Published Sensor Linear Vel: -0.000438588, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00403116
+[IMU] Angular Velocity: 0.00645342
+[IMU] Angular Velocity: 0.00281715
+[IMU] Angular Velocity: -0.00403847
+[IMU] Angular Velocity: -0.0117064
+[IMU] Angular Velocity: -0.0181034
+[IMU] Angular Velocity: -0.017825
+[IMU] Angular Velocity: -0.0146083
+[IMU] Angular Velocity: -0.0200307
+[IMU] Angular Velocity: -0.0260443
+[Odom] Published Sensor Position - x: -0.136978, y: -0.0260057
+[Odom] Published Sensor Linear Vel: -0.0018231, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0284786
+[IMU] Angular Velocity: -0.0238387
+[IMU] Angular Velocity: -0.0210783
+[IMU] Angular Velocity: -0.0212592
+[IMU] Angular Velocity: -0.0178983
+[IMU] Angular Velocity: -0.020793
+[IMU] Angular Velocity: -0.0276486
+[IMU] Angular Velocity: -0.0189489
+[IMU] Angular Velocity: -0.121031
+[IMU] Angular Velocity: -0.204934
+[Odom] Published Sensor Position - x: -0.148945, y: -0.100792
+[Odom] Published Sensor Linear Vel: -0.0100032, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0893487
+[IMU] Angular Velocity: 0.023558
+[IMU] Angular Velocity: 0.114839
+[IMU] Angular Velocity: 0.210835
+[IMU] Angular Velocity: 0.299046
+[IMU] Angular Velocity: 0.3674
+[IMU] Angular Velocity: 0.434432
+[IMU] Angular Velocity: 0.493225
+[IMU] Angular Velocity: 0.538191
+[IMU] Angular Velocity: 0.576128
+[Odom] Published Sensor Position - x: -0.0972604, y: -0.0454591
+[Odom] Published Sensor Linear Vel: 0.042692, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.418999
+[IMU] Angular Velocity: 0.270526
+[IMU] Angular Velocity: 0.142275
+[IMU] Angular Velocity: 0.0279788
+[IMU] Angular Velocity: -0.0750696
+[IMU] Angular Velocity: -0.159367
+[IMU] Angular Velocity: -0.233903
+[IMU] Angular Velocity: -0.312606
+[IMU] Angular Velocity: -0.379115
+[IMU] Angular Velocity: -0.447087
+[Odom] Published Sensor Position - x: -0.0952021, y: -0.0527814
+[Odom] Published Sensor Linear Vel: -0.0291721, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.504226
+[IMU] Angular Velocity: -0.55318
+[IMU] Angular Velocity: -0.605344
+[IMU] Angular Velocity: -0.647303
+[IMU] Angular Velocity: -0.687231
+[IMU] Angular Velocity: -0.722861
+[IMU] Angular Velocity: -0.754717
+[IMU] Angular Velocity: -0.782546
+[IMU] Angular Velocity: -0.811501
+[IMU] Angular Velocity: -0.835799
+[Odom] Published Sensor Position - x: -0.121765, y: -0.0250394
+[Odom] Published Sensor Linear Vel: -0.0550469, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.641542
+[IMU] Angular Velocity: -0.679555
+[IMU] Angular Velocity: -0.70191
+[IMU] Angular Velocity: -0.727761
+[IMU] Angular Velocity: -0.756187
+[IMU] Angular Velocity: -0.785313
+[IMU] Angular Velocity: -0.79994
+[IMU] Angular Velocity: -0.811184
+[IMU] Angular Velocity: -0.822203
+[IMU] Angular Velocity: -0.844256
+[Odom] Published Sensor Position - x: -0.170969, y: -0.00367758
+[Odom] Published Sensor Linear Vel: -0.0526608, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.659107
+[IMU] Angular Velocity: -0.696471
+[IMU] Angular Velocity: -0.717059
+[IMU] Angular Velocity: -0.743044
+[IMU] Angular Velocity: -0.774232
+[IMU] Angular Velocity: -0.790662
+[IMU] Angular Velocity: -0.817375
+[IMU] Angular Velocity: -0.843226
+[IMU] Angular Velocity: -0.857522
+[IMU] Angular Velocity: -0.875444
+[Odom] Published Sensor Position - x: -0.155341, y: -0.0698891
+[Odom] Published Sensor Linear Vel: -0.05074, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.69599
+[IMU] Angular Velocity: -0.516056
+[IMU] Angular Velocity: -0.361208
+[IMU] Angular Velocity: -0.221524
+[IMU] Angular Velocity: -0.0985556
+[IMU] Angular Velocity: 0.0125684
+[IMU] Angular Velocity: 0.106709
+[IMU] Angular Velocity: 0.18787
+[IMU] Angular Velocity: 0.273864
+[IMU] Angular Velocity: 0.347991
+[Odom] Published Sensor Position - x: -0.13219, y: -0.0676041
+[Odom] Published Sensor Linear Vel: 0.0357949, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.418142
+[IMU] Angular Velocity: 0.475249
+[IMU] Angular Velocity: 0.518969
+[IMU] Angular Velocity: 0.567914
+[IMU] Angular Velocity: 0.609743
+[IMU] Angular Velocity: 0.641047
+[IMU] Angular Velocity: 0.676311
+[IMU] Angular Velocity: 0.705467
+[IMU] Angular Velocity: 0.728325
+[IMU] Angular Velocity: 0.750712
+[Odom] Published Sensor Position - x: -0.111192, y: -0.0620655
+[Odom] Published Sensor Linear Vel: 0.0677385, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.775494
+[IMU] Angular Velocity: 0.791308
+[IMU] Angular Velocity: 0.807292
+[IMU] Angular Velocity: 0.826025
+[IMU] Angular Velocity: 0.831917
+[IMU] Angular Velocity: 0.846116
+[IMU] Angular Velocity: 0.857961
+[IMU] Angular Velocity: 0.867129
+[IMU] Angular Velocity: 0.886089
+[IMU] Angular Velocity: 0.884977
+[Odom] Published Sensor Position - x: -0.0700768, y: -0.0753237
+[Odom] Published Sensor Linear Vel: 0.0813892, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.888684
+[IMU] Angular Velocity: 0.703147
+[IMU] Angular Velocity: 0.535844
+[IMU] Angular Velocity: 0.38699
+[IMU] Angular Velocity: 0.237857
+[IMU] Angular Velocity: 0.113482
+[IMU] Angular Velocity: 0.00208844
+[IMU] Angular Velocity: -0.104645
+[IMU] Angular Velocity: -0.191751
+[IMU] Angular Velocity: -0.266946
+[Odom] Published Sensor Position - x: -0.156062, y: -0.0438186
+[Odom] Published Sensor Linear Vel: 0.00709967, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.144794
+[IMU] Angular Velocity: -0.238967
+[IMU] Angular Velocity: -0.317523
+[IMU] Angular Velocity: -0.37778
+[IMU] Angular Velocity: -0.434365
+[IMU] Angular Velocity: -0.490225
+[IMU] Angular Velocity: -0.535844
+[IMU] Angular Velocity: -0.574922
+[IMU] Angular Velocity: -0.620852
+[IMU] Angular Velocity: -0.665256
+[Odom] Published Sensor Position - x: -0.0968153, y: -0.0789816
+[Odom] Published Sensor Linear Vel: -0.0135593, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.497755
+[IMU] Angular Velocity: -0.350316
+[IMU] Angular Velocity: -0.216015
+[IMU] Angular Velocity: -0.0926021
+[IMU] Angular Velocity: 0.0107184
+[IMU] Angular Velocity: 0.11593
+[IMU] Angular Velocity: 0.200318
+[IMU] Angular Velocity: 0.279766
+[IMU] Angular Velocity: 0.327149
+[IMU] Angular Velocity: 0.361792
+[Odom] Published Sensor Position - x: -0.106007, y: -0.100706
+[Odom] Published Sensor Linear Vel: 0.0596674, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.433206
+[IMU] Angular Velocity: 0.494611
+[IMU] Angular Velocity: 0.542398
+[IMU] Angular Velocity: 0.589498
+[IMU] Angular Velocity: 0.631317
+[IMU] Angular Velocity: 0.663039
+[IMU] Angular Velocity: 0.701811
+[IMU] Angular Velocity: 0.724911
+[IMU] Angular Velocity: 0.757264
+[IMU] Angular Velocity: 0.786636
+[Odom] Published Sensor Position - x: -0.0978141, y: -0.0385086
+[Odom] Published Sensor Linear Vel: 0.0971936, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.604636
+[IMU] Angular Velocity: 0.445494
+[IMU] Angular Velocity: 0.304326
+[IMU] Angular Velocity: 0.167513
+[IMU] Angular Velocity: 0.0602838
+[IMU] Angular Velocity: -0.0395985
+[IMU] Angular Velocity: -0.135302
+[IMU] Angular Velocity: -0.223802
+[IMU] Angular Velocity: -0.299818
+[IMU] Angular Velocity: -0.363
+[Odom] Published Sensor Position - x: -0.0662076, y: -0.0741539
+[Odom] Published Sensor Linear Vel: 0.0240268, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.418616
+[IMU] Angular Velocity: -0.474528
+[IMU] Angular Velocity: -0.52942
+[IMU] Angular Velocity: -0.566362
+[IMU] Angular Velocity: -0.607523
+[IMU] Angular Velocity: -0.651051
+[IMU] Angular Velocity: -0.678718
+[IMU] Angular Velocity: -0.718789
+[IMU] Angular Velocity: -0.744308
+[IMU] Angular Velocity: -0.772508
+[Odom] Published Sensor Position - x: -0.142272, y: -0.0564624
+[Odom] Published Sensor Linear Vel: -0.000723141, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.586044
+[IMU] Angular Velocity: -0.626133
+[IMU] Angular Velocity: -0.665214
+[IMU] Angular Velocity: -0.70468
+[IMU] Angular Velocity: -0.740004
+[IMU] Angular Velocity: -0.768018
+[IMU] Angular Velocity: -0.786286
+[IMU] Angular Velocity: -0.798845
+[IMU] Angular Velocity: -0.81741
+[IMU] Angular Velocity: -0.842558
+[Odom] Published Sensor Position - x: -0.130521, y: -0.0234944
+[Odom] Published Sensor Linear Vel: 0.00498122, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.856598
+[IMU] Angular Velocity: -0.866969
+[IMU] Angular Velocity: -0.874421
+[IMU] Angular Velocity: -0.876912
+[IMU] Angular Velocity: -0.891476
+[IMU] Angular Velocity: -0.89155
+[IMU] Angular Velocity: -0.896111
+[IMU] Angular Velocity: -0.895719
+[IMU] Angular Velocity: -0.900659
+[IMU] Angular Velocity: -0.913274
+[Odom] Published Sensor Position - x: -0.108048, y: -0.0887988
+[Odom] Published Sensor Linear Vel: 0.00596072, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.718633
+[IMU] Angular Velocity: -0.542138
+[IMU] Angular Velocity: -0.389666
+[IMU] Angular Velocity: -0.258676
+[IMU] Angular Velocity: -0.130169
+[IMU] Angular Velocity: -0.0127075
+[IMU] Angular Velocity: 0.0861654
+[IMU] Angular Velocity: 0.176397
+[IMU] Angular Velocity: 0.258829
+[IMU] Angular Velocity: 0.334683
+[Odom] Published Sensor Position - x: -0.0458598, y: -0.00539232
+[Odom] Published Sensor Linear Vel: 0.0979674, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.192563
+[IMU] Angular Velocity: 0.0666244
+[IMU] Angular Velocity: -0.030564
+[IMU] Angular Velocity: -0.122212
+[IMU] Angular Velocity: -0.199942
+[IMU] Angular Velocity: -0.276891
+[IMU] Angular Velocity: -0.344546
+[IMU] Angular Velocity: -0.400312
+[IMU] Angular Velocity: -0.457401
+[IMU] Angular Velocity: -0.515811
+[Odom] Published Sensor Position - x: -0.0340689, y: -0.0766463
+[Odom] Published Sensor Linear Vel: 0.0468829, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.37231
+[IMU] Angular Velocity: -0.436937
+[IMU] Angular Velocity: -0.487756
+[IMU] Angular Velocity: -0.542584
+[IMU] Angular Velocity: -0.589896
+[IMU] Angular Velocity: -0.625507
+[IMU] Angular Velocity: -0.66964
+[IMU] Angular Velocity: -0.703094
+[IMU] Angular Velocity: -0.738007
+[IMU] Angular Velocity: -0.77179
+[Odom] Published Sensor Position - x: -0.0533085, y: -0.0679345
+[Odom] Published Sensor Linear Vel: 0.0336084, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.595903
+[IMU] Angular Velocity: -0.528662
+[IMU] Angular Velocity: -0.470942
+[IMU] Angular Velocity: -0.404635
+[IMU] Angular Velocity: -0.356087
+[IMU] Angular Velocity: -0.306662
+[IMU] Angular Velocity: -0.265574
+[IMU] Angular Velocity: -0.222952
+[IMU] Angular Velocity: -0.1864
+[IMU] Angular Velocity: -0.168938
+[Odom] Published Sensor Position - x: -0.038287, y: -0.0487828
+[Odom] Published Sensor Linear Vel: 0.0862896, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.24187
+[IMU] Angular Velocity: -0.310119
+[IMU] Angular Velocity: -0.377728
+[IMU] Angular Velocity: -0.443124
+[IMU] Angular Velocity: -0.495482
+[IMU] Angular Velocity: -0.546587
+[IMU] Angular Velocity: -0.591075
+[IMU] Angular Velocity: -0.630534
+[IMU] Angular Velocity: -0.672208
+[IMU] Angular Velocity: -0.702597
+[Odom] Published Sensor Position - x: -0.0416205, y: -0.0659842
+[Odom] Published Sensor Linear Vel: 0.0569596, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.525284
+[IMU] Angular Velocity: -0.391815
+[IMU] Angular Velocity: -0.274961
+[IMU] Angular Velocity: -0.154023
+[IMU] Angular Velocity: -0.0487179
+[IMU] Angular Velocity: 0.0337484
+[IMU] Angular Velocity: 0.115226
+[IMU] Angular Velocity: 0.188045
+[IMU] Angular Velocity: 0.242596
+[IMU] Angular Velocity: 0.295848
+[Odom] Published Sensor Position - x: -0.0579077, y: -0.0484202
+[Odom] Published Sensor Linear Vel: 0.134958, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.174204
+[IMU] Angular Velocity: 0.161945
+[IMU] Angular Velocity: 0.153157
+[IMU] Angular Velocity: 0.145303
+[IMU] Angular Velocity: 0.150287
+[IMU] Angular Velocity: 0.159522
+[IMU] Angular Velocity: 0.154115
+[IMU] Angular Velocity: 0.153747
+[IMU] Angular Velocity: 0.145833
+[IMU] Angular Velocity: 0.150987
+[Odom] Published Sensor Position - x: -0.0495306, y: -0.0814349
+[Odom] Published Sensor Linear Vel: 0.134481, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.227257
+[IMU] Angular Velocity: 0.295512
+[IMU] Angular Velocity: 0.359967
+[IMU] Angular Velocity: 0.420168
+[IMU] Angular Velocity: 0.469359
+[IMU] Angular Velocity: 0.512004
+[IMU] Angular Velocity: 0.561204
+[IMU] Angular Velocity: 0.603112
+[IMU] Angular Velocity: 0.64586
+[IMU] Angular Velocity: 0.689676
+[Odom] Published Sensor Position - x: -0.00845946, y: -0.0986575
+[Odom] Published Sensor Linear Vel: 0.179552, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.718559
+[IMU] Angular Velocity: 0.746711
+[IMU] Angular Velocity: 0.767953
+[IMU] Angular Velocity: 0.780675
+[IMU] Angular Velocity: 0.79904
+[IMU] Angular Velocity: 0.808148
+[IMU] Angular Velocity: 0.817846
+[IMU] Angular Velocity: 0.835307
+[IMU] Angular Velocity: 0.841842
+[IMU] Angular Velocity: 0.847658
+[Odom] Published Sensor Position - x: 0.0256815, y: -0.0457944
+[Odom] Published Sensor Linear Vel: 0.197529, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.667394
+[IMU] Angular Velocity: 0.494281
+[IMU] Angular Velocity: 0.348949
+[IMU] Angular Velocity: 0.20798
+[IMU] Angular Velocity: 0.0909433
+[IMU] Angular Velocity: -0.0136098
+[IMU] Angular Velocity: -0.119945
+[IMU] Angular Velocity: -0.204609
+[IMU] Angular Velocity: -0.285856
+[IMU] Angular Velocity: -0.350254
+[Odom] Published Sensor Position - x: 0.0517274, y: -0.0781105
+[Odom] Published Sensor Linear Vel: 0.123511, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.410555
+[IMU] Angular Velocity: -0.459985
+[IMU] Angular Velocity: -0.51985
+[IMU] Angular Velocity: -0.570546
+[IMU] Angular Velocity: -0.610878
+[IMU] Angular Velocity: -0.64917
+[IMU] Angular Velocity: -0.682659
+[IMU] Angular Velocity: -0.70335
+[IMU] Angular Velocity: -0.731309
+[IMU] Angular Velocity: -0.750331
+[Odom] Published Sensor Position - x: 0.0556309, y: -0.0498132
+[Odom] Published Sensor Linear Vel: 0.102471, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.78223
+[IMU] Angular Velocity: -0.802192
+[IMU] Angular Velocity: -0.813319
+[IMU] Angular Velocity: -0.826524
+[IMU] Angular Velocity: -0.849036
+[IMU] Angular Velocity: -0.853544
+[IMU] Angular Velocity: -0.874356
+[IMU] Angular Velocity: -0.876116
+[IMU] Angular Velocity: -0.884742
+[IMU] Angular Velocity: -0.888976
+[Odom] Published Sensor Position - x: 0.0449653, y: -0.063311
+[Odom] Published Sensor Linear Vel: 0.102919, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.690993
+[IMU] Angular Velocity: -0.687136
+[IMU] Angular Velocity: -0.688615
+[IMU] Angular Velocity: -0.678965
+[IMU] Angular Velocity: -0.662638
+[IMU] Angular Velocity: -0.645153
+[IMU] Angular Velocity: -0.628467
+[IMU] Angular Velocity: -0.614311
+[IMU] Angular Velocity: -0.603274
+[IMU] Angular Velocity: -0.587766
+[Odom] Published Sensor Position - x: 0.00156128, y: -0.110664
+[Odom] Published Sensor Linear Vel: 0.132531, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.42508
+[IMU] Angular Velocity: -0.287368
+[IMU] Angular Velocity: -0.163208
+[IMU] Angular Velocity: -0.0461471
+[IMU] Angular Velocity: 0.0603518
+[IMU] Angular Velocity: 0.147366
+[IMU] Angular Velocity: 0.236595
+[IMU] Angular Velocity: 0.320747
+[IMU] Angular Velocity: 0.386569
+[IMU] Angular Velocity: 0.444804
+[Odom] Published Sensor Position - x: 0.0325247, y: -0.0552322
+[Odom] Published Sensor Linear Vel: 0.215091, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.302044
+[IMU] Angular Velocity: 0.281576
+[IMU] Angular Velocity: 0.255202
+[IMU] Angular Velocity: 0.241723
+[IMU] Angular Velocity: 0.238492
+[IMU] Angular Velocity: 0.230107
+[IMU] Angular Velocity: 0.217669
+[IMU] Angular Velocity: 0.214531
+[IMU] Angular Velocity: 0.216984
+[IMU] Angular Velocity: 0.209458
+[Odom] Published Sensor Position - x: 0.0504955, y: -0.0869087
+[Odom] Published Sensor Linear Vel: 0.206409, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.279654
+[IMU] Angular Velocity: 0.322357
+[IMU] Angular Velocity: 0.349038
+[IMU] Angular Velocity: 0.376582
+[IMU] Angular Velocity: 0.411577
+[IMU] Angular Velocity: 0.442071
+[IMU] Angular Velocity: 0.466483
+[IMU] Angular Velocity: 0.491369
+[IMU] Angular Velocity: 0.499396
+[IMU] Angular Velocity: 0.517948
+[Odom] Published Sensor Position - x: 0.0731275, y: -0.128891
+[Odom] Published Sensor Linear Vel: 0.235809, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.567038
+[IMU] Angular Velocity: 0.606405
+[IMU] Angular Velocity: 0.640612
+[IMU] Angular Velocity: 0.668473
+[IMU] Angular Velocity: 0.703279
+[IMU] Angular Velocity: 0.724908
+[IMU] Angular Velocity: 0.742315
+[IMU] Angular Velocity: 0.758909
+[IMU] Angular Velocity: 0.779828
+[IMU] Angular Velocity: 0.809006
+[Odom] Published Sensor Position - x: 0.0762342, y: -0.127186
+[Odom] Published Sensor Linear Vel: 0.264347, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.641427
+[IMU] Angular Velocity: 0.642527
+[IMU] Angular Velocity: 0.640717
+[IMU] Angular Velocity: 0.628695
+[IMU] Angular Velocity: 0.616139
+[IMU] Angular Velocity: 0.61607
+[IMU] Angular Velocity: 0.620986
+[IMU] Angular Velocity: 0.625752
+[IMU] Angular Velocity: 0.6127
+[IMU] Angular Velocity: 0.613333
+[Odom] Published Sensor Position - x: 0.101597, y: -0.114797
+[Odom] Published Sensor Linear Vel: 0.260425, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.455252
+[IMU] Angular Velocity: 0.37172
+[IMU] Angular Velocity: 0.288286
+[IMU] Angular Velocity: 0.216067
+[IMU] Angular Velocity: 0.162122
+[IMU] Angular Velocity: 0.111544
+[IMU] Angular Velocity: 0.0607672
+[IMU] Angular Velocity: 0.0320033
+[IMU] Angular Velocity: 4.70941e-05
+[IMU] Angular Velocity: -0.0195495
+[Odom] Published Sensor Position - x: 0.142803, y: -0.132233
+[Odom] Published Sensor Linear Vel: 0.224486, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0674998
+[IMU] Angular Velocity: -0.0847619
+[IMU] Angular Velocity: -0.117523
+[IMU] Angular Velocity: -0.136297
+[IMU] Angular Velocity: -0.161324
+[IMU] Angular Velocity: -0.173467
+[IMU] Angular Velocity: -0.174253
+[IMU] Angular Velocity: -0.190041
+[IMU] Angular Velocity: -0.189761
+[IMU] Angular Velocity: -0.196869
+[Odom] Published Sensor Position - x: 0.208632, y: -0.17307
+[Odom] Published Sensor Linear Vel: 0.219369, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0710971
+[IMU] Angular Velocity: -0.015154
+[IMU] Angular Velocity: 0.0381316
+[IMU] Angular Velocity: 0.0981377
+[IMU] Angular Velocity: 0.135187
+[IMU] Angular Velocity: 0.175786
+[IMU] Angular Velocity: 0.200669
+[IMU] Angular Velocity: 0.236313
+[IMU] Angular Velocity: 0.26407
+[IMU] Angular Velocity: 0.281438
+[Odom] Published Sensor Position - x: 0.158264, y: -0.136524
+[Odom] Published Sensor Linear Vel: 0.25937, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.144208
+[IMU] Angular Velocity: 0.104598
+[IMU] Angular Velocity: 0.0692202
+[IMU] Angular Velocity: 0.0340292
+[IMU] Angular Velocity: 0.0214042
+[IMU] Angular Velocity: -0.00596266
+[IMU] Angular Velocity: -0.0255691
+[IMU] Angular Velocity: -0.0417585
+[IMU] Angular Velocity: -0.0527884
+[IMU] Angular Velocity: -0.0581304
+[Odom] Published Sensor Position - x: 0.205518, y: -0.195848
+[Odom] Published Sensor Linear Vel: 0.249143, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0517107
+[IMU] Angular Velocity: 0.153128
+[IMU] Angular Velocity: 0.230515
+[IMU] Angular Velocity: 0.309639
+[IMU] Angular Velocity: 0.367766
+[IMU] Angular Velocity: 0.425714
+[IMU] Angular Velocity: 0.468449
+[IMU] Angular Velocity: 0.5189
+[IMU] Angular Velocity: 0.555625
+[IMU] Angular Velocity: 0.589208
+[Odom] Published Sensor Position - x: 0.302841, y: -0.124508
+[Odom] Published Sensor Linear Vel: 0.299875, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.4354
+[IMU] Angular Velocity: 0.298677
+[IMU] Angular Velocity: 0.161687
+[IMU] Angular Velocity: 0.0398366
+[IMU] Angular Velocity: -0.0644591
+[IMU] Angular Velocity: -0.167183
+[IMU] Angular Velocity: -0.243958
+[IMU] Angular Velocity: -0.324141
+[IMU] Angular Velocity: -0.390961
+[IMU] Angular Velocity: -0.44575
+[Odom] Published Sensor Position - x: 0.267834, y: -0.184037
+[Odom] Published Sensor Linear Vel: 0.234209, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.300053
+[IMU] Angular Velocity: -0.257366
+[IMU] Angular Velocity: -0.218614
+[IMU] Angular Velocity: -0.178916
+[IMU] Angular Velocity: -0.154593
+[IMU] Angular Velocity: -0.117844
+[IMU] Angular Velocity: -0.102801
+[IMU] Angular Velocity: -0.0722413
+[IMU] Angular Velocity: -0.0574408
+[IMU] Angular Velocity: -0.0465087
+[Odom] Published Sensor Position - x: 0.30721, y: -0.217362
+[Odom] Published Sensor Linear Vel: 0.27283, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0574201
+[IMU] Angular Velocity: 0.142326
+[IMU] Angular Velocity: 0.226354
+[IMU] Angular Velocity: 0.299252
+[IMU] Angular Velocity: 0.36606
+[IMU] Angular Velocity: 0.411271
+[IMU] Angular Velocity: 0.451425
+[IMU] Angular Velocity: 0.495824
+[IMU] Angular Velocity: 0.531735
+[IMU] Angular Velocity: 0.562073
+[Odom] Published Sensor Position - x: 0.324175, y: -0.198795
+[Odom] Published Sensor Linear Vel: 0.322361, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.395214
+[IMU] Angular Velocity: 0.352768
+[IMU] Angular Velocity: 0.326308
+[IMU] Angular Velocity: 0.285834
+[IMU] Angular Velocity: 0.266974
+[IMU] Angular Velocity: 0.252153
+[IMU] Angular Velocity: 0.220084
+[IMU] Angular Velocity: 0.209197
+[IMU] Angular Velocity: 0.1913
+[IMU] Angular Velocity: 0.183134
+[Odom] Published Sensor Position - x: 0.39728, y: -0.22272
+[Odom] Published Sensor Linear Vel: 0.304885, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.17133
+[IMU] Angular Velocity: 0.160954
+[IMU] Angular Velocity: 0.156323
+[IMU] Angular Velocity: 0.157483
+[IMU] Angular Velocity: 0.151646
+[IMU] Angular Velocity: 0.143616
+[IMU] Angular Velocity: 0.146868
+[IMU] Angular Velocity: 0.148707
+[IMU] Angular Velocity: 0.149157
+[IMU] Angular Velocity: 0.135901
+[Odom] Published Sensor Position - x: 0.43989, y: -0.244027
+[Odom] Published Sensor Linear Vel: 0.30718, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.227754
+[IMU] Angular Velocity: 0.238128
+[IMU] Angular Velocity: 0.255875
+[IMU] Angular Velocity: 0.263875
+[IMU] Angular Velocity: 0.267174
+[IMU] Angular Velocity: 0.287917
+[IMU] Angular Velocity: 0.304577
+[IMU] Angular Velocity: 0.318726
+[IMU] Angular Velocity: 0.325531
+[IMU] Angular Velocity: 0.320502
+[Odom] Published Sensor Position - x: 0.466245, y: -0.250867
+[Odom] Published Sensor Linear Vel: 0.328257, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.294172
+[IMU] Angular Velocity: 0.277853
+[IMU] Angular Velocity: 0.275676
+[IMU] Angular Velocity: 0.276986
+[IMU] Angular Velocity: 0.26435
+[IMU] Angular Velocity: 0.250642
+[IMU] Angular Velocity: 0.237786
+[IMU] Angular Velocity: 0.241729
+[IMU] Angular Velocity: 0.237318
+[IMU] Angular Velocity: 0.236094
+[Odom] Published Sensor Position - x: 0.467238, y: -0.262139
+[Odom] Published Sensor Linear Vel: 0.331022, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.258743
+[IMU] Angular Velocity: 0.254585
+[IMU] Angular Velocity: 0.253269
+[IMU] Angular Velocity: 0.250523
+[IMU] Angular Velocity: 0.246057
+[IMU] Angular Velocity: 0.245946
+[IMU] Angular Velocity: 0.25398
+[IMU] Angular Velocity: 0.251513
+[IMU] Angular Velocity: 0.251304
+[IMU] Angular Velocity: 0.24854
+[Odom] Published Sensor Position - x: 0.517601, y: -0.240592
+[Odom] Published Sensor Linear Vel: 0.341048, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.120234
+[IMU] Angular Velocity: 0.0408503
+[IMU] Angular Velocity: -0.0333486
+[IMU] Angular Velocity: -0.104478
+[IMU] Angular Velocity: -0.162073
+[IMU] Angular Velocity: -0.202082
+[IMU] Angular Velocity: -0.24162
+[IMU] Angular Velocity: -0.272956
+[IMU] Angular Velocity: -0.307637
+[IMU] Angular Velocity: -0.328767
+[Odom] Published Sensor Position - x: 0.547369, y: -0.235136
+[Odom] Published Sensor Linear Vel: 0.306931, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.40053
+[IMU] Angular Velocity: -0.427127
+[IMU] Angular Velocity: -0.45205
+[IMU] Angular Velocity: -0.476046
+[IMU] Angular Velocity: -0.494462
+[IMU] Angular Velocity: -0.517059
+[IMU] Angular Velocity: -0.533548
+[IMU] Angular Velocity: -0.536138
+[IMU] Angular Velocity: -0.549092
+[IMU] Angular Velocity: -0.557916
+[Odom] Published Sensor Position - x: 0.520055, y: -0.203908
+[Odom] Published Sensor Linear Vel: 0.298512, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.595393
+[IMU] Angular Velocity: -0.600808
+[IMU] Angular Velocity: -0.606908
+[IMU] Angular Velocity: -0.604236
+[IMU] Angular Velocity: -0.607951
+[IMU] Angular Velocity: -0.613625
+[IMU] Angular Velocity: -0.610059
+[IMU] Angular Velocity: -0.615448
+[IMU] Angular Velocity: -0.604212
+[IMU] Angular Velocity: -0.591789
+[Odom] Published Sensor Position - x: 0.547805, y: -0.278858
+[Odom] Published Sensor Linear Vel: 0.306231, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.425065
+[IMU] Angular Velocity: -0.2913
+[IMU] Angular Velocity: -0.167428
+[IMU] Angular Velocity: -0.0511356
+[IMU] Angular Velocity: 0.054993
+[IMU] Angular Velocity: 0.142651
+[IMU] Angular Velocity: 0.235051
+[IMU] Angular Velocity: 0.308882
+[IMU] Angular Velocity: 0.384195
+[IMU] Angular Velocity: 0.444851
+[Odom] Published Sensor Position - x: 0.622477, y: -0.25421
+[Odom] Published Sensor Linear Vel: 0.384044, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.29824
+[IMU] Angular Velocity: 0.304278
+[IMU] Angular Velocity: 0.303838
+[IMU] Angular Velocity: 0.309702
+[IMU] Angular Velocity: 0.30546
+[IMU] Angular Velocity: 0.309391
+[IMU] Angular Velocity: 0.318811
+[IMU] Angular Velocity: 0.329811
+[IMU] Angular Velocity: 0.328547
+[IMU] Angular Velocity: 0.329098
+[Odom] Published Sensor Position - x: 0.682168, y: -0.302176
+[Odom] Published Sensor Linear Vel: 0.380996, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.394844
+[IMU] Angular Velocity: 0.449779
+[IMU] Angular Velocity: 0.505009
+[IMU] Angular Velocity: 0.549797
+[IMU] Angular Velocity: 0.586923
+[IMU] Angular Velocity: 0.618847
+[IMU] Angular Velocity: 0.657862
+[IMU] Angular Velocity: 0.69337
+[IMU] Angular Velocity: 0.720395
+[IMU] Angular Velocity: 0.751954
+[Odom] Published Sensor Position - x: 0.659944, y: -0.253024
+[Odom] Published Sensor Linear Vel: 0.417097, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.569986
+[IMU] Angular Velocity: 0.473122
+[IMU] Angular Velocity: 0.39199
+[IMU] Angular Velocity: 0.316379
+[IMU] Angular Velocity: 0.247193
+[IMU] Angular Velocity: 0.19558
+[IMU] Angular Velocity: 0.144191
+[IMU] Angular Velocity: 0.0925529
+[IMU] Angular Velocity: 0.0509834
+[IMU] Angular Velocity: 0.025013
+[Odom] Published Sensor Position - x: 0.745043, y: -0.278092
+[Odom] Published Sensor Linear Vel: 0.376838, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00396383
+[IMU] Angular Velocity: -0.025212
+[IMU] Angular Velocity: -0.03623
+[IMU] Angular Velocity: -0.04988
+[IMU] Angular Velocity: -0.0630543
+[IMU] Angular Velocity: -0.0665521
+[IMU] Angular Velocity: -0.0699446
+[IMU] Angular Velocity: -0.0859338
+[IMU] Angular Velocity: -0.0959042
+[IMU] Angular Velocity: -0.0950874
+[Odom] Published Sensor Position - x: 0.782833, y: -0.286391
+[Odom] Published Sensor Linear Vel: 0.371585, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0733991
+[IMU] Angular Velocity: -0.0680886
+[IMU] Angular Velocity: -0.0688903
+[IMU] Angular Velocity: -0.0638091
+[IMU] Angular Velocity: -0.0606089
+[IMU] Angular Velocity: -0.0638845
+[IMU] Angular Velocity: -0.0670964
+[IMU] Angular Velocity: -0.0720604
+[IMU] Angular Velocity: -0.0750299
+[IMU] Angular Velocity: -0.0670118
+[Odom] Published Sensor Position - x: 0.752613, y: -0.311468
+[Odom] Published Sensor Linear Vel: 0.380665, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0459409
+[IMU] Angular Velocity: 0.088872
+[IMU] Angular Velocity: 0.133597
+[IMU] Angular Velocity: 0.165734
+[IMU] Angular Velocity: 0.205829
+[IMU] Angular Velocity: 0.228282
+[IMU] Angular Velocity: 0.25294
+[IMU] Angular Velocity: 0.281809
+[IMU] Angular Velocity: 0.299635
+[IMU] Angular Velocity: 0.310214
+[Odom] Published Sensor Position - x: 0.876318, y: -0.249743
+[Odom] Published Sensor Linear Vel: 0.41666, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.180112
+[IMU] Angular Velocity: 0.060901
+[IMU] Angular Velocity: -0.0365137
+[IMU] Angular Velocity: -0.1376
+[IMU] Angular Velocity: -0.231683
+[IMU] Angular Velocity: -0.29946
+[IMU] Angular Velocity: -0.359665
+[IMU] Angular Velocity: -0.413608
+[IMU] Angular Velocity: -0.473027
+[IMU] Angular Velocity: -0.507325
+[Odom] Published Sensor Position - x: 0.837809, y: -0.288714
+[Odom] Published Sensor Linear Vel: 0.36087, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.35535
+[IMU] Angular Velocity: -0.302325
+[IMU] Angular Velocity: -0.256965
+[IMU] Angular Velocity: -0.211559
+[IMU] Angular Velocity: -0.173349
+[IMU] Angular Velocity: -0.137236
+[IMU] Angular Velocity: -0.122093
+[IMU] Angular Velocity: -0.108669
+[IMU] Angular Velocity: -0.0976156
+[IMU] Angular Velocity: -0.07488
+[Odom] Published Sensor Position - x: 0.869367, y: -0.294235
+[Odom] Published Sensor Linear Vel: 0.401361, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00730706
+[IMU] Angular Velocity: 0.0224012
+[IMU] Angular Velocity: 0.039757
+[IMU] Angular Velocity: 0.0634791
+[IMU] Angular Velocity: 0.0869437
+[IMU] Angular Velocity: 0.100834
+[IMU] Angular Velocity: 0.107462
+[IMU] Angular Velocity: 0.123036
+[IMU] Angular Velocity: 0.146995
+[IMU] Angular Velocity: 0.154105
+[Odom] Published Sensor Position - x: 0.965809, y: -0.343255
+[Odom] Published Sensor Linear Vel: 0.422422, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.232137
+[IMU] Angular Velocity: 0.302587
+[IMU] Angular Velocity: 0.380052
+[IMU] Angular Velocity: 0.43944
+[IMU] Angular Velocity: 0.487448
+[IMU] Angular Velocity: 0.541508
+[IMU] Angular Velocity: 0.577778
+[IMU] Angular Velocity: 0.610047
+[IMU] Angular Velocity: 0.638717
+[IMU] Angular Velocity: 0.666844
+[Odom] Published Sensor Position - x: 1.04996, y: -0.275263
+[Odom] Published Sensor Linear Vel: 0.460898, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.504354
+[IMU] Angular Velocity: 0.367095
+[IMU] Angular Velocity: 0.235969
+[IMU] Angular Velocity: 0.112857
+[IMU] Angular Velocity: 0.0202072
+[IMU] Angular Velocity: -0.0631357
+[IMU] Angular Velocity: -0.142117
+[IMU] Angular Velocity: -0.203325
+[IMU] Angular Velocity: -0.251221
+[IMU] Angular Velocity: -0.292151
+[Odom] Published Sensor Position - x: 1.06783, y: -0.309855
+[Odom] Published Sensor Linear Vel: 0.398862, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.167232
+[IMU] Angular Velocity: -0.168704
+[IMU] Angular Velocity: -0.169696
+[IMU] Angular Velocity: -0.168971
+[IMU] Angular Velocity: -0.163297
+[IMU] Angular Velocity: -0.153713
+[IMU] Angular Velocity: -0.139653
+[IMU] Angular Velocity: -0.130794
+[IMU] Angular Velocity: -0.133007
+[IMU] Angular Velocity: -0.127094
+[Odom] Published Sensor Position - x: 1.05007, y: -0.356107
+[Odom] Published Sensor Linear Vel: 0.417725, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0162945
+[IMU] Angular Velocity: 0.0718091
+[IMU] Angular Velocity: 0.13745
+[IMU] Angular Velocity: 0.197932
+[IMU] Angular Velocity: 0.258722
+[IMU] Angular Velocity: 0.313118
+[IMU] Angular Velocity: 0.362309
+[IMU] Angular Velocity: 0.395024
+[IMU] Angular Velocity: 0.419848
+[IMU] Angular Velocity: 0.460795
+[Odom] Published Sensor Position - x: 1.07902, y: -0.28572
+[Odom] Published Sensor Linear Vel: 0.466663, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.322275
+[IMU] Angular Velocity: 0.236714
+[IMU] Angular Velocity: 0.161554
+[IMU] Angular Velocity: 0.0911064
+[IMU] Angular Velocity: 0.0256535
+[IMU] Angular Velocity: -0.0132105
+[IMU] Angular Velocity: -0.0542896
+[IMU] Angular Velocity: -0.0906022
+[IMU] Angular Velocity: -0.130978
+[IMU] Angular Velocity: -0.158255
+[Odom] Published Sensor Position - x: 1.18908, y: -0.29761
+[Odom] Published Sensor Linear Vel: 0.427845, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.2264
+[IMU] Angular Velocity: -0.246586
+[IMU] Angular Velocity: -0.27582
+[IMU] Angular Velocity: -0.302631
+[IMU] Angular Velocity: -0.326293
+[IMU] Angular Velocity: -0.340751
+[IMU] Angular Velocity: -0.357532
+[IMU] Angular Velocity: -0.36509
+[IMU] Angular Velocity: -0.364678
+[IMU] Angular Velocity: -0.361811
+[Odom] Published Sensor Position - x: 1.19168, y: -0.298341
+[Odom] Published Sensor Linear Vel: 0.414428, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.302257
+[IMU] Angular Velocity: -0.287909
+[IMU] Angular Velocity: -0.281476
+[IMU] Angular Velocity: -0.262882
+[IMU] Angular Velocity: -0.242502
+[IMU] Angular Velocity: -0.224951
+[IMU] Angular Velocity: -0.212899
+[IMU] Angular Velocity: -0.203742
+[IMU] Angular Velocity: -0.203969
+[IMU] Angular Velocity: -0.194534
+[Odom] Published Sensor Position - x: 1.20581, y: -0.37094
+[Odom] Published Sensor Linear Vel: 0.433708, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0759762
+[IMU] Angular Velocity: 0.0360276
+[IMU] Angular Velocity: 0.133409
+[IMU] Angular Velocity: 0.219775
+[IMU] Angular Velocity: 0.293125
+[IMU] Angular Velocity: 0.362374
+[IMU] Angular Velocity: 0.427378
+[IMU] Angular Velocity: 0.492645
+[IMU] Angular Velocity: 0.551293
+[IMU] Angular Velocity: 0.595085
+[Odom] Published Sensor Position - x: 1.28563, y: -0.356709
+[Odom] Published Sensor Linear Vel: 0.49417, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.531799
+[IMU] Angular Velocity: 0.534531
+[IMU] Angular Velocity: 0.546285
+[IMU] Angular Velocity: 0.548221
+[IMU] Angular Velocity: 0.563067
+[IMU] Angular Velocity: 0.567466
+[IMU] Angular Velocity: 0.569358
+[IMU] Angular Velocity: 0.576703
+[IMU] Angular Velocity: 0.577331
+[IMU] Angular Velocity: 0.575393
+[Odom] Published Sensor Position - x: 1.36517, y: -0.361253
+[Odom] Published Sensor Linear Vel: 0.494675, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.481829
+[IMU] Angular Velocity: 0.464829
+[IMU] Angular Velocity: 0.451152
+[IMU] Angular Velocity: 0.425673
+[IMU] Angular Velocity: 0.410575
+[IMU] Angular Velocity: 0.393503
+[IMU] Angular Velocity: 0.388586
+[IMU] Angular Velocity: 0.382378
+[IMU] Angular Velocity: 0.364629
+[IMU] Angular Velocity: 0.350204
+[Odom] Published Sensor Position - x: 1.37104, y: -0.37949
+[Odom] Published Sensor Linear Vel: 0.482062, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.352296
+[IMU] Angular Velocity: 0.339438
+[IMU] Angular Velocity: 0.337391
+[IMU] Angular Velocity: 0.337526
+[IMU] Angular Velocity: 0.330816
+[IMU] Angular Velocity: 0.318084
+[IMU] Angular Velocity: 0.307482
+[IMU] Angular Velocity: 0.29059
+[IMU] Angular Velocity: 0.282052
+[IMU] Angular Velocity: 0.277555
+[Odom] Published Sensor Position - x: 1.42471, y: -0.403077
+[Odom] Published Sensor Linear Vel: 0.483645, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.337726
+[IMU] Angular Velocity: 0.347655
+[IMU] Angular Velocity: 0.350351
+[IMU] Angular Velocity: 0.362717
+[IMU] Angular Velocity: 0.362296
+[IMU] Angular Velocity: 0.35821
+[IMU] Angular Velocity: 0.360518
+[IMU] Angular Velocity: 0.36256
+[IMU] Angular Velocity: 0.361488
+[IMU] Angular Velocity: 0.351402
+[Odom] Published Sensor Position - x: 1.44893, y: -0.381348
+[Odom] Published Sensor Linear Vel: 0.491588, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.220483
+[IMU] Angular Velocity: 0.169333
+[IMU] Angular Velocity: 0.130701
+[IMU] Angular Velocity: 0.0919943
+[IMU] Angular Velocity: 0.0711337
+[IMU] Angular Velocity: 0.0502614
+[IMU] Angular Velocity: 0.0253003
+[IMU] Angular Velocity: -0.00223112
+[IMU] Angular Velocity: -0.0202128
+[IMU] Angular Velocity: -0.038933
+[Odom] Published Sensor Position - x: 1.58189, y: -0.343444
+[Odom] Published Sensor Linear Vel: 0.468609, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.134668
+[IMU] Angular Velocity: -0.212217
+[IMU] Angular Velocity: -0.278107
+[IMU] Angular Velocity: -0.340973
+[IMU] Angular Velocity: -0.394825
+[IMU] Angular Velocity: -0.447526
+[IMU] Angular Velocity: -0.502581
+[IMU] Angular Velocity: -0.539898
+[IMU] Angular Velocity: -0.567186
+[IMU] Angular Velocity: -0.597883
+[Odom] Published Sensor Position - x: 1.55835, y: -0.369663
+[Odom] Published Sensor Linear Vel: 0.428358, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.433606
+[IMU] Angular Velocity: -0.402695
+[IMU] Angular Velocity: -0.369741
+[IMU] Angular Velocity: -0.356227
+[IMU] Angular Velocity: -0.346077
+[IMU] Angular Velocity: -0.331806
+[IMU] Angular Velocity: -0.32631
+[IMU] Angular Velocity: -0.303507
+[IMU] Angular Velocity: -0.283461
+[IMU] Angular Velocity: -0.285447
+[Odom] Published Sensor Position - x: 1.59988, y: -0.380658
+[Odom] Published Sensor Linear Vel: 0.457961, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.154938
+[IMU] Angular Velocity: -0.12683
+[IMU] Angular Velocity: -0.104006
+[IMU] Angular Velocity: -0.086866
+[IMU] Angular Velocity: -0.0719079
+[IMU] Angular Velocity: -0.0528984
+[IMU] Angular Velocity: -0.0415967
+[IMU] Angular Velocity: -0.0260719
+[IMU] Angular Velocity: -0.00362064
+[IMU] Angular Velocity: 0.00876364
+[Odom] Published Sensor Position - x: 1.69987, y: -0.386761
+[Odom] Published Sensor Linear Vel: 0.480648, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0780549
+[IMU] Angular Velocity: 0.0968381
+[IMU] Angular Velocity: 0.107278
+[IMU] Angular Velocity: 0.12211
+[IMU] Angular Velocity: 0.141053
+[IMU] Angular Velocity: 0.141152
+[IMU] Angular Velocity: 0.145742
+[IMU] Angular Velocity: 0.155329
+[IMU] Angular Velocity: 0.16249
+[IMU] Angular Velocity: 0.16431
+[Odom] Published Sensor Position - x: 1.76282, y: -0.363473
+[Odom] Published Sensor Linear Vel: 0.491413, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0529088
+[IMU] Angular Velocity: 0.0137905
+[IMU] Angular Velocity: -0.0125049
+[IMU] Angular Velocity: -0.0375709
+[IMU] Angular Velocity: -0.0677683
+[IMU] Angular Velocity: -0.103738
+[IMU] Angular Velocity: -0.130413
+[IMU] Angular Velocity: -0.157246
+[IMU] Angular Velocity: -0.181466
+[IMU] Angular Velocity: -0.203162
+[Odom] Published Sensor Position - x: 1.75061, y: -0.40035
+[Odom] Published Sensor Linear Vel: 0.468634, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0750032
+[IMU] Angular Velocity: -0.0445484
+[IMU] Angular Velocity: -0.00939514
+[IMU] Angular Velocity: 0.0254927
+[IMU] Angular Velocity: 0.0582998
+[IMU] Angular Velocity: 0.0734185
+[IMU] Angular Velocity: 0.090724
+[IMU] Angular Velocity: 0.101916
+[IMU] Angular Velocity: 0.122238
+[IMU] Angular Velocity: 0.128889
+[Odom] Published Sensor Position - x: 1.82154, y: -0.320147
+[Odom] Published Sensor Linear Vel: 0.497559, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0247543
+[IMU] Angular Velocity: -0.0761497
+[IMU] Angular Velocity: -0.167718
+[IMU] Angular Velocity: -0.246216
+[IMU] Angular Velocity: -0.322165
+[IMU] Angular Velocity: -0.384411
+[IMU] Angular Velocity: -0.454988
+[IMU] Angular Velocity: -0.508044
+[IMU] Angular Velocity: -0.554826
+[IMU] Angular Velocity: -0.602697
+[Odom] Published Sensor Position - x: 1.89364, y: -0.393982
+[Odom] Published Sensor Linear Vel: 0.446716, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.450376
+[IMU] Angular Velocity: -0.372515
+[IMU] Angular Velocity: -0.306079
+[IMU] Angular Velocity: -0.252961
+[IMU] Angular Velocity: -0.206858
+[IMU] Angular Velocity: -0.162031
+[IMU] Angular Velocity: -0.116349
+[IMU] Angular Velocity: -0.0920153
+[IMU] Angular Velocity: -0.0578652
+[IMU] Angular Velocity: -0.0460508
+[Odom] Published Sensor Position - x: 1.95755, y: -0.39317
+[Odom] Published Sensor Linear Vel: 0.486108, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0235436
+[IMU] Angular Velocity: 0.0513897
+[IMU] Angular Velocity: 0.0767028
+[IMU] Angular Velocity: 0.093105
+[IMU] Angular Velocity: 0.0952121
+[IMU] Angular Velocity: 0.113557
+[IMU] Angular Velocity: 0.124306
+[IMU] Angular Velocity: 0.124753
+[IMU] Angular Velocity: 0.129232
+[IMU] Angular Velocity: 0.133374
+[Odom] Published Sensor Position - x: 1.99774, y: -0.306521
+[Odom] Published Sensor Linear Vel: 0.500546, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0194115
+[IMU] Angular Velocity: -0.0887899
+[IMU] Angular Velocity: -0.187544
+[IMU] Angular Velocity: -0.268326
+[IMU] Angular Velocity: -0.331591
+[IMU] Angular Velocity: -0.397578
+[IMU] Angular Velocity: -0.466389
+[IMU] Angular Velocity: -0.517268
+[IMU] Angular Velocity: -0.554997
+[IMU] Angular Velocity: -0.597898
+[Odom] Published Sensor Position - x: 2.02051, y: -0.367875
+[Odom] Published Sensor Linear Vel: 0.452906, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.433601
+[IMU] Angular Velocity: -0.410866
+[IMU] Angular Velocity: -0.400466
+[IMU] Angular Velocity: -0.390663
+[IMU] Angular Velocity: -0.379725
+[IMU] Angular Velocity: -0.365418
+[IMU] Angular Velocity: -0.353326
+[IMU] Angular Velocity: -0.332839
+[IMU] Angular Velocity: -0.313758
+[IMU] Angular Velocity: -0.299476
+[Odom] Published Sensor Position - x: 2.09162, y: -0.385719
+[Odom] Published Sensor Linear Vel: 0.475554, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.16877
+[IMU] Angular Velocity: -0.142791
+[IMU] Angular Velocity: -0.118584
+[IMU] Angular Velocity: -0.0887806
+[IMU] Angular Velocity: -0.0615852
+[IMU] Angular Velocity: -0.0523812
+[IMU] Angular Velocity: -0.0371896
+[IMU] Angular Velocity: -0.0261613
+[IMU] Angular Velocity: -0.0115298
+[IMU] Angular Velocity: -0.00556043
+[Odom] Published Sensor Position - x: 2.07897, y: -0.338351
+[Odom] Published Sensor Linear Vel: 0.496184, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.104545
+[IMU] Angular Velocity: -0.156089
+[IMU] Angular Velocity: -0.193123
+[IMU] Angular Velocity: -0.225383
+[IMU] Angular Velocity: -0.260801
+[IMU] Angular Velocity: -0.292739
+[IMU] Angular Velocity: -0.312063
+[IMU] Angular Velocity: -0.342179
+[IMU] Angular Velocity: -0.357216
+[IMU] Angular Velocity: -0.373334
+[Odom] Published Sensor Position - x: 2.1745, y: -0.405611
+[Odom] Published Sensor Linear Vel: 0.475616, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.242119
+[IMU] Angular Velocity: -0.17139
+[IMU] Angular Velocity: -0.121195
+[IMU] Angular Velocity: -0.0789017
+[IMU] Angular Velocity: -0.0435079
+[IMU] Angular Velocity: 0.00116103
+[IMU] Angular Velocity: 0.0299842
+[IMU] Angular Velocity: 0.0576667
+[IMU] Angular Velocity: 0.0839269
+[IMU] Angular Velocity: 0.0945737
+[Odom] Published Sensor Position - x: 2.24051, y: -0.414404
+[Odom] Published Sensor Linear Vel: 0.505852, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.14596
+[IMU] Angular Velocity: 0.15629
+[IMU] Angular Velocity: 0.176873
+[IMU] Angular Velocity: 0.19659
+[IMU] Angular Velocity: 0.209282
+[IMU] Angular Velocity: 0.22515
+[IMU] Angular Velocity: 0.22894
+[IMU] Angular Velocity: 0.225832
+[IMU] Angular Velocity: 0.218093
+[IMU] Angular Velocity: 0.216087
+[Odom] Published Sensor Position - x: 2.22136, y: -0.35598
+[Odom] Published Sensor Linear Vel: 0.515918, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0904749
+[IMU] Angular Velocity: 0.00365237
+[IMU] Angular Velocity: -0.0747132
+[IMU] Angular Velocity: -0.131966
+[IMU] Angular Velocity: -0.186176
+[IMU] Angular Velocity: -0.247684
+[IMU] Angular Velocity: -0.298472
+[IMU] Angular Velocity: -0.341841
+[IMU] Angular Velocity: -0.377876
+[IMU] Angular Velocity: -0.406083
+[Odom] Published Sensor Position - x: 2.29431, y: -0.401956
+[Odom] Published Sensor Linear Vel: 0.478317, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.276716
+[IMU] Angular Velocity: -0.265491
+[IMU] Angular Velocity: -0.256009
+[IMU] Angular Velocity: -0.249129
+[IMU] Angular Velocity: -0.2508
+[IMU] Angular Velocity: -0.248464
+[IMU] Angular Velocity: -0.243782
+[IMU] Angular Velocity: -0.243843
+[IMU] Angular Velocity: -0.238742
+[IMU] Angular Velocity: -0.247015
+[Odom] Published Sensor Position - x: 2.31647, y: -0.409103
+[Odom] Published Sensor Linear Vel: 0.487939, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.181673
+[IMU] Angular Velocity: -0.173053
+[IMU] Angular Velocity: -0.154242
+[IMU] Angular Velocity: -0.149621
+[IMU] Angular Velocity: -0.144438
+[IMU] Angular Velocity: -0.134791
+[IMU] Angular Velocity: -0.126892
+[IMU] Angular Velocity: -0.126784
+[IMU] Angular Velocity: -0.118989
+[IMU] Angular Velocity: -0.123233
+[Odom] Published Sensor Position - x: 2.40941, y: -0.429721
+[Odom] Published Sensor Linear Vel: 0.499638, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0849215
+[IMU] Angular Velocity: -0.0731942
+[IMU] Angular Velocity: -0.0580109
+[IMU] Angular Velocity: -0.0601689
+[IMU] Angular Velocity: -0.0654601
+[IMU] Angular Velocity: -0.056634
+[IMU] Angular Velocity: -0.0631859
+[IMU] Angular Velocity: -0.0614118
+[IMU] Angular Velocity: -0.0702449
+[IMU] Angular Velocity: -0.0722792
+[Odom] Published Sensor Position - x: 2.45884, y: -0.450377
+[Odom] Published Sensor Linear Vel: 0.502409, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00224308
+[IMU] Angular Velocity: 0.0104098
+[IMU] Angular Velocity: 0.0273835
+[IMU] Angular Velocity: 0.0319762
+[IMU] Angular Velocity: 0.0283458
+[IMU] Angular Velocity: 0.0392893
+[IMU] Angular Velocity: 0.0434382
+[IMU] Angular Velocity: 0.043563
+[IMU] Angular Velocity: 0.0368838
+[IMU] Angular Velocity: 0.0309114
+[Odom] Published Sensor Position - x: 2.5363, y: -0.391962
+[Odom] Published Sensor Linear Vel: 0.512244, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0778808
+[IMU] Angular Velocity: -0.16924
+[IMU] Angular Velocity: -0.246367
+[IMU] Angular Velocity: -0.318403
+[IMU] Angular Velocity: -0.380377
+[IMU] Angular Velocity: -0.440875
+[IMU] Angular Velocity: -0.503951
+[IMU] Angular Velocity: -0.550182
+[IMU] Angular Velocity: -0.589487
+[IMU] Angular Velocity: -0.62413
+[Odom] Published Sensor Position - x: 2.56222, y: -0.457379
+[Odom] Published Sensor Linear Vel: 0.468483, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.469899
+[IMU] Angular Velocity: -0.427432
+[IMU] Angular Velocity: -0.387032
+[IMU] Angular Velocity: -0.362719
+[IMU] Angular Velocity: -0.32993
+[IMU] Angular Velocity: -0.299608
+[IMU] Angular Velocity: -0.277894
+[IMU] Angular Velocity: -0.259213
+[IMU] Angular Velocity: -0.238364
+[IMU] Angular Velocity: -0.231184
+[Odom] Published Sensor Position - x: 2.57892, y: -0.458605
+[Odom] Published Sensor Linear Vel: 0.498205, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.167831
+[IMU] Angular Velocity: -0.157259
+[IMU] Angular Velocity: -0.144707
+[IMU] Angular Velocity: -0.125137
+[IMU] Angular Velocity: -0.121232
+[IMU] Angular Velocity: -0.111236
+[IMU] Angular Velocity: -0.112059
+[IMU] Angular Velocity: -0.112224
+[IMU] Angular Velocity: -0.103618
+[IMU] Angular Velocity: -0.10458
+[Odom] Published Sensor Position - x: 2.6631, y: -0.474812
+[Odom] Published Sensor Linear Vel: 0.51058, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.122865
+[IMU] Angular Velocity: -0.117658
+[IMU] Angular Velocity: -0.117294
+[IMU] Angular Velocity: -0.111967
+[IMU] Angular Velocity: -0.125992
+[IMU] Angular Velocity: -0.127112
+[IMU] Angular Velocity: -0.134072
+[IMU] Angular Velocity: -0.134202
+[IMU] Angular Velocity: -0.134677
+[IMU] Angular Velocity: -0.131689
+[Odom] Published Sensor Position - x: 2.69709, y: -0.401777
+[Odom] Published Sensor Linear Vel: 0.508402, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.213806
+[IMU] Angular Velocity: -0.285584
+[IMU] Angular Velocity: -0.362638
+[IMU] Angular Velocity: -0.421757
+[IMU] Angular Velocity: -0.473682
+[IMU] Angular Velocity: -0.52722
+[IMU] Angular Velocity: -0.570744
+[IMU] Angular Velocity: -0.614523
+[IMU] Angular Velocity: -0.655386
+[IMU] Angular Velocity: -0.683143
+[Odom] Published Sensor Position - x: 2.78101, y: -0.495915
+[Odom] Published Sensor Linear Vel: 0.474642, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.516573
+[IMU] Angular Velocity: -0.466752
+[IMU] Angular Velocity: -0.420325
+[IMU] Angular Velocity: -0.379397
+[IMU] Angular Velocity: -0.361703
+[IMU] Angular Velocity: -0.341735
+[IMU] Angular Velocity: -0.320876
+[IMU] Angular Velocity: -0.295263
+[IMU] Angular Velocity: -0.274647
+[IMU] Angular Velocity: -0.25329
+[Odom] Published Sensor Position - x: 2.80899, y: -0.513747
+[Odom] Published Sensor Linear Vel: 0.502656, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.130387
+[IMU] Angular Velocity: -0.105515
+[IMU] Angular Velocity: -0.0700547
+[IMU] Angular Velocity: -0.0507035
+[IMU] Angular Velocity: -0.0279189
+[IMU] Angular Velocity: -0.00346636
+[IMU] Angular Velocity: 0.0147695
+[IMU] Angular Velocity: 0.0376641
+[IMU] Angular Velocity: 0.0467478
+[IMU] Angular Velocity: 0.0520929
+[Odom] Published Sensor Position - x: 2.88342, y: -0.527715
+[Odom] Published Sensor Linear Vel: 0.527931, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00310575
+[IMU] Angular Velocity: -0.00982775
+[IMU] Angular Velocity: -0.0203819
+[IMU] Angular Velocity: -0.0236913
+[IMU] Angular Velocity: -0.0303074
+[IMU] Angular Velocity: -0.030908
+[IMU] Angular Velocity: -0.0355462
+[IMU] Angular Velocity: -0.0459762
+[IMU] Angular Velocity: -0.04597
+[IMU] Angular Velocity: -0.0563931
+[Odom] Published Sensor Position - x: 2.90591, y: -0.505439
+[Odom] Published Sensor Linear Vel: 0.520923, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.143476
+[IMU] Angular Velocity: -0.173768
+[IMU] Angular Velocity: -0.204414
+[IMU] Angular Velocity: -0.227477
+[IMU] Angular Velocity: -0.244149
+[IMU] Angular Velocity: -0.269465
+[IMU] Angular Velocity: -0.295816
+[IMU] Angular Velocity: -0.30326
+[IMU] Angular Velocity: -0.32445
+[IMU] Angular Velocity: -0.338259
+[Odom] Published Sensor Position - x: 2.95993, y: -0.541811
+[Odom] Published Sensor Linear Vel: 0.504725, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.24524
+[IMU] Angular Velocity: -0.225316
+[IMU] Angular Velocity: -0.221976
+[IMU] Angular Velocity: -0.210913
+[IMU] Angular Velocity: -0.204254
+[IMU] Angular Velocity: -0.191383
+[IMU] Angular Velocity: -0.172343
+[IMU] Angular Velocity: -0.155048
+[IMU] Angular Velocity: -0.153629
+[IMU] Angular Velocity: -0.155894
+[Odom] Published Sensor Position - x: 2.98106, y: -0.525574
+[Odom] Published Sensor Linear Vel: 0.516787, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.219866
+[IMU] Angular Velocity: -0.23131
+[IMU] Angular Velocity: -0.240157
+[IMU] Angular Velocity: -0.245947
+[IMU] Angular Velocity: -0.253079
+[IMU] Angular Velocity: -0.244459
+[IMU] Angular Velocity: -0.241969
+[IMU] Angular Velocity: -0.238587
+[IMU] Angular Velocity: -0.245081
+[IMU] Angular Velocity: -0.246233
+[Odom] Published Sensor Position - x: 3.00631, y: -0.601571
+[Odom] Published Sensor Linear Vel: 0.512485, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.118057
+[IMU] Angular Velocity: -0.0188023
+[IMU] Angular Velocity: 0.0557266
+[IMU] Angular Velocity: 0.122326
+[IMU] Angular Velocity: 0.180814
+[IMU] Angular Velocity: 0.237226
+[IMU] Angular Velocity: 0.295135
+[IMU] Angular Velocity: 0.328141
+[IMU] Angular Velocity: 0.366977
+[IMU] Angular Velocity: 0.399325
+[Odom] Published Sensor Position - x: 3.07708, y: -0.632702
+[Odom] Published Sensor Linear Vel: 0.556425, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.444647
+[IMU] Angular Velocity: 0.464817
+[IMU] Angular Velocity: 0.482335
+[IMU] Angular Velocity: 0.50536
+[IMU] Angular Velocity: 0.527955
+[IMU] Angular Velocity: 0.533978
+[IMU] Angular Velocity: 0.552217
+[IMU] Angular Velocity: 0.556494
+[IMU] Angular Velocity: 0.562917
+[IMU] Angular Velocity: 0.579678
+[Odom] Published Sensor Position - x: 3.13735, y: -0.667487
+[Odom] Published Sensor Linear Vel: 0.566869, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.561843
+[IMU] Angular Velocity: 0.56432
+[IMU] Angular Velocity: 0.568439
+[IMU] Angular Velocity: 0.567841
+[IMU] Angular Velocity: 0.557698
+[IMU] Angular Velocity: 0.55375
+[IMU] Angular Velocity: 0.549949
+[IMU] Angular Velocity: 0.541143
+[IMU] Angular Velocity: 0.534472
+[IMU] Angular Velocity: 0.524056
+[Odom] Published Sensor Position - x: 3.16533, y: -0.631419
+[Odom] Published Sensor Linear Vel: 0.561462, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.376493
+[IMU] Angular Velocity: 0.292683
+[IMU] Angular Velocity: 0.211197
+[IMU] Angular Velocity: 0.150484
+[IMU] Angular Velocity: 0.0979433
+[IMU] Angular Velocity: 0.049692
+[IMU] Angular Velocity: 0.0107117
+[IMU] Angular Velocity: -0.0301945
+[IMU] Angular Velocity: -0.070483
+[IMU] Angular Velocity: -0.0928907
+[Odom] Published Sensor Position - x: 3.25299, y: -0.633555
+[Odom] Published Sensor Linear Vel: 0.518595, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.174065
+[IMU] Angular Velocity: -0.25136
+[IMU] Angular Velocity: -0.316821
+[IMU] Angular Velocity: -0.372435
+[IMU] Angular Velocity: -0.424464
+[IMU] Angular Velocity: -0.470579
+[IMU] Angular Velocity: -0.504808
+[IMU] Angular Velocity: -0.526559
+[IMU] Angular Velocity: -0.544626
+[IMU] Angular Velocity: -0.5617
+[Odom] Published Sensor Position - x: 3.2407, y: -0.686839
+[Odom] Published Sensor Linear Vel: 0.481117, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.409597
+[IMU] Angular Velocity: -0.333569
+[IMU] Angular Velocity: -0.266737
+[IMU] Angular Velocity: -0.211286
+[IMU] Angular Velocity: -0.167086
+[IMU] Angular Velocity: -0.113967
+[IMU] Angular Velocity: -0.0786152
+[IMU] Angular Velocity: -0.037977
+[IMU] Angular Velocity: -0.00094185
+[IMU] Angular Velocity: 0.0204101
+[Odom] Published Sensor Position - x: 3.29273, y: -0.73376
+[Odom] Published Sensor Linear Vel: 0.520878, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.122414
+[IMU] Angular Velocity: 0.195948
+[IMU] Angular Velocity: 0.253458
+[IMU] Angular Velocity: 0.31282
+[IMU] Angular Velocity: 0.368786
+[IMU] Angular Velocity: 0.407766
+[IMU] Angular Velocity: 0.454304
+[IMU] Angular Velocity: 0.485676
+[IMU] Angular Velocity: 0.528888
+[IMU] Angular Velocity: 0.566423
+[Odom] Published Sensor Position - x: 3.39295, y: -0.723406
+[Odom] Published Sensor Linear Vel: 0.554192, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.418114
+[IMU] Angular Velocity: 0.385436
+[IMU] Angular Velocity: 0.356737
+[IMU] Angular Velocity: 0.322252
+[IMU] Angular Velocity: 0.290151
+[IMU] Angular Velocity: 0.277864
+[IMU] Angular Velocity: 0.2628
+[IMU] Angular Velocity: 0.240182
+[IMU] Angular Velocity: 0.229753
+[IMU] Angular Velocity: 0.227156
+[Odom] Published Sensor Position - x: 3.38205, y: -0.687757
+[Odom] Published Sensor Linear Vel: 0.524485, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.108936
+[IMU] Angular Velocity: 0.0558798
+[IMU] Angular Velocity: 0.00547373
+[IMU] Angular Velocity: -0.0343432
+[IMU] Angular Velocity: -0.0644948
+[IMU] Angular Velocity: -0.0934063
+[IMU] Angular Velocity: -0.123953
+[IMU] Angular Velocity: -0.138781
+[IMU] Angular Velocity: -0.151857
+[IMU] Angular Velocity: -0.172113
+[Odom] Published Sensor Position - x: 3.48907, y: -0.732538
+[Odom] Published Sensor Linear Vel: 0.496448, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.156144
+[IMU] Angular Velocity: -0.159071
+[IMU] Angular Velocity: -0.162701
+[IMU] Angular Velocity: -0.167249
+[IMU] Angular Velocity: -0.152322
+[IMU] Angular Velocity: -0.139237
+[IMU] Angular Velocity: -0.131969
+[IMU] Angular Velocity: -0.128923
+[IMU] Angular Velocity: -0.112837
+[IMU] Angular Velocity: -0.0931617
+[Odom] Published Sensor Position - x: 3.50803, y: -0.786926
+[Odom] Published Sensor Linear Vel: 0.492991, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0231851
+[IMU] Angular Velocity: 0.110713
+[IMU] Angular Velocity: 0.200092
+[IMU] Angular Velocity: 0.273358
+[IMU] Angular Velocity: 0.338692
+[IMU] Angular Velocity: 0.390086
+[IMU] Angular Velocity: 0.44947
+[IMU] Angular Velocity: 0.500341
+[IMU] Angular Velocity: 0.543372
+[IMU] Angular Velocity: 0.580664
+[Odom] Published Sensor Position - x: 3.55623, y: -0.769675
+[Odom] Published Sensor Linear Vel: 0.537547, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.423042
+[IMU] Angular Velocity: 0.405014
+[IMU] Angular Velocity: 0.387097
+[IMU] Angular Velocity: 0.373225
+[IMU] Angular Velocity: 0.364492
+[IMU] Angular Velocity: 0.365301
+[IMU] Angular Velocity: 0.364013
+[IMU] Angular Velocity: 0.361247
+[IMU] Angular Velocity: 0.360466
+[IMU] Angular Velocity: 0.376193
+[Odom] Published Sensor Position - x: 3.65365, y: -0.773238
+[Odom] Published Sensor Linear Vel: 0.519226, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.244195
+[IMU] Angular Velocity: 0.218729
+[IMU] Angular Velocity: 0.188285
+[IMU] Angular Velocity: 0.16316
+[IMU] Angular Velocity: 0.156158
+[IMU] Angular Velocity: 0.148952
+[IMU] Angular Velocity: 0.142644
+[IMU] Angular Velocity: 0.138821
+[IMU] Angular Velocity: 0.138272
+[IMU] Angular Velocity: 0.135064
+[Odom] Published Sensor Position - x: 3.62743, y: -0.773308
+[Odom] Published Sensor Linear Vel: 0.496298, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.130118
+[IMU] Angular Velocity: 0.135335
+[IMU] Angular Velocity: 0.144633
+[IMU] Angular Velocity: 0.153953
+[IMU] Angular Velocity: 0.153536
+[IMU] Angular Velocity: 0.164291
+[IMU] Angular Velocity: 0.167693
+[IMU] Angular Velocity: 0.176533
+[IMU] Angular Velocity: 0.17806
+[IMU] Angular Velocity: 0.192779
+[Odom] Published Sensor Position - x: 3.72601, y: -0.843684
+[Odom] Published Sensor Linear Vel: 0.501432, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.281766
+[IMU] Angular Velocity: 0.350657
+[IMU] Angular Velocity: 0.420081
+[IMU] Angular Velocity: 0.477119
+[IMU] Angular Velocity: 0.526578
+[IMU] Angular Velocity: 0.56405
+[IMU] Angular Velocity: 0.60333
+[IMU] Angular Velocity: 0.648316
+[IMU] Angular Velocity: 0.683224
+[IMU] Angular Velocity: 0.716956
+[Odom] Published Sensor Position - x: 3.75269, y: -0.838507
+[Odom] Published Sensor Linear Vel: 0.531764, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.63714
+[IMU] Angular Velocity: 0.663046
+[IMU] Angular Velocity: 0.683287
+[IMU] Angular Velocity: 0.705324
+[IMU] Angular Velocity: 0.714676
+[IMU] Angular Velocity: 0.73029
+[IMU] Angular Velocity: 0.74364
+[IMU] Angular Velocity: 0.749023
+[IMU] Angular Velocity: 0.766949
+[IMU] Angular Velocity: 0.789066
+[Odom] Published Sensor Position - x: 3.80706, y: -0.870061
+[Odom] Published Sensor Linear Vel: 0.536865, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.805338
+[IMU] Angular Velocity: 0.815115
+[IMU] Angular Velocity: 0.83698
+[IMU] Angular Velocity: 0.860352
+[IMU] Angular Velocity: 0.876194
+[IMU] Angular Velocity: 0.878076
+[IMU] Angular Velocity: 0.897875
+[IMU] Angular Velocity: 0.896597
+[IMU] Angular Velocity: 0.895971
+[IMU] Angular Velocity: 0.898961
+[Odom] Published Sensor Position - x: 3.87574, y: -0.906317
+[Odom] Published Sensor Linear Vel: 0.543353, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.903926
+[IMU] Angular Velocity: 0.913049
+[IMU] Angular Velocity: 0.91059
+[IMU] Angular Velocity: 0.917926
+[IMU] Angular Velocity: 0.915228
+[IMU] Angular Velocity: 0.92849
+[IMU] Angular Velocity: 0.92716
+[IMU] Angular Velocity: 0.94115
+[IMU] Angular Velocity: 0.939085
+[IMU] Angular Velocity: 0.938114
+[Odom] Published Sensor Position - x: 3.95777, y: -0.872139
+[Odom] Published Sensor Linear Vel: 0.545673, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.747124
+[IMU] Angular Velocity: 0.705683
+[IMU] Angular Velocity: 0.653379
+[IMU] Angular Velocity: 0.610745
+[IMU] Angular Velocity: 0.584764
+[IMU] Angular Velocity: 0.54946
+[IMU] Angular Velocity: 0.529952
+[IMU] Angular Velocity: 0.506761
+[IMU] Angular Velocity: 0.488646
+[IMU] Angular Velocity: 0.473106
+[Odom] Published Sensor Position - x: 3.96554, y: -0.895652
+[Odom] Published Sensor Linear Vel: 0.512756, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.4669
+[IMU] Angular Velocity: 0.467388
+[IMU] Angular Velocity: 0.461723
+[IMU] Angular Velocity: 0.461172
+[IMU] Angular Velocity: 0.465714
+[IMU] Angular Velocity: 0.450899
+[IMU] Angular Velocity: 0.445505
+[IMU] Angular Velocity: 0.451523
+[IMU] Angular Velocity: 0.43975
+[IMU] Angular Velocity: 0.433092
+[Odom] Published Sensor Position - x: 3.9765, y: -0.899674
+[Odom] Published Sensor Linear Vel: 0.51494, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.378568
+[IMU] Angular Velocity: 0.358891
+[IMU] Angular Velocity: 0.345479
+[IMU] Angular Velocity: 0.341741
+[IMU] Angular Velocity: 0.335437
+[IMU] Angular Velocity: 0.322034
+[IMU] Angular Velocity: 0.312806
+[IMU] Angular Velocity: 0.314706
+[IMU] Angular Velocity: 0.301937
+[IMU] Angular Velocity: 0.30916
+[Odom] Published Sensor Position - x: 4.07564, y: -0.914391
+[Odom] Published Sensor Linear Vel: 0.509976, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.369845
+[IMU] Angular Velocity: 0.406666
+[IMU] Angular Velocity: 0.439523
+[IMU] Angular Velocity: 0.47036
+[IMU] Angular Velocity: 0.49527
+[IMU] Angular Velocity: 0.517396
+[IMU] Angular Velocity: 0.533803
+[IMU] Angular Velocity: 0.557845
+[IMU] Angular Velocity: 0.578466
+[IMU] Angular Velocity: 0.592366
+[Odom] Published Sensor Position - x: 4.12671, y: -0.832892
+[Odom] Published Sensor Linear Vel: 0.530035, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.436607
+[IMU] Angular Velocity: 0.333976
+[IMU] Angular Velocity: 0.242915
+[IMU] Angular Velocity: 0.145118
+[IMU] Angular Velocity: 0.0764015
+[IMU] Angular Velocity: 0.00706825
+[IMU] Angular Velocity: -0.0538192
+[IMU] Angular Velocity: -0.10838
+[IMU] Angular Velocity: -0.149849
+[IMU] Angular Velocity: -0.188106
+[Odom] Published Sensor Position - x: 4.20631, y: -0.881089
+[Odom] Published Sensor Linear Vel: 0.47871, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.073261
+[IMU] Angular Velocity: 0.004156
+[IMU] Angular Velocity: 0.072363
+[IMU] Angular Velocity: 0.118128
+[IMU] Angular Velocity: 0.163128
+[IMU] Angular Velocity: 0.202964
+[IMU] Angular Velocity: 0.235821
+[IMU] Angular Velocity: 0.276477
+[IMU] Angular Velocity: 0.299109
+[IMU] Angular Velocity: 0.321659
+[Odom] Published Sensor Position - x: 4.20168, y: -0.841686
+[Odom] Published Sensor Linear Vel: 0.518413, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.197952
+[IMU] Angular Velocity: 0.154979
+[IMU] Angular Velocity: 0.115205
+[IMU] Angular Velocity: 0.0974066
+[IMU] Angular Velocity: 0.0777458
+[IMU] Angular Velocity: 0.0631314
+[IMU] Angular Velocity: 0.0517919
+[IMU] Angular Velocity: 0.0346157
+[IMU] Angular Velocity: 0.0159933
+[IMU] Angular Velocity: 0.00691517
+[Odom] Published Sensor Position - x: 4.29499, y: -0.801959
+[Odom] Published Sensor Linear Vel: 0.503037, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0884016
+[IMU] Angular Velocity: -0.103589
+[IMU] Angular Velocity: -0.134208
+[IMU] Angular Velocity: -0.15232
+[IMU] Angular Velocity: -0.157444
+[IMU] Angular Velocity: -0.160757
+[IMU] Angular Velocity: -0.163313
+[IMU] Angular Velocity: -0.163972
+[IMU] Angular Velocity: -0.169588
+[IMU] Angular Velocity: -0.177065
+[Odom] Published Sensor Position - x: 4.30473, y: -0.790956
+[Odom] Published Sensor Linear Vel: 0.491392, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.190418
+[IMU] Angular Velocity: -0.200512
+[IMU] Angular Velocity: -0.204952
+[IMU] Angular Velocity: -0.209979
+[IMU] Angular Velocity: -0.215731
+[IMU] Angular Velocity: -0.205891
+[IMU] Angular Velocity: -0.20376
+[IMU] Angular Velocity: -0.203456
+[IMU] Angular Velocity: -0.189909
+[IMU] Angular Velocity: -0.194734
+[Odom] Published Sensor Position - x: 4.33042, y: -0.822425
+[Odom] Published Sensor Linear Vel: 0.496815, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0667483
+[IMU] Angular Velocity: -0.00467036
+[IMU] Angular Velocity: 0.0565228
+[IMU] Angular Velocity: 0.101333
+[IMU] Angular Velocity: 0.147853
+[IMU] Angular Velocity: 0.182478
+[IMU] Angular Velocity: 0.213585
+[IMU] Angular Velocity: 0.244472
+[IMU] Angular Velocity: 0.273062
+[IMU] Angular Velocity: 0.292616
+[Odom] Published Sensor Position - x: 4.45413, y: -0.778312
+[Odom] Published Sensor Linear Vel: 0.535742, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.314718
+[IMU] Angular Velocity: 0.33957
+[IMU] Angular Velocity: 0.344865
+[IMU] Angular Velocity: 0.354547
+[IMU] Angular Velocity: 0.363065
+[IMU] Angular Velocity: 0.376137
+[IMU] Angular Velocity: 0.381451
+[IMU] Angular Velocity: 0.389203
+[IMU] Angular Velocity: 0.40192
+[IMU] Angular Velocity: 0.399438
+[Odom] Published Sensor Position - x: 4.49012, y: -0.798409
+[Odom] Published Sensor Linear Vel: 0.541952, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.452227
+[IMU] Angular Velocity: 0.475678
+[IMU] Angular Velocity: 0.502736
+[IMU] Angular Velocity: 0.518869
+[IMU] Angular Velocity: 0.539379
+[IMU] Angular Velocity: 0.554791
+[IMU] Angular Velocity: 0.564493
+[IMU] Angular Velocity: 0.578923
+[IMU] Angular Velocity: 0.59457
+[IMU] Angular Velocity: 0.593624
+[Odom] Published Sensor Position - x: 4.5206, y: -0.725834
+[Odom] Published Sensor Linear Vel: 0.561068, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.426961
+[IMU] Angular Velocity: 0.31856
+[IMU] Angular Velocity: 0.230323
+[IMU] Angular Velocity: 0.155787
+[IMU] Angular Velocity: 0.0830575
+[IMU] Angular Velocity: 0.0141635
+[IMU] Angular Velocity: -0.030249
+[IMU] Angular Velocity: -0.0676057
+[IMU] Angular Velocity: -0.108319
+[IMU] Angular Velocity: -0.138648
+[Odom] Published Sensor Position - x: 4.60227, y: -0.726856
+[Odom] Published Sensor Linear Vel: 0.511803, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0537327
+[IMU] Angular Velocity: -0.0631269
+[IMU] Angular Velocity: -0.0607911
+[IMU] Angular Velocity: -0.0714084
+[IMU] Angular Velocity: -0.0737008
+[IMU] Angular Velocity: -0.0813208
+[IMU] Angular Velocity: -0.0832102
+[IMU] Angular Velocity: -0.0754648
+[IMU] Angular Velocity: -0.0678732
+[IMU] Angular Velocity: -0.0697933
+[Odom] Published Sensor Position - x: 4.63027, y: -0.728762
+[Odom] Published Sensor Linear Vel: 0.516889, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00197069
+[IMU] Angular Velocity: 0.0131226
+[IMU] Angular Velocity: 0.0305444
+[IMU] Angular Velocity: 0.049589
+[IMU] Angular Velocity: 0.0543485
+[IMU] Angular Velocity: 0.0610626
+[IMU] Angular Velocity: 0.0697855
+[IMU] Angular Velocity: 0.0807655
+[IMU] Angular Velocity: 0.0782847
+[IMU] Angular Velocity: 0.075574
+[Odom] Published Sensor Position - x: 4.71759, y: -0.655669
+[Odom] Published Sensor Linear Vel: 0.529564, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0289269
+[IMU] Angular Velocity: -0.0978981
+[IMU] Angular Velocity: -0.153049
+[IMU] Angular Velocity: -0.197502
+[IMU] Angular Velocity: -0.242343
+[IMU] Angular Velocity: -0.27318
+[IMU] Angular Velocity: -0.295406
+[IMU] Angular Velocity: -0.329529
+[IMU] Angular Velocity: -0.359553
+[IMU] Angular Velocity: -0.384389
+[Odom] Published Sensor Position - x: 4.72462, y: -0.646165
+[Odom] Published Sensor Linear Vel: 0.494678, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.384817
+[IMU] Angular Velocity: -0.406585
+[IMU] Angular Velocity: -0.420626
+[IMU] Angular Velocity: -0.426098
+[IMU] Angular Velocity: -0.432998
+[IMU] Angular Velocity: -0.435355
+[IMU] Angular Velocity: -0.445484
+[IMU] Angular Velocity: -0.448396
+[IMU] Angular Velocity: -0.445847
+[IMU] Angular Velocity: -0.45219
+[Odom] Published Sensor Position - x: 4.80538, y: -0.664405
+[Odom] Published Sensor Linear Vel: 0.492564, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.297846
+[IMU] Angular Velocity: -0.208876
+[IMU] Angular Velocity: -0.139339
+[IMU] Angular Velocity: -0.0636108
+[IMU] Angular Velocity: 0.00184762
+[IMU] Angular Velocity: 0.0608684
+[IMU] Angular Velocity: 0.111062
+[IMU] Angular Velocity: 0.150374
+[IMU] Angular Velocity: 0.183935
+[IMU] Angular Velocity: 0.202915
+[Odom] Published Sensor Position - x: 4.84535, y: -0.629621
+[Odom] Published Sensor Linear Vel: 0.536172, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.122888
+[IMU] Angular Velocity: 0.118452
+[IMU] Angular Velocity: 0.124819
+[IMU] Angular Velocity: 0.111647
+[IMU] Angular Velocity: 0.108802
+[IMU] Angular Velocity: 0.10036
+[IMU] Angular Velocity: 0.0998867
+[IMU] Angular Velocity: 0.0931525
+[IMU] Angular Velocity: 0.0849671
+[IMU] Angular Velocity: 0.0732089
+[Odom] Published Sensor Position - x: 4.83587, y: -0.623211
+[Odom] Published Sensor Linear Vel: 0.526421, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00862565
+[IMU] Angular Velocity: -0.00659803
+[IMU] Angular Velocity: -0.0237673
+[IMU] Angular Velocity: -0.0279551
+[IMU] Angular Velocity: -0.0501165
+[IMU] Angular Velocity: -0.0689595
+[IMU] Angular Velocity: -0.0806803
+[IMU] Angular Velocity: -0.0910765
+[IMU] Angular Velocity: -0.101639
+[IMU] Angular Velocity: -0.113445
+[Odom] Published Sensor Position - x: 4.95821, y: -0.610337
+[Odom] Published Sensor Linear Vel: 0.514725, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.000720884
+[IMU] Angular Velocity: 0.0274849
+[IMU] Angular Velocity: 0.0567951
+[IMU] Angular Velocity: 0.0739607
+[IMU] Angular Velocity: 0.0968251
+[IMU] Angular Velocity: 0.107268
+[IMU] Angular Velocity: 0.111438
+[IMU] Angular Velocity: 0.116289
+[IMU] Angular Velocity: 0.121293
+[IMU] Angular Velocity: 0.127748
+[Odom] Published Sensor Position - x: 4.95147, y: -0.59276
+[Odom] Published Sensor Linear Vel: 0.525457, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0203223
+[IMU] Angular Velocity: -0.00249579
+[IMU] Angular Velocity: -0.0148959
+[IMU] Angular Velocity: -0.0283098
+[IMU] Angular Velocity: -0.0433072
+[IMU] Angular Velocity: -0.0609258
+[IMU] Angular Velocity: -0.0718471
+[IMU] Angular Velocity: -0.0882105
+[IMU] Angular Velocity: -0.098348
+[IMU] Angular Velocity: -0.108102
+[Odom] Published Sensor Position - x: 5.04937, y: -0.539512
+[Odom] Published Sensor Linear Vel: 0.510518, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.201371
+[IMU] Angular Velocity: -0.257273
+[IMU] Angular Velocity: -0.295265
+[IMU] Angular Velocity: -0.339829
+[IMU] Angular Velocity: -0.370192
+[IMU] Angular Velocity: -0.401243
+[IMU] Angular Velocity: -0.420505
+[IMU] Angular Velocity: -0.451571
+[IMU] Angular Velocity: -0.465848
+[IMU] Angular Velocity: -0.471814
+[Odom] Published Sensor Position - x: 5.06712, y: -0.588428
+[Odom] Published Sensor Linear Vel: 0.479554, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.318595
+[IMU] Angular Velocity: -0.236578
+[IMU] Angular Velocity: -0.164766
+[IMU] Angular Velocity: -0.0905247
+[IMU] Angular Velocity: -0.0284628
+[IMU] Angular Velocity: 0.0272004
+[IMU] Angular Velocity: 0.0749234
+[IMU] Angular Velocity: 0.0995724
+[IMU] Angular Velocity: 0.129292
+[IMU] Angular Velocity: 0.155617
+[Odom] Published Sensor Position - x: 5.12038, y: -0.581828
+[Odom] Published Sensor Linear Vel: 0.524395, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.240775
+[IMU] Angular Velocity: 0.276905
+[IMU] Angular Velocity: 0.295294
+[IMU] Angular Velocity: 0.325884
+[IMU] Angular Velocity: 0.346539
+[IMU] Angular Velocity: 0.369629
+[IMU] Angular Velocity: 0.385787
+[IMU] Angular Velocity: 0.396143
+[IMU] Angular Velocity: 0.40076
+[IMU] Angular Velocity: 0.407716
+[Odom] Published Sensor Position - x: 5.11216, y: -0.569803
+[Odom] Published Sensor Linear Vel: 0.539327, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.269012
+[IMU] Angular Velocity: 0.234534
+[IMU] Angular Velocity: 0.200523
+[IMU] Angular Velocity: 0.181749
+[IMU] Angular Velocity: 0.16444
+[IMU] Angular Velocity: 0.137096
+[IMU] Angular Velocity: 0.118994
+[IMU] Angular Velocity: 0.102506
+[IMU] Angular Velocity: 0.081532
+[IMU] Angular Velocity: 0.0670301
+[Odom] Published Sensor Position - x: 5.24773, y: -0.535016
+[Odom] Published Sensor Linear Vel: 0.516125, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0491115
+[IMU] Angular Velocity: 0.0246934
+[IMU] Angular Velocity: 0.0185562
+[IMU] Angular Velocity: 0.00289421
+[IMU] Angular Velocity: -0.017633
+[IMU] Angular Velocity: -0.038699
+[IMU] Angular Velocity: -0.0522216
+[IMU] Angular Velocity: -0.0679112
+[IMU] Angular Velocity: -0.0887789
+[IMU] Angular Velocity: -0.105989
+[Odom] Published Sensor Position - x: 5.25641, y: -0.494454
+[Odom] Published Sensor Linear Vel: 0.497158, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.19
+[IMU] Angular Velocity: -0.253862
+[IMU] Angular Velocity: -0.321297
+[IMU] Angular Velocity: -0.36432
+[IMU] Angular Velocity: -0.403807
+[IMU] Angular Velocity: -0.44884
+[IMU] Angular Velocity: -0.47964
+[IMU] Angular Velocity: -0.512851
+[IMU] Angular Velocity: -0.535989
+[IMU] Angular Velocity: -0.568126
+[Odom] Published Sensor Position - x: 5.29587, y: -0.483825
+[Odom] Published Sensor Linear Vel: 0.466575, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.538114
+[IMU] Angular Velocity: -0.547965
+[IMU] Angular Velocity: -0.557384
+[IMU] Angular Velocity: -0.566857
+[IMU] Angular Velocity: -0.577019
+[IMU] Angular Velocity: -0.58294
+[IMU] Angular Velocity: -0.59642
+[IMU] Angular Velocity: -0.591952
+[IMU] Angular Velocity: -0.59394
+[IMU] Angular Velocity: -0.589562
+[Odom] Published Sensor Position - x: 5.3564, y: -0.480757
+[Odom] Published Sensor Linear Vel: 0.46405, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.432546
+[IMU] Angular Velocity: -0.393537
+[IMU] Angular Velocity: -0.36769
+[IMU] Angular Velocity: -0.352718
+[IMU] Angular Velocity: -0.332007
+[IMU] Angular Velocity: -0.319207
+[IMU] Angular Velocity: -0.301863
+[IMU] Angular Velocity: -0.286433
+[IMU] Angular Velocity: -0.282196
+[IMU] Angular Velocity: -0.273337
+[Odom] Published Sensor Position - x: 5.35355, y: -0.41534
+[Odom] Published Sensor Linear Vel: 0.484393, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.339596
+[IMU] Angular Velocity: -0.398217
+[IMU] Angular Velocity: -0.457321
+[IMU] Angular Velocity: -0.501893
+[IMU] Angular Velocity: -0.556347
+[IMU] Angular Velocity: -0.598295
+[IMU] Angular Velocity: -0.641163
+[IMU] Angular Velocity: -0.670192
+[IMU] Angular Velocity: -0.695767
+[IMU] Angular Velocity: -0.718549
+[Odom] Published Sensor Position - x: 5.40909, y: -0.470806
+[Odom] Published Sensor Linear Vel: 0.454742, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.535869
+[IMU] Angular Velocity: -0.452621
+[IMU] Angular Velocity: -0.379386
+[IMU] Angular Velocity: -0.306714
+[IMU] Angular Velocity: -0.239355
+[IMU] Angular Velocity: -0.181234
+[IMU] Angular Velocity: -0.131284
+[IMU] Angular Velocity: -0.0830547
+[IMU] Angular Velocity: -0.0521259
+[IMU] Angular Velocity: -0.0119978
+[Odom] Published Sensor Position - x: 5.47421, y: -0.46609
+[Odom] Published Sensor Linear Vel: 0.502527, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0889939
+[IMU] Angular Velocity: 0.130838
+[IMU] Angular Velocity: 0.176542
+[IMU] Angular Velocity: 0.215343
+[IMU] Angular Velocity: 0.254973
+[IMU] Angular Velocity: 0.286463
+[IMU] Angular Velocity: 0.315678
+[IMU] Angular Velocity: 0.330637
+[IMU] Angular Velocity: 0.354916
+[IMU] Angular Velocity: 0.374839
+[Odom] Published Sensor Position - x: 5.52939, y: -0.398428
+[Odom] Published Sensor Linear Vel: 0.528251, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.231731
+[IMU] Angular Velocity: 0.149553
+[IMU] Angular Velocity: 0.0638032
+[IMU] Angular Velocity: -0.0140208
+[IMU] Angular Velocity: -0.0744073
+[IMU] Angular Velocity: -0.137834
+[IMU] Angular Velocity: -0.18348
+[IMU] Angular Velocity: -0.227048
+[IMU] Angular Velocity: -0.263698
+[IMU] Angular Velocity: -0.30262
+[Odom] Published Sensor Position - x: 5.53807, y: -0.42027
+[Odom] Published Sensor Linear Vel: 0.480381, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.202267
+[IMU] Angular Velocity: -0.201874
+[IMU] Angular Velocity: -0.20097
+[IMU] Angular Velocity: -0.19863
+[IMU] Angular Velocity: -0.204221
+[IMU] Angular Velocity: -0.202513
+[IMU] Angular Velocity: -0.191629
+[IMU] Angular Velocity: -0.182171
+[IMU] Angular Velocity: -0.171993
+[IMU] Angular Velocity: -0.177222
+[Odom] Published Sensor Position - x: 5.6137, y: -0.433407
+[Odom] Published Sensor Linear Vel: 0.491314, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0552234
+[IMU] Angular Velocity: -0.0249836
+[IMU] Angular Velocity: 0.0112709
+[IMU] Angular Velocity: 0.0439694
+[IMU] Angular Velocity: 0.0711465
+[IMU] Angular Velocity: 0.0945149
+[IMU] Angular Velocity: 0.109326
+[IMU] Angular Velocity: 0.133348
+[IMU] Angular Velocity: 0.155911
+[IMU] Angular Velocity: 0.162461
+[Odom] Published Sensor Position - x: 5.62787, y: -0.372898
+[Odom] Published Sensor Linear Vel: 0.513153, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0510001
+[IMU] Angular Velocity: -0.0120284
+[IMU] Angular Velocity: -0.0727103
+[IMU] Angular Velocity: -0.126154
+[IMU] Angular Velocity: -0.180265
+[IMU] Angular Velocity: -0.221823
+[IMU] Angular Velocity: -0.250389
+[IMU] Angular Velocity: -0.277127
+[IMU] Angular Velocity: -0.299761
+[IMU] Angular Velocity: -0.328931
+[Odom] Published Sensor Position - x: 5.7203, y: -0.385463
+[Odom] Published Sensor Linear Vel: 0.48054, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.2437
+[IMU] Angular Velocity: -0.231234
+[IMU] Angular Velocity: -0.223818
+[IMU] Angular Velocity: -0.223262
+[IMU] Angular Velocity: -0.221095
+[IMU] Angular Velocity: -0.219754
+[IMU] Angular Velocity: -0.21985
+[IMU] Angular Velocity: -0.216616
+[IMU] Angular Velocity: -0.205678
+[IMU] Angular Velocity: -0.194209
+[Odom] Published Sensor Position - x: 5.74785, y: -0.367933
+[Odom] Published Sensor Linear Vel: 0.487571, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.222935
+[IMU] Angular Velocity: -0.225459
+[IMU] Angular Velocity: -0.231054
+[IMU] Angular Velocity: -0.234796
+[IMU] Angular Velocity: -0.226084
+[IMU] Angular Velocity: -0.223114
+[IMU] Angular Velocity: -0.218279
+[IMU] Angular Velocity: -0.219886
+[IMU] Angular Velocity: -0.224181
+[IMU] Angular Velocity: -0.224694
+[Odom] Published Sensor Position - x: 5.77507, y: -0.379488
+[Odom] Published Sensor Linear Vel: 0.487366, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.103962
+[IMU] Angular Velocity: -0.0764012
+[IMU] Angular Velocity: -0.0533646
+[IMU] Angular Velocity: -0.0417415
+[IMU] Angular Velocity: -0.0146699
+[IMU] Angular Velocity: 0.00625754
+[IMU] Angular Velocity: 0.0121968
+[IMU] Angular Velocity: 0.0191978
+[IMU] Angular Velocity: 0.0323753
+[IMU] Angular Velocity: 0.0349605
+[Odom] Published Sensor Position - x: 5.90878, y: -0.33502
+[Odom] Published Sensor Linear Vel: 0.506631, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0619152
+[IMU] Angular Velocity: -0.0952428
+[IMU] Angular Velocity: -0.135521
+[IMU] Angular Velocity: -0.156764
+[IMU] Angular Velocity: -0.191946
+[IMU] Angular Velocity: -0.20593
+[IMU] Angular Velocity: -0.230255
+[IMU] Angular Velocity: -0.246802
+[IMU] Angular Velocity: -0.257605
+[IMU] Angular Velocity: -0.258821
+[Odom] Published Sensor Position - x: 5.9578, y: -0.34127
+[Odom] Published Sensor Linear Vel: 0.481899, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.17675
+[IMU] Angular Velocity: -0.167817
+[IMU] Angular Velocity: -0.152157
+[IMU] Angular Velocity: -0.146187
+[IMU] Angular Velocity: -0.129658
+[IMU] Angular Velocity: -0.110541
+[IMU] Angular Velocity: -0.0967342
+[IMU] Angular Velocity: -0.0802051
+[IMU] Angular Velocity: -0.0784845
+[IMU] Angular Velocity: -0.0681808
+[Odom] Published Sensor Position - x: 5.99227, y: -0.34619
+[Odom] Published Sensor Linear Vel: 0.497287, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0140533
+[IMU] Angular Velocity: 0.0379594
+[IMU] Angular Velocity: 0.0502404
+[IMU] Angular Velocity: 0.0652692
+[IMU] Angular Velocity: 0.0864411
+[IMU] Angular Velocity: 0.0955843
+[IMU] Angular Velocity: 0.112693
+[IMU] Angular Velocity: 0.128341
+[IMU] Angular Velocity: 0.13969
+[IMU] Angular Velocity: 0.146389
+[Odom] Published Sensor Position - x: 5.97852, y: -0.335807
+[Odom] Published Sensor Linear Vel: 0.513935, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0906121
+[IMU] Angular Velocity: 0.0930208
+[IMU] Angular Velocity: 0.0859813
+[IMU] Angular Velocity: 0.091449
+[IMU] Angular Velocity: 0.0893358
+[IMU] Angular Velocity: 0.0919378
+[IMU] Angular Velocity: 0.099569
+[IMU] Angular Velocity: 0.100228
+[IMU] Angular Velocity: 0.103855
+[IMU] Angular Velocity: 0.104231
+[Odom] Published Sensor Position - x: 6.05111, y: -0.335604
+[Odom] Published Sensor Linear Vel: 0.514053, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.11553
+[IMU] Angular Velocity: 0.125088
+[IMU] Angular Velocity: 0.128956
+[IMU] Angular Velocity: 0.127422
+[IMU] Angular Velocity: 0.132774
+[IMU] Angular Velocity: 0.139335
+[IMU] Angular Velocity: 0.142643
+[IMU] Angular Velocity: 0.142279
+[IMU] Angular Velocity: 0.152775
+[IMU] Angular Velocity: 0.151815
+[Odom] Published Sensor Position - x: 6.07892, y: -0.395814
+[Odom] Published Sensor Linear Vel: 0.515227, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.238724
+[IMU] Angular Velocity: 0.310535
+[IMU] Angular Velocity: 0.378304
+[IMU] Angular Velocity: 0.445996
+[IMU] Angular Velocity: 0.493578
+[IMU] Angular Velocity: 0.539051
+[IMU] Angular Velocity: 0.574721
+[IMU] Angular Velocity: 0.619084
+[IMU] Angular Velocity: 0.647695
+[IMU] Angular Velocity: 0.672232
+[Odom] Published Sensor Position - x: 6.14468, y: -0.414316
+[Odom] Published Sensor Linear Vel: 0.553512, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.710579
+[IMU] Angular Velocity: 0.733076
+[IMU] Angular Velocity: 0.748685
+[IMU] Angular Velocity: 0.781023
+[IMU] Angular Velocity: 0.806031
+[IMU] Angular Velocity: 0.823492
+[IMU] Angular Velocity: 0.841208
+[IMU] Angular Velocity: 0.861022
+[IMU] Angular Velocity: 0.881092
+[IMU] Angular Velocity: 0.885947
+[Odom] Published Sensor Position - x: 6.22798, y: -0.409244
+[Odom] Published Sensor Linear Vel: 0.567743, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.827783
+[IMU] Angular Velocity: 0.828276
+[IMU] Angular Velocity: 0.809962
+[IMU] Angular Velocity: 0.789867
+[IMU] Angular Velocity: 0.77303
+[IMU] Angular Velocity: 0.758518
+[IMU] Angular Velocity: 0.745789
+[IMU] Angular Velocity: 0.729255
+[IMU] Angular Velocity: 0.718215
+[IMU] Angular Velocity: 0.716172
+[Odom] Published Sensor Position - x: 6.24373, y: -0.413215
+[Odom] Published Sensor Linear Vel: 0.554759, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.595844
+[IMU] Angular Velocity: 0.565693
+[IMU] Angular Velocity: 0.539179
+[IMU] Angular Velocity: 0.506672
+[IMU] Angular Velocity: 0.467569
+[IMU] Angular Velocity: 0.440336
+[IMU] Angular Velocity: 0.420603
+[IMU] Angular Velocity: 0.403475
+[IMU] Angular Velocity: 0.383269
+[IMU] Angular Velocity: 0.357506
+[Odom] Published Sensor Position - x: 6.29692, y: -0.395018
+[Odom] Published Sensor Linear Vel: 0.532275, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.241915
+[IMU] Angular Velocity: 0.191214
+[IMU] Angular Velocity: 0.150449
+[IMU] Angular Velocity: 0.11726
+[IMU] Angular Velocity: 0.0774574
+[IMU] Angular Velocity: 0.0513339
+[IMU] Angular Velocity: 0.0224768
+[IMU] Angular Velocity: 0.00536288
+[IMU] Angular Velocity: -0.00908494
+[IMU] Angular Velocity: -0.0294108
+[Odom] Published Sensor Position - x: 6.33982, y: -0.319456
+[Odom] Published Sensor Linear Vel: 0.504485, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.127567
+[IMU] Angular Velocity: -0.205647
+[IMU] Angular Velocity: -0.281424
+[IMU] Angular Velocity: -0.347875
+[IMU] Angular Velocity: -0.409886
+[IMU] Angular Velocity: -0.458497
+[IMU] Angular Velocity: -0.509387
+[IMU] Angular Velocity: -0.554745
+[IMU] Angular Velocity: -0.594337
+[IMU] Angular Velocity: -0.638577
+[Odom] Published Sensor Position - x: 6.38926, y: -0.318078
+[Odom] Published Sensor Linear Vel: 0.461523, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.597148
+[IMU] Angular Velocity: -0.615158
+[IMU] Angular Velocity: -0.62187
+[IMU] Angular Velocity: -0.64375
+[IMU] Angular Velocity: -0.64923
+[IMU] Angular Velocity: -0.654113
+[IMU] Angular Velocity: -0.654735
+[IMU] Angular Velocity: -0.670305
+[IMU] Angular Velocity: -0.686495
+[IMU] Angular Velocity: -0.682914
+[Odom] Published Sensor Position - x: 6.46372, y: -0.293071
+[Odom] Published Sensor Linear Vel: 0.458355, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.643858
+[IMU] Angular Velocity: -0.645976
+[IMU] Angular Velocity: -0.635536
+[IMU] Angular Velocity: -0.626909
+[IMU] Angular Velocity: -0.62144
+[IMU] Angular Velocity: -0.622079
+[IMU] Angular Velocity: -0.611136
+[IMU] Angular Velocity: -0.609203
+[IMU] Angular Velocity: -0.597703
+[IMU] Angular Velocity: -0.585924
+[Odom] Published Sensor Position - x: 6.56148, y: -0.280962
+[Odom] Published Sensor Linear Vel: 0.463722, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.452255
+[IMU] Angular Velocity: -0.428824
+[IMU] Angular Velocity: -0.400989
+[IMU] Angular Velocity: -0.377295
+[IMU] Angular Velocity: -0.357255
+[IMU] Angular Velocity: -0.333421
+[IMU] Angular Velocity: -0.31959
+[IMU] Angular Velocity: -0.299135
+[IMU] Angular Velocity: -0.285267
+[IMU] Angular Velocity: -0.266184
+[Odom] Published Sensor Position - x: 6.55425, y: -0.30762
+[Odom] Published Sensor Linear Vel: 0.484338, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.136915
+[IMU] Angular Velocity: -0.07753
+[IMU] Angular Velocity: -0.0236097
+[IMU] Angular Velocity: 0.029564
+[IMU] Angular Velocity: 0.0824894
+[IMU] Angular Velocity: 0.121623
+[IMU] Angular Velocity: 0.160389
+[IMU] Angular Velocity: 0.183333
+[IMU] Angular Velocity: 0.204427
+[IMU] Angular Velocity: 0.235918
+[Odom] Published Sensor Position - x: 6.5989, y: -0.27695
+[Odom] Published Sensor Linear Vel: 0.523504, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.133048
+[IMU] Angular Velocity: 0.118624
+[IMU] Angular Velocity: 0.118383
+[IMU] Angular Velocity: 0.121871
+[IMU] Angular Velocity: 0.116522
+[IMU] Angular Velocity: 0.111035
+[IMU] Angular Velocity: 0.101439
+[IMU] Angular Velocity: 0.0986838
+[IMU] Angular Velocity: 0.104045
+[IMU] Angular Velocity: 0.0920105
+[Odom] Published Sensor Position - x: 6.67742, y: -0.252915
+[Odom] Published Sensor Linear Vel: 0.511217, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0233381
+[IMU] Angular Velocity: -0.0497645
+[IMU] Angular Velocity: -0.0684837
+[IMU] Angular Velocity: -0.0931295
+[IMU] Angular Velocity: -0.108328
+[IMU] Angular Velocity: -0.1284
+[IMU] Angular Velocity: -0.137998
+[IMU] Angular Velocity: -0.142073
+[IMU] Angular Velocity: -0.151558
+[IMU] Angular Velocity: -0.165006
+[Odom] Published Sensor Position - x: 6.74258, y: -0.293151
+[Odom] Published Sensor Linear Vel: 0.488566, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.057092
+[IMU] Angular Velocity: 0.0489915
+[IMU] Angular Velocity: 0.152435
+[IMU] Angular Velocity: 0.228865
+[IMU] Angular Velocity: 0.307971
+[IMU] Angular Velocity: 0.383293
+[IMU] Angular Velocity: 0.434716
+[IMU] Angular Velocity: 0.498164
+[IMU] Angular Velocity: 0.554581
+[IMU] Angular Velocity: 0.603933
+[Odom] Published Sensor Position - x: 6.72413, y: -0.213099
+[Odom] Published Sensor Linear Vel: 0.541154, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.43794
+[IMU] Angular Velocity: 0.283677
+[IMU] Angular Velocity: 0.156359
+[IMU] Angular Velocity: 0.0368395
+[IMU] Angular Velocity: -0.0631674
+[IMU] Angular Velocity: -0.157637
+[IMU] Angular Velocity: -0.235802
+[IMU] Angular Velocity: -0.306531
+[IMU] Angular Velocity: -0.383382
+[IMU] Angular Velocity: -0.4404
+[Odom] Published Sensor Position - x: 6.85832, y: -0.293727
+[Odom] Published Sensor Linear Vel: 0.470098, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.293352
+[IMU] Angular Velocity: -0.163238
+[IMU] Angular Velocity: -0.0460974
+[IMU] Angular Velocity: 0.0675055
+[IMU] Angular Velocity: 0.168622
+[IMU] Angular Velocity: 0.251722
+[IMU] Angular Velocity: 0.334718
+[IMU] Angular Velocity: 0.408399
+[IMU] Angular Velocity: 0.460496
+[IMU] Angular Velocity: 0.512926
+[Odom] Published Sensor Position - x: 6.82632, y: -0.208225
+[Odom] Published Sensor Linear Vel: 0.531952, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.351087
+[IMU] Angular Velocity: 0.207226
+[IMU] Angular Velocity: 0.0849946
+[IMU] Angular Velocity: -0.0253547
+[IMU] Angular Velocity: -0.126651
+[IMU] Angular Velocity: -0.215536
+[IMU] Angular Velocity: -0.289675
+[IMU] Angular Velocity: -0.263573
+[IMU] Angular Velocity: -0.234984
+[IMU] Angular Velocity: -0.2139
+[Odom] Published Sensor Position - x: 6.8999, y: -0.255565
+[Odom] Published Sensor Linear Vel: 0.348459, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.183987
+[IMU] Angular Velocity: -0.159616
+[IMU] Angular Velocity: -0.136311
+[IMU] Angular Velocity: -0.127885
+[IMU] Angular Velocity: -0.106231
+[IMU] Angular Velocity: -0.0924276
+[IMU] Angular Velocity: -0.0829529
+[IMU] Angular Velocity: -0.0646677
+[IMU] Angular Velocity: -0.0620491
+[IMU] Angular Velocity: -0.0585233
+[Odom] Published Sensor Position - x: 6.93508, y: -0.195285
+[Odom] Published Sensor Linear Vel: 0.122624, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0572921
+[IMU] Angular Velocity: -0.0443862
+[IMU] Angular Velocity: -0.0362629
+[IMU] Angular Velocity: -0.0278884
+[IMU] Angular Velocity: -0.025143
+[IMU] Angular Velocity: -0.0209683
+[IMU] Angular Velocity: -0.0145276
+[IMU] Angular Velocity: -0.0145721
+[IMU] Angular Velocity: -0.0117342
+[IMU] Angular Velocity: -0.0150986
+[Odom] Published Sensor Position - x: 6.9272, y: -0.267985
+[Odom] Published Sensor Linear Vel: 0.043128, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0208201
+[IMU] Angular Velocity: -0.0201582
+[IMU] Angular Velocity: -0.018573
+[IMU] Angular Velocity: -0.0148504
+[IMU] Angular Velocity: -0.0199747
+[IMU] Angular Velocity: -0.00956331
+[IMU] Angular Velocity: -0.0086242
+[IMU] Angular Velocity: 0.00016311
+[IMU] Angular Velocity: 0.00595328
+[IMU] Angular Velocity: 0.00536391
+[Odom] Published Sensor Position - x: 6.94318, y: -0.256237
+[Odom] Published Sensor Linear Vel: 0.0157818, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0102812
+[IMU] Angular Velocity: 0.0171339
+[IMU] Angular Velocity: 0.0204415
+[IMU] Angular Velocity: 0.0120683
+[IMU] Angular Velocity: 0.0178335
+[IMU] Angular Velocity: 0.0251299
+[IMU] Angular Velocity: 0.0162825
+[IMU] Angular Velocity: 0.00612415
+[IMU] Angular Velocity: -0.000881459
+[IMU] Angular Velocity: 0.00790223
+[Odom] Published Sensor Position - x: 6.96625, y: -0.177246
+[Odom] Published Sensor Linear Vel: 0.00592501, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00975659
+[IMU] Angular Velocity: 0.00302597
+[IMU] Angular Velocity: 0.00858142
+[IMU] Angular Velocity: 0.00345851
+[IMU] Angular Velocity: 0.00478984
+[IMU] Angular Velocity: 0.00885757
+[IMU] Angular Velocity: 0.0137756
+[IMU] Angular Velocity: 0.00414645
+[IMU] Angular Velocity: 0.00274705
+[IMU] Angular Velocity: 0.00955877
+[Odom] Published Sensor Position - x: 6.93951, y: -0.177262
+[Odom] Published Sensor Linear Vel: 0.00254216, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0161424
+[IMU] Angular Velocity: 0.0157648
+[IMU] Angular Velocity: 0.0140443
+[IMU] Angular Velocity: 0.0215416
+[IMU] Angular Velocity: 0.0274137
+[IMU] Angular Velocity: 0.0233482
+[IMU] Angular Velocity: 0.023272
+[IMU] Angular Velocity: 0.0148005
+[IMU] Angular Velocity: 0.0106243
+[IMU] Angular Velocity: 0.0096779
+[Odom] Published Sensor Position - x: 6.89845, y: -0.216684
+[Odom] Published Sensor Linear Vel: 0.00133054, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00132329
+[IMU] Angular Velocity: 0.00158354
+[IMU] Angular Velocity: 0.00668435
+[IMU] Angular Velocity: -0.00272851
+[IMU] Angular Velocity: 0.00016018
+[IMU] Angular Velocity: -0.00768593
+[IMU] Angular Velocity: -0.0153073
+[IMU] Angular Velocity: -0.0164593
+[IMU] Angular Velocity: -0.0173947
+[IMU] Angular Velocity: -0.00796847
+[Odom] Published Sensor Position - x: 6.91991, y: -0.236932
+[Odom] Published Sensor Linear Vel: -0.000330074, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00254885
+[IMU] Angular Velocity: -0.000950519
+[IMU] Angular Velocity: 0.00726145
+[IMU] Angular Velocity: 0.00385955
+[IMU] Angular Velocity: -0.00210535
+[IMU] Angular Velocity: -0.0065
+[IMU] Angular Velocity: -0.00259568
+[IMU] Angular Velocity: -0.0119694
+[IMU] Angular Velocity: -0.00537441
+[IMU] Angular Velocity: -0.0133227
+[Odom] Published Sensor Position - x: 6.95914, y: -0.227902
+[Odom] Published Sensor Linear Vel: -0.000853191, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0127363
+[IMU] Angular Velocity: -0.0148445
+[IMU] Angular Velocity: -0.00780987
+[IMU] Angular Velocity: -0.0129955
+[IMU] Angular Velocity: -0.0184647
+[IMU] Angular Velocity: -0.0216128
+[IMU] Angular Velocity: -0.0258951
+[IMU] Angular Velocity: -0.0274502
+[IMU] Angular Velocity: -0.0187339
+[IMU] Angular Velocity: -0.0205152
+[Odom] Published Sensor Position - x: 6.98699, y: -0.266169
+[Odom] Published Sensor Linear Vel: -0.00140838, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0277984
+[IMU] Angular Velocity: -0.0186441
+[IMU] Angular Velocity: -0.0143097
+[IMU] Angular Velocity: -0.012041
+[IMU] Angular Velocity: -0.0019246
+[IMU] Angular Velocity: -0.00449618
+[IMU] Angular Velocity: 0.00433296
+[IMU] Angular Velocity: -0.00299427
+[IMU] Angular Velocity: 0.00631828
+[IMU] Angular Velocity: -0.00261423
+[Odom] Published Sensor Position - x: 6.97118, y: -0.196997
+[Odom] Published Sensor Linear Vel: -0.000173343, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00559991
+[IMU] Angular Velocity: -0.00406414
+[IMU] Angular Velocity: -0.000343554
+[IMU] Angular Velocity: -0.00923959
+[IMU] Angular Velocity: -0.012704
+[IMU] Angular Velocity: -0.0102551
+[IMU] Angular Velocity: -0.00696841
+[IMU] Angular Velocity: -0.0131376
+[IMU] Angular Velocity: -0.0169559
+[IMU] Angular Velocity: -0.013193
+[Odom] Published Sensor Position - x: 6.96998, y: -0.269493
+[Odom] Published Sensor Linear Vel: -0.000920146, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00394237
+[IMU] Angular Velocity: -0.00627094
+[IMU] Angular Velocity: -0.00806863
+[IMU] Angular Velocity: -0.0133794
+[IMU] Angular Velocity: -0.0107658
+[IMU] Angular Velocity: -0.012937
+[IMU] Angular Velocity: -0.0118748
+[IMU] Angular Velocity: -0.0200613
+[IMU] Angular Velocity: -0.025321
+[IMU] Angular Velocity: -0.0249981
+[Odom] Published Sensor Position - x: 6.98745, y: -0.214056
+[Odom] Published Sensor Linear Vel: -0.00174869, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0215586
+[IMU] Angular Velocity: -0.0165912
+[IMU] Angular Velocity: -0.015066
+[IMU] Angular Velocity: -0.00805922
+[IMU] Angular Velocity: -0.0103951
+[IMU] Angular Velocity: -0.00618804
+[IMU] Angular Velocity: -0.00881236
+[IMU] Angular Velocity: -0.0171042
+[IMU] Angular Velocity: -0.01173
+[IMU] Angular Velocity: -0.0106865
+[Odom] Published Sensor Position - x: 6.96852, y: -0.185579
+[Odom] Published Sensor Linear Vel: -0.000747645, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00654297
+[IMU] Angular Velocity: -0.000226969
+[IMU] Angular Velocity: 0.00963882
+[IMU] Angular Velocity: 0.0149521
+[IMU] Angular Velocity: 0.0192843
+[IMU] Angular Velocity: 0.0254286
+[IMU] Angular Velocity: 0.0326851
+[IMU] Angular Velocity: 0.0271814
+[IMU] Angular Velocity: 0.0294084
+[IMU] Angular Velocity: 0.0255789
+[Odom] Published Sensor Position - x: 6.92263, y: -0.195486
+[Odom] Published Sensor Linear Vel: 0.00179067, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0248024
+[IMU] Angular Velocity: 0.0196182
+[IMU] Angular Velocity: 0.0132528
+[IMU] Angular Velocity: 0.00418506
+[IMU] Angular Velocity: 0.00388577
+[IMU] Angular Velocity: 0.00490284
+[IMU] Angular Velocity: 0.0010821
+[IMU] Angular Velocity: 0.00618386
+[IMU] Angular Velocity: -0.00174827
+[IMU] Angular Velocity: 0.00235635
+[Odom] Published Sensor Position - x: 6.9038, y: -0.198545
+[Odom] Published Sensor Linear Vel: 0.000164995, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0117165
+[IMU] Angular Velocity: 0.0167649
+[IMU] Angular Velocity: 0.0186942
+[IMU] Angular Velocity: 0.0136054
+[IMU] Angular Velocity: 0.0091508
+[IMU] Angular Velocity: 0.00169086
+[IMU] Angular Velocity: -0.00301822
+[IMU] Angular Velocity: -0.00641817
+[IMU] Angular Velocity: -0.0105297
+[IMU] Angular Velocity: -0.00743421
+[Odom] Published Sensor Position - x: 6.94027, y: -0.193121
+[Odom] Published Sensor Linear Vel: -0.000520377, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00316803
+[IMU] Angular Velocity: 0.00347631
+[IMU] Angular Velocity: 0.00859295
+[IMU] Angular Velocity: 0.00673108
+[IMU] Angular Velocity: 0.0152001
+[IMU] Angular Velocity: 0.0056946
+[IMU] Angular Velocity: -0.000263419
+[IMU] Angular Velocity: 0.000339125
+[IMU] Angular Velocity: -0.00024845
+[IMU] Angular Velocity: 0.00155296
+[Odom] Published Sensor Position - x: 6.95079, y: -0.175055
+[Odom] Published Sensor Linear Vel: 0.000108713, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.010638
+[IMU] Angular Velocity: 0.01578
+[IMU] Angular Velocity: 0.0208911
+[IMU] Angular Velocity: 0.0236901
+[IMU] Angular Velocity: 0.019587
+[IMU] Angular Velocity: 0.0111803
+[IMU] Angular Velocity: 0.00902801
+[IMU] Angular Velocity: 0.000921087
+[IMU] Angular Velocity: -0.00499066
+[IMU] Angular Velocity: -0.00325973
+[Odom] Published Sensor Position - x: 6.90909, y: -0.270205
+[Odom] Published Sensor Linear Vel: -0.000228179, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 7.75334e-05
+[IMU] Angular Velocity: -0.00789036
+[IMU] Angular Velocity: -0.0168969
+[IMU] Angular Velocity: -0.0172276
+[IMU] Angular Velocity: -0.023788
+[IMU] Angular Velocity: -0.0289101
+[IMU] Angular Velocity: -0.0172756
+[IMU] Angular Velocity: -0.016608
+[IMU] Angular Velocity: -0.0154557
+[IMU] Angular Velocity: -0.0138904
+[Odom] Published Sensor Position - x: 6.95423, y: -0.186907
+[Odom] Published Sensor Linear Vel: -0.000972328, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0142876
+[IMU] Angular Velocity: -0.0210517
+[IMU] Angular Velocity: -0.0212468
+[IMU] Angular Velocity: -0.0280724
+[IMU] Angular Velocity: -0.0299633
+[IMU] Angular Velocity: -0.0327498
+[IMU] Angular Velocity: -0.023002
+[IMU] Angular Velocity: -0.0248246
+[IMU] Angular Velocity: -0.0266013
+[IMU] Angular Velocity: -0.0196987
+[Odom] Published Sensor Position - x: 6.94517, y: -0.203566
+[Odom] Published Sensor Linear Vel: -0.00137891, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0229674
+[IMU] Angular Velocity: -0.0275071
+[IMU] Angular Velocity: -0.0272403
+[IMU] Angular Velocity: -0.0204922
+[IMU] Angular Velocity: -0.00859067
+[IMU] Angular Velocity: -0.0139934
+[IMU] Angular Velocity: -0.00709189
+[IMU] Angular Velocity: -0.00203787
+[IMU] Angular Velocity: 0.00281946
+[IMU] Angular Velocity: 0.00563853
+[Odom] Published Sensor Position - x: 6.93114, y: -0.203176
+[Odom] Published Sensor Linear Vel: 0.000394698, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00814966
+[IMU] Angular Velocity: 0.0164773
+[IMU] Angular Velocity: 0.00895622
+[IMU] Angular Velocity: 0.0125423
+[IMU] Angular Velocity: 0.00155732
+[IMU] Angular Velocity: -0.000446673
+[IMU] Angular Velocity: 0.00682693
+[IMU] Angular Velocity: 0.00730934
+[IMU] Angular Velocity: 0.00807087
+[IMU] Angular Velocity: 0.00197862
+[Odom] Published Sensor Position - x: 6.96231, y: -0.236521
+[Odom] Published Sensor Linear Vel: 0.000138503, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00301182
+[IMU] Angular Velocity: 0.00227471
+[IMU] Angular Velocity: 0.00498025
+[IMU] Angular Velocity: 0.006354
+[IMU] Angular Velocity: 0.0129949
+[IMU] Angular Velocity: 0.00965723
+[IMU] Angular Velocity: 0.00671393
+[IMU] Angular Velocity: 0.0133224
+[IMU] Angular Velocity: 0.0211742
+[IMU] Angular Velocity: 0.021665
+[Odom] Published Sensor Position - x: 6.93255, y: -0.244258
+[Odom] Published Sensor Linear Vel: 0.00151655, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0149074
+[IMU] Angular Velocity: 0.0148692
+[IMU] Angular Velocity: 0.0137616
+[IMU] Angular Velocity: 0.0122887
+[IMU] Angular Velocity: 0.00272262
+[IMU] Angular Velocity: 0.00354327
+[IMU] Angular Velocity: 0.00137493
+[IMU] Angular Velocity: -0.0063475
+[IMU] Angular Velocity: -0.0143756
+[IMU] Angular Velocity: -0.00702065
+[Odom] Published Sensor Position - x: 6.95759, y: -0.184707
+[Odom] Published Sensor Linear Vel: -0.000491446, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0103587
+[IMU] Angular Velocity: -0.00376415
+[IMU] Angular Velocity: -0.00623724
+[IMU] Angular Velocity: -0.00932077
+[IMU] Angular Velocity: -0.00210822
+[IMU] Angular Velocity: -0.00398337
+[IMU] Angular Velocity: -0.006942
+[IMU] Angular Velocity: -0.0151349
+[IMU] Angular Velocity: -0.00626111
+[IMU] Angular Velocity: -0.00761727
+[Odom] Published Sensor Position - x: 6.92696, y: -0.185048
+[Odom] Published Sensor Linear Vel: -0.000533209, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.000423523
+[IMU] Angular Velocity: -0.00655814
+[IMU] Angular Velocity: 0.00226363
+[IMU] Angular Velocity: -0.000991208
+[IMU] Angular Velocity: 0.00718642
+[IMU] Angular Velocity: 0.00995526
+[IMU] Angular Velocity: 0.00429757
+[IMU] Angular Velocity: -0.00227343
+[IMU] Angular Velocity: -0.000101214
+[IMU] Angular Velocity: 0.00535008
+[Odom] Published Sensor Position - x: 6.95197, y: -0.182341
+[Odom] Published Sensor Linear Vel: 0.000374506, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0105996
+[IMU] Angular Velocity: -0.000245359
+[IMU] Angular Velocity: 0.00513623
+[IMU] Angular Velocity: 0.00864833
+[IMU] Angular Velocity: 0.00462678
+[IMU] Angular Velocity: 0.0075107
+[IMU] Angular Velocity: 0.00564479
+[IMU] Angular Velocity: 0.00661671
+[IMU] Angular Velocity: -0.00230358
+[IMU] Angular Velocity: -0.00312144
+[Odom] Published Sensor Position - x: 6.98044, y: -0.227471
+[Odom] Published Sensor Linear Vel: -0.000218501, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.000399143
+[IMU] Angular Velocity: 0.0083656
+[IMU] Angular Velocity: 0.00212961
+[IMU] Angular Velocity: -0.00468632
+[IMU] Angular Velocity: 0.00231596
+[IMU] Angular Velocity: 0.0083684
+[IMU] Angular Velocity: 0.00997549
+[IMU] Angular Velocity: 0.00533651
+[IMU] Angular Velocity: 0.0145743
+[IMU] Angular Velocity: 0.0110292
+[Odom] Published Sensor Position - x: 6.98288, y: -0.224751
+[Odom] Published Sensor Linear Vel: 0.000772041, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.001356
+[IMU] Angular Velocity: 0.0111058
+[IMU] Angular Velocity: 0.0105064
+[IMU] Angular Velocity: 0.000182679
+[IMU] Angular Velocity: 0.00559863
+[IMU] Angular Velocity: -0.000245807
+[IMU] Angular Velocity: 0.000981886
+[IMU] Angular Velocity: -0.00890798
+[IMU] Angular Velocity: -0.00183714
+[IMU] Angular Velocity: -0.000523345
+[Odom] Published Sensor Position - x: 6.95058, y: -0.185753
+[Odom] Published Sensor Linear Vel: -3.66342e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00687633
+[IMU] Angular Velocity: 0.00495129
+[IMU] Angular Velocity: 0.0144218
+[IMU] Angular Velocity: 0.0200306
+[IMU] Angular Velocity: 0.0233601
+[IMU] Angular Velocity: 0.026087
+[IMU] Angular Velocity: 0.0177251
+[IMU] Angular Velocity: 0.0239025
+[IMU] Angular Velocity: 0.0277444
+[IMU] Angular Velocity: 0.0246528
+[Odom] Published Sensor Position - x: 6.9231, y: -0.216889
+[Odom] Published Sensor Linear Vel: 0.00172569, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0164118
+[IMU] Angular Velocity: 0.00591176
+[IMU] Angular Velocity: 0.00047703
+[IMU] Angular Velocity: -0.00919825
+[IMU] Angular Velocity: -0.00693227
+[IMU] Angular Velocity: -0.0159023
+[IMU] Angular Velocity: -0.0189569
+[IMU] Angular Velocity: -0.0241275
+[IMU] Angular Velocity: -0.013829
+[IMU] Angular Velocity: -0.0177206
+[Odom] Published Sensor Position - x: 6.96525, y: -0.22299
+[Odom] Published Sensor Linear Vel: -0.00124044, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0208042
+[IMU] Angular Velocity: -0.0142723
+[IMU] Angular Velocity: -0.00950647
+[IMU] Angular Velocity: 0.000638745
+[IMU] Angular Velocity: 0.00127582
+[IMU] Angular Velocity: 0.00236493
+[IMU] Angular Velocity: 0.00571423
+[IMU] Angular Velocity: 0.0144523
+[IMU] Angular Velocity: 0.014172
+[IMU] Angular Velocity: 0.0146158
+[Odom] Published Sensor Position - x: 6.94831, y: -0.236836
+[Odom] Published Sensor Linear Vel: 0.00102311, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00718924
+[IMU] Angular Velocity: 0.00320223
+[IMU] Angular Velocity: 0.000977641
+[IMU] Angular Velocity: 0.00817002
+[IMU] Angular Velocity: 0.00229877
+[IMU] Angular Velocity: 0.00781241
+[IMU] Angular Velocity: 0.00300335
+[IMU] Angular Velocity: 0.00714589
+[IMU] Angular Velocity: -0.00156212
+[IMU] Angular Velocity: 0.00060676
+[Odom] Published Sensor Position - x: 6.89723, y: -0.260582
+[Odom] Published Sensor Linear Vel: 4.24732e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0016613
+[IMU] Angular Velocity: 0.0113996
+[IMU] Angular Velocity: 0.0150593
+[IMU] Angular Velocity: 0.0182636
+[IMU] Angular Velocity: 0.0235958
+[IMU] Angular Velocity: 0.0130947
+[IMU] Angular Velocity: 0.0217579
+[IMU] Angular Velocity: 0.0121809
+[IMU] Angular Velocity: 0.0195221
+[IMU] Angular Velocity: 0.0244938
+[Odom] Published Sensor Position - x: 6.91921, y: -0.225469
+[Odom] Published Sensor Linear Vel: 0.00171456, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0293316
+[IMU] Angular Velocity: 0.0174925
+[IMU] Angular Velocity: 0.0196001
+[IMU] Angular Velocity: 0.0125146
+[IMU] Angular Velocity: 0.0208823
+[IMU] Angular Velocity: 0.0166108
+[IMU] Angular Velocity: 0.0161077
+[IMU] Angular Velocity: 0.011473
+[IMU] Angular Velocity: 0.0145304
+[IMU] Angular Velocity: 0.00843515
+[Odom] Published Sensor Position - x: 6.97687, y: -0.262106
+[Odom] Published Sensor Linear Vel: 0.000590461, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00148028
+[IMU] Angular Velocity: 0.00176871
+[IMU] Angular Velocity: 0.000652593
+[IMU] Angular Velocity: -0.00826773
+[IMU] Angular Velocity: -0.0035178
+[IMU] Angular Velocity: 0.00681501
+[IMU] Angular Velocity: 0.0108976
+[IMU] Angular Velocity: 0.0161401
+[IMU] Angular Velocity: 0.00540997
+[IMU] Angular Velocity: -0.00477691
+[Odom] Published Sensor Position - x: 6.9824, y: -0.191444
+[Odom] Published Sensor Linear Vel: -0.000334383, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.000793082
+[IMU] Angular Velocity: 0.00866407
+[IMU] Angular Velocity: 0.0154479
+[IMU] Angular Velocity: 0.0136557
+[IMU] Angular Velocity: 0.0151746
+[IMU] Angular Velocity: 0.0153806
+[IMU] Angular Velocity: 0.0196024
+[IMU] Angular Velocity: 0.0245719
+[IMU] Angular Velocity: 0.0138942
+[IMU] Angular Velocity: 0.00949441
+[Odom] Published Sensor Position - x: 6.93858, y: -0.192653
+[Odom] Published Sensor Linear Vel: 0.000664609, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.000768244
+[IMU] Angular Velocity: -0.00737752
+[IMU] Angular Velocity: -0.0139314
+[IMU] Angular Velocity: -0.0157182
+[IMU] Angular Velocity: -0.0217414
+[IMU] Angular Velocity: -0.0149676
+[IMU] Angular Velocity: -0.0174797
+[IMU] Angular Velocity: -0.0100474
+[IMU] Angular Velocity: -0.00806923
+[IMU] Angular Velocity: -0.011677
+[Odom] Published Sensor Position - x: 6.94145, y: -0.201809
+[Odom] Published Sensor Linear Vel: -0.000817389, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00851584
+[IMU] Angular Velocity: -0.00702312
+[IMU] Angular Velocity: -0.000175198
+[IMU] Angular Velocity: -0.00682024
+[IMU] Angular Velocity: -0.0108249
+[IMU] Angular Velocity: -0.00351701
+[IMU] Angular Velocity: 0.00254105
+[IMU] Angular Velocity: 0.0122191
+[IMU] Angular Velocity: 0.00249257
+[IMU] Angular Velocity: -0.00633079
+[Odom] Published Sensor Position - x: 6.91863, y: -0.188721
+[Odom] Published Sensor Linear Vel: -0.000443155, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00231339
+[IMU] Angular Velocity: 0.00937648
+[IMU] Angular Velocity: 0.011588
+[IMU] Angular Velocity: 0.00745167
+[IMU] Angular Velocity: 0.0108591
+[IMU] Angular Velocity: 0.0105825
+[IMU] Angular Velocity: 0.00417282
+[IMU] Angular Velocity: 0.0121342
+[IMU] Angular Velocity: 0.0167777
+[IMU] Angular Velocity: 0.0201362
+[Odom] Published Sensor Position - x: 6.96046, y: -0.26046
+[Odom] Published Sensor Linear Vel: 0.00140953, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0206342
+[IMU] Angular Velocity: 0.00972972
+[IMU] Angular Velocity: 0.00437634
+[IMU] Angular Velocity: -0.000962394
+[IMU] Angular Velocity: -0.00312762
+[IMU] Angular Velocity: 0.00405853
+[IMU] Angular Velocity: 0.00640352
+[IMU] Angular Velocity: 0.00480587
+[IMU] Angular Velocity: 0.00979761
+[IMU] Angular Velocity: 0.0073079
+[Odom] Published Sensor Position - x: 6.95239, y: -0.248048
+[Odom] Published Sensor Linear Vel: 0.000511553, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.00656963
+[IMU] Angular Velocity: 0.00753426
+[IMU] Angular Velocity: 0.00440706
+[IMU] Angular Velocity: -0.00151297
+[IMU] Angular Velocity: 0.00261473
+[IMU] Angular Velocity: 0.00223831
+[IMU] Angular Velocity: 0.00230695
+[IMU] Angular Velocity: 0.0104208
+[IMU] Angular Velocity: 0.00201591
+[IMU] Angular Velocity: -0.00124816
+[Odom] Published Sensor Position - x: 6.90624, y: -0.194226
+[Odom] Published Sensor Linear Vel: -8.73709e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00354848
+[IMU] Angular Velocity: -0.00391247
+[IMU] Angular Velocity: 0.00222472
+[IMU] Angular Velocity: -0.00251221
+[IMU] Angular Velocity: -0.00899107
+[IMU] Angular Velocity: -0.000108474
+[IMU] Angular Velocity: -0.00669328
+[IMU] Angular Velocity: -0.0100613
+[IMU] Angular Velocity: -0.00980187
+[IMU] Angular Velocity: -0.00945222
+[Odom] Published Sensor Position - x: 6.91012, y: -0.234035
+[Odom] Published Sensor Linear Vel: -0.000661656, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00529759
+[IMU] Angular Velocity: -0.00937282
+[IMU] Angular Velocity: -0.0010114
+[IMU] Angular Velocity: 0.00359531
+[IMU] Angular Velocity: -0.000939208
+[IMU] Angular Velocity: 0.00163061
+[IMU] Angular Velocity: 0.00289594
+[IMU] Angular Velocity: 0.00589444
+[IMU] Angular Velocity: 0.00938989
+[IMU] Angular Velocity: -0.000174573
+[Odom] Published Sensor Position - x: 6.9403, y: -0.234996
+[Odom] Published Sensor Linear Vel: -1.22201e-05, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.00388041
+[IMU] Angular Velocity: -0.0123731
+[IMU] Angular Velocity: -0.00595153
+[IMU] Angular Velocity: -0.00678149
+[IMU] Angular Velocity: -0.00505251
+[IMU] Angular Velocity: -0.01448
+[IMU] Angular Velocity: -0.00845855
+[IMU] Angular Velocity: 0.00172741
+[IMU] Angular Velocity: 0.00235015
+[IMU] Angular Velocity: 0.00369777
+[Odom] Published Sensor Position - x: 6.91306, y: -0.201731
+[Odom] Published Sensor Linear Vel: 0.000258844, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0107516
+[IMU] Angular Velocity: 0.0156263
+[IMU] Angular Velocity: 0.0160793
+[IMU] Angular Velocity: 0.0224836
+[IMU] Angular Velocity: 0.0175107
+[IMU] Angular Velocity: 0.0120852
+[IMU] Angular Velocity: 0.00850502
+[IMU] Angular Velocity: 0.00912201
+[IMU] Angular Velocity: 0.000898409
+[IMU] Angular Velocity: 0.00814989
+[Odom] Published Sensor Position - x: 6.96587, y: -0.246226
+[Odom] Published Sensor Linear Vel: 0.000570493, Angular Vel (z=0): 0
+[IMU] Angular Velocity: 0.0132966
+[IMU] Angular Velocity: 0.0085121
+[IMU] Angular Velocity: 0.00696494
+[IMU] Angular Velocity: 0.0132256
+[IMU] Angular Velocity: 0.0176109
+[IMU] Angular Velocity: 0.0250579
+[IMU] Angular Velocity: 0.0156388
+[IMU] Angular Velocity: 0.00484728
+[IMU] Angular Velocity: 0.00159756
+[IMU] Angular Velocity: -0.00834006
+[Odom] Published Sensor Position - x: 6.93182, y: -0.228834
+[Odom] Published Sensor Linear Vel: -0.000583804, Angular Vel (z=0): 0
+[IMU] Angular Velocity: -0.0125254
